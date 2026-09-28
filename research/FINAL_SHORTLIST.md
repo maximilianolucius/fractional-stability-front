@@ -52,3 +52,40 @@ Main unresolved killers:
 - persistent-memory switching: merged into Family C.
 
 No family is yet selected as the final recommendation.
+
+
+---
+
+# Final Chief disposition after ROUND-0017
+
+## Primary recommendation
+
+**Family A — Deterministic reachable memory-state basin geometry**
+
+Status: **RECOMMENDED PRIMARY RESEARCH OPPORTUNITY.**
+
+Exact object:
+
+[
+mathcal F_x=e_0^{-1}(x)capmathcal R_alpha
+]
+
+and whether (mathcal F_x) can intersect extinction and survival/coexistence basins in a natural positive multidimensional Caputo system.
+
+## Secondary
+
+**Family B — Robust multibasin threshold geometry**
+
+Status: **RETAINED, REFORMULATED.**
+
+The broad robust-persistence claim is rejected. The residual is multibasin topology/separator robustness under parameter/order/kernel perturbations.
+
+## High-risk future
+
+**Family C — Rare extinction / basin exit in stochastic fractional memory**
+
+Status: **RETAINED, REFORMULATED.**
+
+The broad stochastic-persistence claim is rejected. The residual is quasipotential/action and exit-time theory for singular fractional-memory multistability.
+
+See research/FINAL_RECOMMENDATION.md for the final project-level recommendation.
