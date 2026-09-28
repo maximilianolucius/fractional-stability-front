@@ -142,3 +142,19 @@ Chief Researcher ↔ Web Searcher communication is repository-native and Markdow
 - `research/coordination/chief-decisions/`
 
 Git history is part of the provenance chain.
+
+
+## Project outcome — 2026-09-28
+
+The research-gap discovery phase is complete.
+
+The principal opportunity identified is **deterministic reachable memory-state basin geometry** for positive multidimensional Caputo systems, with strong/Double-Allee dynamics as the preferred direct realization.
+
+The central question is whether two physically reachable fractional-memory states with the same currently observed population vector can belong to different asymptotic basins, especially extinction versus survival/coexistence.
+
+See:
+- research/FINAL_RECOMMENDATION.md
+- research/FINAL_SHORTLIST.md
+- research/coordination/chief-decisions/ROUND-0017_shortlist-final-killer-audit_DECISION.md
+
+Future theorem proving based on this opportunity belongs to a separate project. This repository may still support a state-of-the-art/review paper based on the completed cartography.
