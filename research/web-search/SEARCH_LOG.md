@@ -105,3 +105,95 @@ Backward/forward and same-author follow-up searches were used around Matignon, S
 ## Provenance discipline
 
 For each source used in a theorem or novelty statement, prefer the original publication or an author manuscript. Abstract-only sources are marked as such in the source registry and should not be promoted to exact theorem evidence without further verification.
+
+---
+
+## 2026-09-28 — ROUND-0003 structured conic D-stability
+
+**Question.** Are finite exact structure-sensitive conic-sector multiplicative D-stability criteria already known?
+
+**Sources searched.** Publisher archives (Elsevier/SIAM/IEEE), NIST historical publications, matrix-analysis reviews, ecological stability reviews, institutional copies.
+
+**Historical/classical passes included:**
+- `D-stable matrix necessary sufficient characterization`
+- `second third fourth order D-stability`
+- `tridiagonal D-stable matrices characterization`
+- `acyclic D-stable matrices`
+- `D-stability NP-hard structured singular value`
+- `Metzler D-stability diagonal stability Hurwitz`
+- `qualitative sign D-stability graph`
+- `ecological community matrix D-stability`
+- `conic sector relative D-stability acyclic tridiagonal Metzler`
+
+**Decisive results.**
+- Johnson 1974: explicit low-dimensional conditions (2–4).
+- Carlson–Datta–Johnson 1982: exact tridiagonal D-stability.
+- Berman–Hershkowitz 1984: exact acyclic D-stability.
+- Chen–Fan–Yu 1995: real-structured-singular-value iff formulation; general checking may be NP-hard.
+- Narendra–Shorten 2009: strong Metzler Hurwitz/diagonal-stability structure.
+- Complete qualitative/sign stability graph theory predates the current project.
+
+**Negative search.** No finite exact conic-sector analogue for a nontrivial cyclic/non-Metzler ecological/sign class was identified.
+
+**Classification.** F-002 = **OPEN ONLY FOR A SHARPLY SPECIFIED SUBCLASS**.
+
+**Dated note:** `research/web-search/2026-09-28_conic-d-stability-structured.md`.
+
+---
+
+## 2026-09-28 — ROUND-0004 double dormancy + network falsification
+
+**Question.** Is a general double-dormancy composition theorem or network transformation theorem already subsumed by adjacent theory?
+
+**Query families included:**
+- `double dormancy Allee mathematical model`
+- `two component Allee effects threshold theorem`
+- `emergent Allee threshold weak component effects`
+- `stage specific predation emergent Allee`
+- `component Allee demographic aggregation`
+- `bistable network persistence extinction graph`
+- `source sink dynamics network bistable`
+- `graph Laplacian Allee threshold`
+- `metapopulation rescue Allee threshold`
+
+**Decisive results.**
+- Berec 2007 already gives a concrete two-component model and partial analytical threshold logic for double dormancy.
+- Lan 2025 directly studies a stochastic single-species system with two component Allee effects and rigorous threshold dynamics.
+- de Roos et al. 2003 / van Kooten et al. 2005 prove emergent-Allee conditions under stage/trophic mechanisms.
+- Jorge–Martinez-Garcia 2024 structurally links a component effect to a demographic effect through aggregation.
+- Stehlík–Švígler–Volek 2023 gives arbitrary-connected-graph persistence/extinction thresholds for heterogeneous logistic/bistable local dynamics.
+
+**Classifications.**
+- C-DA-1: **PARTIAL/CLOSE PRIOR ART; survives only as a sharp component-function composition theorem.**
+- C-DA-2: **CLOSE PRIOR ART; generic graph persistence/extinction route is largely covered.**
+
+**Dated note:** `research/web-search/2026-09-28_double-dormancy-network-falsification.md`.
+
+---
+
+## 2026-09-28 — ROUND-0005 data + identifiability
+
+**Question.** Can real data support component/threshold/memory identification, and is the island-fox dataset openly reusable?
+
+**Island fox trace.** Exact-title/DOI/author searches plus Dryad/Zenodo/Figshare/OSF/NPS/IRMA searches found monitoring documentation and reports but **no open machine-readable copy of the exact 1988–2000 Angulo dataset**.
+
+**Alternative data search.**
+- Atlantic herring: open supplementary XLS; nine stocks.
+- Northwest Atlantic cod: open Dryad CC0 dataset.
+- Freshwater mussel fertilization: open Dryad individual/component data.
+- Spongy moth: real release–recapture mechanism experiment; raw repository not verified.
+- Crested Ibis: empirical survival + reproduction component effects; raw repository not verified.
+
+**Identifiability search.**
+- ecological Allee model discrimination/data deletion;
+- structural identifiability for fractional models;
+- fractional network structural identifiability;
+- integer/fractional/time-delay model comparison;
+- simultaneous fractional-order + delay identification under colored/measurement noise.
+
+**Key result.** The literature does not justify claiming fractional order and delay/noise are intrinsically inseparable; controlled identification can estimate them jointly. The problem for this project is observational design: passive field data have weak excitation and strong latent/intervention confounding.
+
+**Classification.** C-DA-3 = **WEAKENED, NOT KILLED**. Component/threshold identifiability remains credible; fractional memory is not currently supported as the empirical core.
+
+**Dated note:** `research/web-search/2026-09-28_double-allee-data-identifiability.md`.
+
