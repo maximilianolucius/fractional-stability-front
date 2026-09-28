@@ -132,3 +132,27 @@ A key novelty filter is now mandatory:
 > If changing fractional order leaves (f(x,mu)=0) unchanged, equilibrium branch existence/location is not itself fractional novelty.
 
 ROUND-0011 audits whether D10-D is substantive or collapses under comparison/stable-manifold theory.
+
+
+## ROUND-0011 Chief correction
+
+The scalar strong-Allee route is closed under standard Caputo separation/nonintersection assumptions:
+
+[
+x_0<a Rightarrow x(t)<a,
+qquad
+x_0>a Rightarrow x(t)>a.
+]
+
+Thus changing fractional order does not move the scalar equilibrium Allee barrier when the RHS is unchanged.
+
+The surviving multidimensional frontier is now explicitly a **memory-state** question:
+
+- full survival/extinction basin in the Caputo/Volterra semidynamical state;
+- its intersection with the physical IVP embedding;
+- order dependence of that sliced boundary;
+- relation to basin-relative persistence.
+
+Direct numerical prior already exists for (alpha)-dependent physical-slice basins in fractional Allee/Double-Allee models. What remains unverified is a rigorous general theorem.
+
+ROUND-0012 tests whether this candidate is physically reachable and genuinely fractional rather than an artifact of the enlarged state space.
