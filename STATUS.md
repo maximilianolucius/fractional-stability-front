@@ -2,152 +2,131 @@
 
 ## Current phase
 
-**Phase 1 — Verified seed corpus + adversarial frontier falsification**
+**Phase 2 — Candidate convergence + final novelty gate**
 
-Phase 0 is complete.
+Phase 0 (protocol/pilot) and the first adversarial seed/falsification wave are complete.
 
-The repository now contains:
-- a populated seed corpus;
-- theorem-level extraction;
-- source/query/novelty provenance;
-- Chief decisions for the first two research rounds;
-- promoted theorem/frontier/open-problem nodes;
-- explicit candidate directions for the Double Allee branch.
+## Completed Chief-reviewed rounds
 
-## Phase 0 exit criteria
+- ROUND-0001 — fractional stability seed: ACCEPT WITH RESERVATIONS.
+- ROUND-0002 — Double Allee terminology seed: ACCEPT WITH RESERVATIONS.
+- ROUND-0003 — structured conic D-stability: ACCEPT WITH RESERVATIONS; matrix route deprioritized.
+- ROUND-0004 — double dormancy/network falsification: ACCEPT WITH RESERVATIONS; composition survives, broad network route rejected.
+- ROUND-0005 — data/identifiability: ACCEPT; identifiability merged into the leading program and fractional memory removed from the empirical core.
 
-- [x] Research questions frozen as protocol v1.
-- [x] Inclusion/exclusion criteria frozen.
-- [x] Search query families defined.
-- [x] Search-source coverage and provenance registry tested.
-- [x] Extraction schema tested on a verified pilot corpus.
-- [x] Terminology conflicts identified from actual sources.
-- [x] Seed-paper strategy defined.
-- [x] Search/export provenance conventions tested in practice.
-- [x] Double Allee terminology reconciled at seed level.
-- [x] Chief adversarial review of ROUND-0001 and ROUND-0002 completed.
+Decision files are under:
 
-## Completed rounds
+research/coordination/chief-decisions/
 
-### ROUND-0001 — Fractional stability seed
+## Main scientific eliminations
 
-**Disposition:** ACCEPT WITH RESERVATIONS  
-**Decision:** research/coordination/chief-decisions/ROUND-0001_fractional-stability-seed_DECISION.md
-
-Main consequence:
-
-> The broad hypothesis that multiplicative positive-diagonal stability relative to a fractional/conic spectral sector is a missing theory is rejected.
-
-Generalized regional D-stability in conic/LMI regions already provides direct prior art.
-
-The surviving matrix question is narrower: exact finite/structural characterizations for special matrix classes.
-
-### ROUND-0002 — Double Allee terminology seed
-
-**Disposition:** ACCEPT WITH RESERVATIONS  
-**Decision:** research/coordination/chief-decisions/ROUND-0002_double-allee-terminology-seed_DECISION.md
-
-Main consequences:
-
-- “Double Allee” is not one standardized mathematical object.
-- Multiple component mechanisms must be separated from demographic threshold count.
-- Simple Caputo, incommensurate, discrete-fractional, and continuum-diffusion extensions are already prior art.
-- The most interesting newly sharpened concept is **double dormancy**: two component effects that individually fail to create a strong demographic threshold but jointly create one.
-- Island fox is a strong empirical system lead, but raw-data access is not yet established.
-
-## Active P0 rounds
-
-### ROUND-0003 — Structured conic D-stability
-
-**Request:** research/coordination/chief-to-web/ROUND-0003_conic-d-stability-structured_REQUEST.md  
-**Status:** OPEN
-
-Purpose:
-- search exact finite criteria;
-- audit classical D-stability complexity;
-- search qualitative/sign/graph classes;
-- determine whether C-DA-4 survives.
-
-### ROUND-0004 — Double dormancy + network falsification
-
-**Request:** research/coordination/chief-to-web/ROUND-0004_double-dormancy-network-falsification_REQUEST.md  
-**Status:** OPEN
-
-Purpose:
-- search for a general composition theorem for emergent strong thresholds;
-- search non-Allee vocabulary;
-- test whether bistable/network/metapopulation theory already subsumes the candidate;
-- determine whether C-DA-1 and C-DA-2 survive.
-
-### ROUND-0005 — Data + identifiability
-
-**Request:** research/coordination/chief-to-web/ROUND-0005_double-allee-data-identifiability_REQUEST.md  
-**Status:** OPEN
-
-Purpose:
-- trace raw island-fox data;
-- inspect at least three alternative empirical systems;
-- audit structural/practical identifiability;
-- explicitly test memory-vs-delay/noise confounding;
-- determine whether C-DA-3 is scientifically viable.
-
-## Current Chief scientific position
-
-### What is now closed
-
-The project will **not** pursue as primary novelty:
+The project will not pursue as primary novelty:
 
 - generic Matignon/LMI reformulations;
-- “fractional D-stability” as a broad new concept;
+- broad “fractional D-stability”;
 - Double Allee + Caputo;
 - Double Allee + incommensurate order;
 - Double Allee + discrete fractional dynamics;
 - Double Allee + continuum diffusion;
-- another planar predator–prey bifurcation paper without a structural theorem.
+- another planar predator–prey bifurcation paper;
+- generic “network topology changes an Allee threshold”;
+- generic fractional-system identifiability.
 
-### What remains potentially strong
+## Leading candidate program
 
-The main surviving theorem hypotheses are:
+The project has converged on:
 
-1. **composition theorem for double dormancy / emergent demographic threshold;**
-2. **network transformation theorem for that emergent threshold;**
-3. **joint identifiability theorem/analysis for component mechanisms, threshold geometry, and memory;**
-4. **exact structured conic-D-stability theorem for a biologically natural Jacobian class**, only if ROUND-0003 leaves a real gap.
+**Mechanism-resolved multiple Allee effects: exact threshold composition + structural identifiability.**
 
-No candidate is yet promoted to PRIMARY_DIRECTION.md.
+Frozen mathematical formulation:
 
-## Chief audit correction log
+research/double-allee/MECHANISM_RESOLVED_FRAMEWORK.md
 
-### 2026-09-28 — Zhang/Huang 2017 metadata correction
+Core forward problem:
 
-For DOI 10.1016/j.laa.2017.06.018, publisher metadata gives:
+V_S(x)=B(x) product_{i in S} A_i(x)
 
-- **Xuefeng Zhang**
-- **Wenchao Huang**
+with component deletion A_i -> 1.
 
-The seed corpus/bibliography had incorrect given names. The corpus and BibTeX have been corrected.
+Core inverse problem:
 
-This correction does not change the mathematical assessment, but demonstrates why source metadata are independently audited before manuscript use.
+hidden factorization of
 
-## Current evidence map
+P(x)=product_i A_i(x)
 
-Promoted files:
+from aggregate demographic trajectories.
 
-- research/theorem-map.md
-- research/frontier-map.md
-- research/open-problems.md
-- research/double-allee/CANDIDATE_DIRECTIONS.md
-- research/double-allee/NOVELTY_AUDIT.md
-- research/double-allee/DATASETS.md
+Candidate theorem sequence:
 
-PRIMARY_DIRECTION.md remains intentionally unselected.
+1. exact threshold classification under shape constraints;
+2. double-dormancy composition criterion;
+3. threshold comparative statics / fold boundary;
+4. structural non-identifiability of component factorization;
+5. minimal component-observation theorem;
+6. network/fractional invariance as possible corollary/extension;
+7. empirical observation-design demonstration.
+
+## Why the network route was narrowed
+
+Stehlík–Švígler–Volek 2023 and related work already provide graph persistence/extinction theory for bistable/Allee-like local dynamics.
+
+Network structure remains relevant only if the theorem keeps the internal component decomposition visible or addresses identifiability rather than generic persistence.
+
+## Why fractional memory was narrowed
+
+Current empirical evidence supports threshold/component inference but does not justify making fractional order a required ecological parameter.
+
+Fractional dynamics may re-enter naturally through an operator-invariance result: changing the left-hand-side operator does not resolve a hidden right-hand-side factorization if the composite mechanism is unchanged.
+
+## Data posture
+
+### Open immediately usable benchmarks
+- Atlantic herring;
+- Northwest Atlantic cod;
+- freshwater mussel fertilization.
+
+### High-value biological targets with unresolved raw access
+- island fox;
+- Crested Ibis.
+
+The theoretical paper must not depend on obtaining closed data.
+
+## Active round
+
+### ROUND-0006 — Mechanism-resolved final novelty gate
+
+**Priority:** P0  
+**Status:** OPEN  
+**Request:** research/coordination/chief-to-web/ROUND-0006_mechanism-resolved-final-novelty_REQUEST.md
+
+This round searches the exact frozen formulas and adjacent:
+- demographic/life-cycle theory;
+- factorized nonlinear models;
+- structural-identifiability symmetries;
+- nonparametric product decomposition;
+- minimal-output observability;
+- integrated population models.
+
+## PRIMARY_DIRECTION.md
+
+Still intentionally unselected.
+
+It will be populated only if ROUND-0006 fails to find a theorem/program that subsumes the frozen forward + inverse formulation at comparable generality.
+
+## Chief audit note
+
+Independent Chief web verification confirmed:
+- Berec et al. explicitly frame multiple-effect interaction as an unresolved issue and define double dormancy;
+- Lan 2025 directly studies threshold dynamics with two component Allee effects;
+- Stehlík et al. 2023 covers persistence/extinction on arbitrary connected graphs with mixed logistic/bistable local dynamics;
+- recent N-patch strong-Allee bifurcation work further weakens generic network novelty.
 
 ## Next Chief action
 
-When ROUND-0003/0004/0005 returns are committed:
+After ROUND-0006:
 
-1. audit each independently;
-2. kill candidates that are subsumed by existing theory;
-3. compare the survivors for theorem depth, generality, data credibility, and proof tractability;
-4. open a final targeted novelty round if needed;
-5. only then select and formalize the primary Double Allee research program.
+1. audit each subclaim separately;
+2. decide whether the novelty lies in an individual theorem or only in the integrated program;
+3. reject if the forward theorem is trivial and the inverse theorem standard;
+4. otherwise populate PRIMARY_DIRECTION.md with a precise theorem dependency graph and manuscript architecture;
+5. only then begin proof-oriented work.
