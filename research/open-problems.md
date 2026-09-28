@@ -142,3 +142,13 @@ It does not solve them.
 **Question:** beyond existence and Lyapunov sufficient criteria, what rigorous global dynamical-systems theory exists for variable-order and distributed-order FDEs, including attractors, bifurcation, persistence/extinction and state-space formulations?
 
 **Double Allee relevance:** unknown; to be evaluated, not assumed.
+
+
+## OP-FS-07 — Stochastic persistence/extinction with fractional memory
+
+**Evidence class:** D  
+**Status:** active mapping in ROUND-0015.
+
+**Question:** for genuine time-fractional stochastic or randomly switched systems, what general theory exists for positivity, persistence/extinction, random attractors, rare basin exits and switching with persistent versus reset memory?
+
+**Double Allee relevance:** high if the theory genuinely couples memory with bistable extinction/survival structure.
