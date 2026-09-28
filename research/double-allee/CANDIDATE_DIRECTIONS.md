@@ -1,159 +1,81 @@
 # Double Allee — Candidate Directions
 
-**Status:** post-ROUND-0003/0004/0005 Chief synthesis, 2026-09-28.
+**Status:** opportunity discovery only. No primary direction is selected.
 
-The candidate set has been reduced substantially.
+The Double Allee branch is a preferred lens inside the broader domain:
 
-## C-DA-1 — Mechanism-resolved threshold composition
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
 
-**Status:** LEADING CANDIDATE — survives adversarial search, pending final formula-level novelty audit.
+Candidates remain hypotheses until compared against the broader domain map.
 
-### Core question
+## C-DA-1 — Persistence-filtered mechanism composition
 
-For a controlled class of separately interpretable density-dependent component-fitness functions, derive necessary-and-sufficient conditions under which:
+**Status:** RETAINED / NARROWED.
 
-- no component alone produces a strong demographic Allee threshold;
-- the joint composition does produce one;
-- the threshold is unique or multiple;
-- the threshold moves monotonically with mechanism strength;
-- threshold creation occurs through a characterized fold/nondegeneracy condition.
+Core idea:
+- multiple interpretable component mechanisms;
+- individually insufficient low-density effects;
+- joint low-density failure;
+- positive persistence retained elsewhere.
 
-### Required mathematical form
+Rounds 0004–0007 show that most individual tools are standard, but no direct prior theorem was found for the full persistence-filtered ecological object.
 
-The candidate is frozen in:
+**Risk:** synthesis may be mathematically too thin.
 
-research/double-allee/MECHANISM_RESOLVED_FRAMEWORK.md
+See `CANDIDATE_MECHANISM_SPACE_GEOMETRY.md`.
 
-The preferred viability representation is
+## C-DA-2 — Generic network transformation of an Allee threshold
 
-V_S(x)=B(x) product_{i in S} A_i(x),
+**Status:** REJECTED IN BROAD FORM.
 
-with demographic sign determined by V_S-1 and component deletion implemented by A_i -> 1.
+Generic graph/metapopulation persistence and strong-Allee results already exist.
 
-### Strongest prior-art threats
+Only retain a future network candidate if topology interacts with a specifically fractional or component-resolved mechanism in a way not reducible to known bistable network theory.
 
-- Berec–Angulo–Courchamp 2007: multiple effects, double dormancy, concrete two-component model.
-- Guijie Lan 2025: rigorous threshold dynamics for a stochastic single-species model with two component Allee effects.
-- earlier emergent-Allee results from stage/predation structure.
-- generic scalar fold/unimodality theory.
+## C-DA-3 — Mechanism attribution / structural identifiability
 
-### Why it still survives
+**Status:** SUPPORTING TOPIC, NOT HEADLINE GAP.
 
-No searched source yet provides the proposed **general mechanism-resolved composition theorem** with:
-- deletion counterfactuals;
-- individual dormancy;
-- exact joint threshold creation;
-- root-count control;
-- comparative statics;
-- fold boundary;
-- a function class broad enough to be reusable.
+Output-preserving symmetry and minimal-output structural identifiability are established general theories.
 
-### Kill criterion
+Could remain useful when realistic ecological observation operators create a genuinely new question.
 
-Reject if ROUND-0006 finds an equivalent or more general theorem in demographic/life-cycle, bifurcation, factorized-growth, survival–fecundity, or nonlinear-composition literature.
+## C-DA-4 — Structured conic D-stability from a Double Allee Jacobian
 
----
+**Status:** CONDITIONAL / DEPRIORITIZED.
 
-## C-DA-1I — Structural identifiability of the component decomposition
+Retain only if a biologically natural Double Allee model forces a matrix class not covered by established structured/regional D-stability.
 
-**Status:** MERGED INTO C-DA-1 AS A CORE SUPPORTING THEOREM.
+## C-DA-5 — Fractional bifurcation / tipping theory near Double Allee
 
-This replaces the earlier standalone C-DA-3.
+**Status:** NEW MAPPING CANDIDATE.
 
-### Core question
+Potentially direct relevance because Double Allee involves folds, bistability and threshold transitions.
 
-If aggregate demographic dynamics depend on hidden component mechanisms through a composite operator such as
+**No novelty claim yet.**
 
-P(x)=product_i A_i(x),
+Requires systematic mapping of rigorous fractional bifurcation theory before formulation.
 
-what can abundance-only observations identify?
+## C-DA-6 — Incommensurate/multi-order Double Allee stability structure
 
-### Leading theorem hypothesis
+**Status:** NEW MAPPING CANDIDATE.
 
-In a nonparametric multiplicative class,
+Potentially natural if distinct ecological mechanisms carry distinct memory orders.
 
-(A_1,...,A_m) -> (A_1 h_1,...,A_m h_m), with product_i h_i = 1,
+**No novelty claim yet.**
 
-leaves P unchanged.
+Must first establish the general incommensurate state-stability frontier and avoid cosmetic multi-order modeling.
 
-Therefore aggregate state trajectories cannot uniquely identify the individual component mechanisms.
+## C-DA-7 — Robust threshold geometry under order/parameter uncertainty
 
-A second theorem should characterize the component-specific outputs needed to break this equivalence.
+**Status:** NEW MAPPING CANDIDATE.
 
-### Why this strengthens C-DA-1
+Could connect fractional robust stability to persistence/extinction thresholds.
 
-It couples:
-- the **forward problem**: when mechanisms compose to create a threshold;
-- the **inverse problem**: whether those mechanisms can be recovered from data.
+**No novelty claim yet.**
 
-This makes the program applied mathematics rather than a scalar root exercise.
+Requires mapping exact versus sufficient robust fractional results and biological plausibility.
 
-### Fractional/network connection
+## Candidate policy
 
-If the right-hand side depends on the same composite mechanism, replacing the ordinary derivative by a fractional operator or embedding the local dynamics in a known network does not automatically break the component-factor invariance.
-
-This can provide an operator/network-independent non-identifiability result without forcing fractional memory into the empirical model.
-
-### Kill criterion
-
-Reject or sharply narrow if ROUND-0006 finds this factorization non-identifiability and minimal-output result already standard for ecological demographic decomposition.
-
----
-
-## C-DA-2 — Generic network transformation of Allee thresholds
-
-**Status:** REJECTED AS STANDALONE PRIMARY DIRECTION.
-
-### Reason
-
-Stehlík–Švígler–Volek 2023 already gives persistence/extinction theory on arbitrary connected graphs with heterogeneous logistic and bistable local reactions. Lanchier, Nagatani–Ichinose, Zhou–Wang, and 2026 N-patch bifurcation work further raise prior-art density.
-
-A theorem that merely says dispersal/topology changes an Allee threshold is not enough.
-
-### Retained use
-
-Network structure may re-enter only through a mechanism-resolved statement that generic bistable-node theory cannot express, especially:
-
-- whether network state observations can identify hidden component mechanisms;
-- whether component-specific parameter changes propagate into persistence bounds in a way lost after collapsing nodes to generic bistable reactions.
-
----
-
-## C-DA-4 — Structured conic D-stability of ecological Jacobians
-
-**Status:** DEPRIORITIZED / CONDITIONAL.
-
-### Reason
-
-Generalized conic D-stability exists, and classical exact D-stability results already cover:
-- low dimensions;
-- tridiagonal matrices;
-- acyclic matrices;
-- Metzler/positive classes;
-- qualitative/sign stability.
-
-The only plausible residual novelty is a finite exact criterion for a concrete cyclic, non-Metzler class.
-
-### Retained use
-
-After the mechanism-resolved ecological model is fixed, inspect its Jacobian.
-
-Reopen this branch only if the model naturally produces a structurally distinctive matrix family.
-
----
-
-# Current convergence
-
-The candidate program is now:
-
-component mechanisms
--> exact threshold composition
--> structural identifiability
--> minimal observation design
-
-with:
-- network/fractional invariance as a possible theorem extension;
-- real data as validation/observation-design evidence;
-- matrix stability only if forced by the resulting Jacobian class.
-
-PRIMARY_DIRECTION.md remains unselected until ROUND-0006 tests the exact frozen mathematical formulation.
+Do not promote any candidate to “primary” until the full FDE domain map reaches adequate breadth and the strongest candidates have undergone adversarial searches in non-ecological mathematics.
