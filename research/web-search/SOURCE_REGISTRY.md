@@ -112,3 +112,13 @@ Verification labels:
 | S510 | Villaverde, Banga, *Dynamical compensation and structural identifiability...* (2017) | DOI 10.1371/journal.pcbi.1005878 | PRIMARY/FULL | biological output invariance is structural unidentifiability under the observation scheme |
 | S511 | Tsai, *Bifurcations in a population model on N patches with strong Allee effect...* (2026) | DOI 10.1016/j.jsc.2025.102544 | PRIMARY/ABSTRACT | current N-patch strong-Allee bifurcation prior art |
 
+## ROUND-0007 — Mechanism-space geometry
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S601 | López & Still, *Semi-infinite programming* (2007) | DOI 10.1016/j.ejor.2006.08.045 | REVIEW/ABSTRACT+METADATA | standard framework for infinitely many affine constraints; kills novelty of half-space convexity |
+| S602 | Danskin, *The Theory of Max-Min and its Application to Weapons Allocation Problems* (1967) | DOI 10.1007/978-3-642-46092-0 | BOOK/METADATA | canonical max-value derivative/envelope result; kills standalone P5 novelty |
+| S603 | Alturki & Rushdi, *Weighted voting systems: A threshold-Boolean perspective* (2016) | DOI 10.7603/s40632-016-0007-1 | PRIMARY/FULL | weighted threshold functions; minimal winning coalitions/prime implicants; direct P4 combinatorial threat |
+| S604 | Delmas, Dronnier & Zitt, *The effective reproduction number: Convexity, concavity and invariance* (2025) | DOI 10.4171/JEMS/1431 | PRIMARY/FULL | vector intervention/persistence geometry in population mathematics |
+| S605 | Delmas, Dronnier & Zitt, *Optimal vaccinations: Cordons sanitaires, reducible population and optimal rays* (2022) | arXiv:2209.07381 | PREPRINT/FULL METADATA | radial scaling/eradication analogue; not the two-boundary Allee phase |
+
