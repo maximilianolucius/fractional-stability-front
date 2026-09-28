@@ -2,110 +2,152 @@
 
 ## Current phase
 
-**Phase 0 — Infrastructure, protocol freeze, and pilot extraction**
+**Phase 1 — Verified seed corpus + adversarial frontier falsification**
 
-Repository infrastructure initialized on 2026-09-28.
+Phase 0 is complete.
 
-Chief initialization completed on 2026-09-28 after a full repository audit. The project is now running two P0 seed/pilot rounds before any large-scale literature expansion.
-
-## Immediate objective
-
-Freeze and test the research protocol on small, high-value theorem-level corpora before broader collection.
-
-The pilot must establish:
-
-1. whether the extraction schema can represent exact fractional stability results without collapsing important assumptions;
-2. whether the Double Allee vocabulary can be reconciled before candidate research directions are generated;
-3. whether the hypothesized fractional D-stability / structured-matrix bridge survives an aggressive prior-art search.
+The repository now contains:
+- a populated seed corpus;
+- theorem-level extraction;
+- source/query/novelty provenance;
+- Chief decisions for the first two research rounds;
+- promoted theorem/frontier/open-problem nodes;
+- explicit candidate directions for the Double Allee branch.
 
 ## Phase 0 exit criteria
 
-- [x] Research questions frozen as protocol v1 for the pilot.
-- [x] Inclusion/exclusion criteria frozen for the pilot.
+- [x] Research questions frozen as protocol v1.
+- [x] Inclusion/exclusion criteria frozen.
 - [x] Search query families defined.
-- [ ] Search-source/database coverage tested and provenance registry instantiated.
-- [ ] Extraction schema tested on a verified pilot corpus.
-- [ ] Terminology conflicts identified from actual sources.
+- [x] Search-source coverage and provenance registry tested.
+- [x] Extraction schema tested on a verified pilot corpus.
+- [x] Terminology conflicts identified from actual sources.
 - [x] Seed-paper strategy defined.
-- [ ] Search/export provenance conventions tested in practice.
-- [x] Double Allee terminology/search vocabulary seeded structurally.
-- [ ] Chief adversarial review of both pilot returns completed.
+- [x] Search/export provenance conventions tested in practice.
+- [x] Double Allee terminology reconciled at seed level.
+- [x] Chief adversarial review of ROUND-0001 and ROUND-0002 completed.
 
-## Active Chief -> Web Searcher rounds
+## Completed rounds
 
 ### ROUND-0001 — Fractional stability seed
 
-**Request:** research/coordination/chief-to-web/ROUND-0001_fractional-stability-seed_REQUEST.md  
-**Status:** OPEN  
-**Priority:** P0
+**Disposition:** ACCEPT WITH RESERVATIONS  
+**Decision:** research/coordination/chief-decisions/ROUND-0001_fractional-stability-seed_DECISION.md
 
-Purpose:
+Main consequence:
 
-- verify canonical exact spectral stability results;
-- separate commensurate and incommensurate cases;
-- test theorem-level extraction;
-- aggressively search for prior art on fractional D-stability / diagonal scaling / sector stability.
+> The broad hypothesis that multiplicative positive-diagonal stability relative to a fractional/conic spectral sector is a missing theory is rejected.
+
+Generalized regional D-stability in conic/LMI regions already provides direct prior art.
+
+The surviving matrix question is narrower: exact finite/structural characterizations for special matrix classes.
 
 ### ROUND-0002 — Double Allee terminology seed
 
-**Request:** research/coordination/chief-to-web/ROUND-0002_double-allee-terminology-seed_REQUEST.md  
-**Status:** OPEN  
-**Priority:** P0
+**Disposition:** ACCEPT WITH RESERVATIONS  
+**Decision:** research/coordination/chief-decisions/ROUND-0002_double-allee-terminology-seed_DECISION.md
+
+Main consequences:
+
+- “Double Allee” is not one standardized mathematical object.
+- Multiple component mechanisms must be separated from demographic threshold count.
+- Simple Caputo, incommensurate, discrete-fractional, and continuum-diffusion extensions are already prior art.
+- The most interesting newly sharpened concept is **double dormancy**: two component effects that individually fail to create a strong demographic threshold but jointly create one.
+- Island fox is a strong empirical system lead, but raw-data access is not yet established.
+
+## Active P0 rounds
+
+### ROUND-0003 — Structured conic D-stability
+
+**Request:** research/coordination/chief-to-web/ROUND-0003_conic-d-stability-structured_REQUEST.md  
+**Status:** OPEN
 
 Purpose:
+- search exact finite criteria;
+- audit classical D-stability complexity;
+- search qualitative/sign/graph classes;
+- determine whether C-DA-4 survives.
 
-- reconcile competing meanings of Double/Multiple Allee effects;
-- extract the strongest analytical prior art;
-- check fractional, spatial, metapopulation, and network variants;
-- search for mathematically equivalent two-threshold results outside Allee vocabulary.
+### ROUND-0004 — Double dormancy + network falsification
 
-## Chief audit — 2026-09-28
+**Request:** research/coordination/chief-to-web/ROUND-0004_double-dormancy-network-falsification_REQUEST.md  
+**Status:** OPEN
 
-The repository structure is scientifically appropriate and internally consistent, but nearly all research content remains intentionally skeletal.
+Purpose:
+- search for a general composition theorem for emergent strong thresholds;
+- search non-Allee vocabulary;
+- test whether bistable/network/metapopulation theory already subsumes the candidate;
+- determine whether C-DA-1 and C-DA-2 survive.
 
-Current evidence state:
+### ROUND-0005 — Data + identifiability
 
-- corpus/papers.csv: schema only;
-- corpus/theorems.csv: schema only;
-- bibliography/references.bib: header only;
-- theorem/frontier/open-problem maps: templates/hypotheses only;
-- Double Allee files: templates only;
-- no completed Chief <-> Web Searcher round yet;
-- PRIMARY_DIRECTION.md correctly remains unselected.
+**Request:** research/coordination/chief-to-web/ROUND-0005_double-allee-data-identifiability_REQUEST.md  
+**Status:** OPEN
 
-Therefore no novelty claim, theorem frontier claim, or Q1-level primary direction is currently accepted.
+Purpose:
+- trace raw island-fox data;
+- inspect at least three alternative empirical systems;
+- audit structural/practical identifiability;
+- explicitly test memory-vs-delay/noise confounding;
+- determine whether C-DA-3 is scientifically viable.
 
-## Planned phases
+## Current Chief scientific position
 
-- **Phase 1 — Seed corpus:** canonical fractional stability, structured-matrix stability, network stability, Allee/Double Allee.
-- **Phase 2 — Systematic expansion:** database searches plus backward/forward citation chasing.
-- **Phase 3 — Structured extraction:** paper- and theorem-level metadata.
-- **Phase 4 — Knowledge map:** taxonomy, theorem implication graph, literature bridges.
-- **Phase 5 — Frontier analysis:** exactness gaps, unresolved restrictions, contradictions, open problems.
-- **Phase 6 — Research agenda:** candidate high-generality problems and dependency graph.
-- **Phase 7 — Double Allee primary direction:** novelty audit, theorem program, dataset plan.
-- **Phase 8 — Survey manuscript:** narrative synthesis supported by the structured corpus.
+### What is now closed
 
-## Standing decisions
+The project will **not** pursue as primary novelty:
 
-### 2026-09-28
+- generic Matignon/LMI reformulations;
+- “fractional D-stability” as a broad new concept;
+- Double Allee + Caputo;
+- Double Allee + incommensurate order;
+- Double Allee + discrete fractional dynamics;
+- Double Allee + continuum diffusion;
+- another planar predator–prey bifurcation paper without a structural theorem.
 
-- Start broad: **stability theory of fractional-order dynamical systems and networks**.
-- Treat fractional D-stability as a focal subdomain, not the full universe.
-- Optimize for theorem-level understanding, not paper counts.
-- Distinguish application papers from general/foundational mathematics.
-- Maintain a dedicated Double Allee branch.
-- Prefer real data for Double Allee when it genuinely constrains the applied mathematics.
-- Do not select a Double Allee primary direction before terminology, state of art, and novelty threats are source-backed.
-- Treat positive diagonal scaling relative to a fractional stability sector as a search hypothesis, not an assumed open problem.
-- Require repository-native Markdown communication for every Chief <-> Web Searcher scientific round.
+### What remains potentially strong
+
+The main surviving theorem hypotheses are:
+
+1. **composition theorem for double dormancy / emergent demographic threshold;**
+2. **network transformation theorem for that emergent threshold;**
+3. **joint identifiability theorem/analysis for component mechanisms, threshold geometry, and memory;**
+4. **exact structured conic-D-stability theorem for a biologically natural Jacobian class**, only if ROUND-0003 leaves a real gap.
+
+No candidate is yet promoted to PRIMARY_DIRECTION.md.
+
+## Chief audit correction log
+
+### 2026-09-28 — Zhang/Huang 2017 metadata correction
+
+For DOI 10.1016/j.laa.2017.06.018, publisher metadata gives:
+
+- **Xuefeng Zhang**
+- **Wenchao Huang**
+
+The seed corpus/bibliography had incorrect given names. The corpus and BibTeX have been corrected.
+
+This correction does not change the mathematical assessment, but demonstrates why source metadata are independently audited before manuscript use.
+
+## Current evidence map
+
+Promoted files:
+
+- research/theorem-map.md
+- research/frontier-map.md
+- research/open-problems.md
+- research/double-allee/CANDIDATE_DIRECTIONS.md
+- research/double-allee/NOVELTY_AUDIT.md
+- research/double-allee/DATASETS.md
+
+PRIMARY_DIRECTION.md remains intentionally unselected.
 
 ## Next Chief action
 
-Wait only for committed Web Searcher returns, then:
+When ROUND-0003/0004/0005 returns are committed:
 
-1. adversarially audit ROUND-0001 and ROUND-0002;
-2. issue decision files for each round;
-3. revise taxonomy/schema if the pilot exposes category failures;
-4. construct the first verified theorem and frontier nodes;
-5. open the next targeted search rounds from the evidence, not from intuition.
+1. audit each independently;
+2. kill candidates that are subsumed by existing theory;
+3. compare the survivors for theorem depth, generality, data credibility, and proof tractability;
+4. open a final targeted novelty round if needed;
+5. only then select and formalize the primary Double Allee research program.
