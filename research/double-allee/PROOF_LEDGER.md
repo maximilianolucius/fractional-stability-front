@@ -1,3 +1,6 @@
+> **PROJECT-SCOPE NOTICE (2026-09-28): FROZEN EXPLORATORY ARTIFACT.**  
+> This file records mathematical exploration used to evaluate one candidate gap. It is **not an active theorem-proving program** under the clarified project mission. Further proof development belongs to a separate future project if this candidate is later selected.
+
 # Proof Ledger — Mechanism-Space Multiple Allee Theory
 
 **Date opened:** 2026-09-28  
