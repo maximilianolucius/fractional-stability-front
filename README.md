@@ -132,3 +132,18 @@ See [STATUS.md](STATUS.md).
 ## Working survey title
 
 **Mapping the Frontier of Fractional-Order Stability Theory**
+
+
+## Agent coordination
+
+Chief Researcher ↔ Web Searcher communication is **repository-native and Markdown-only**.
+
+All official inter-agent requests, research returns, and Chief decisions are stored under:
+
+- `research/coordination/chief-to-web/`
+- `research/coordination/web-to-chief/`
+- `research/coordination/chief-decisions/`
+
+Each exchange uses a shared `ROUND-NNNN` identifier. See [research/coordination/README.md](research/coordination/README.md).
+
+This makes every research instruction, search result, novelty challenge, and scientific disposition auditable from Git history.

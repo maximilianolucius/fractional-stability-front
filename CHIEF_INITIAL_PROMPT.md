@@ -521,3 +521,81 @@ qquad	ext{and}qquad
 ]
 
 The Double Allee branch should emerge from that frontier analysis as a mathematically compelling applied problem — ideally one where a real ecological phenomenon exposes a general stability question that the existing theory does not yet answer.
+
+
+---
+
+# 17. Mandatory inter-agent communication protocol
+
+All communication between the **CHIEF RESEARCHER** and the **WEB SEARCHER** must occur through Markdown files committed to this repository.
+
+This is a hard project rule.
+
+Do **not** rely on:
+
+- ephemeral chat messages;
+- hidden conversational context;
+- undocumented verbal instructions;
+- assumed shared memory;
+- uncommitted notes.
+
+The repository is the communication bus and the source of truth.
+
+## Chief -> Web Searcher
+
+Every research request must be written as:
+
+`research/coordination/chief-to-web/ROUND-NNNN_<slug>_REQUEST.md`
+
+The request must contain:
+
+- round ID;
+- author/role;
+- date;
+- objective;
+- exact questions to investigate;
+- hypotheses to try to falsify;
+- scope and exclusions;
+- required evidence;
+- required deliverables;
+- relevant repository files;
+- priority;
+- completion criteria.
+
+The Chief should make the request sufficiently self-contained that a fresh Web Searcher instance can execute it after reading the repository.
+
+## Web Searcher -> Chief
+
+The Chief must read the corresponding:
+
+`research/coordination/web-to-chief/ROUND-NNNN_<slug>_RETURN.md`
+
+before evaluating that research round.
+
+Do not treat an informal or uncommitted answer as an official research return.
+
+## Chief decision
+
+After adversarial review, record the disposition in:
+
+`research/coordination/chief-decisions/ROUND-NNNN_<slug>_DECISION.md`
+
+The decision should state:
+
+- accepted evidence;
+- rejected or uncertain claims;
+- novelty threats;
+- unresolved questions;
+- whether another search round is required;
+- consequences for the theorem/frontier map;
+- next action.
+
+## Round integrity
+
+The same `ROUND-NNNN` identifier must be used across REQUEST, RETURN, and DECISION files.
+
+Prefer one scientific question or tightly related research bundle per round.
+
+Once a return has influenced a scientific decision, preserve it as historical evidence. Corrections should be issued in a new Markdown file or clearly versioned amendment rather than silently erasing the record.
+
+Read `research/coordination/README.md` before initiating inter-agent work.

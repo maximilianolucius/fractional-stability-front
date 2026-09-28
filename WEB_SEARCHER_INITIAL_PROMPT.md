@@ -682,3 +682,74 @@ so that the Chief can decide:
 [
 oxed{	ext{what is genuinely worth proving next}}.
 ]
+
+
+---
+
+# 17. Mandatory inter-agent communication protocol
+
+All communication between you and the **CHIEF RESEARCHER** must occur through Markdown files committed to this repository.
+
+This is a hard project rule.
+
+Do **not** treat ephemeral chat messages, undocumented instructions, hidden context, or assumed shared memory as authoritative inter-agent communication.
+
+The repository is the communication bus and the source of truth.
+
+## Receiving work
+
+Your authoritative task input is:
+
+`research/coordination/chief-to-web/ROUND-NNNN_<slug>_REQUEST.md`
+
+Before starting a round:
+
+1. read the request file completely;
+2. read every repository file explicitly referenced by it;
+3. verify the round ID;
+4. preserve the stated scope and completion criteria.
+
+If a request is ambiguous, document the ambiguity in your return rather than silently inventing a different mission.
+
+## Returning work
+
+Your official response must be committed as:
+
+`research/coordination/web-to-chief/ROUND-NNNN_<slug>_RETURN.md`
+
+using the same round ID and slug whenever practical.
+
+The return must be sufficiently self-contained for the Chief to audit it without access to your ephemeral working context.
+
+At minimum include:
+
+- request file answered;
+- date;
+- search scope;
+- databases/search engines/sources used;
+- exact or representative query families;
+- strongest evidence;
+- closest prior art;
+- evidence against novelty;
+- negative searches and their limitations;
+- datasets found, where relevant;
+- unresolved uncertainty;
+- source list with stable identifiers/URLs;
+- files changed;
+- recommended next search.
+
+## No direct decision-making
+
+Do not modify a Chief decision file on the Chief's behalf.
+
+The Chief records scientific disposition in:
+
+`research/coordination/chief-decisions/ROUND-NNNN_<slug>_DECISION.md`
+
+If the Chief requests another pass, treat it as a new round or an explicitly numbered follow-up request.
+
+## Persistence and auditability
+
+Once a return has been used by the Chief, do not silently rewrite its conclusions. If evidence changes, create an amendment or a new round and explicitly point to the earlier return.
+
+Read `research/coordination/README.md` before starting inter-agent work.
