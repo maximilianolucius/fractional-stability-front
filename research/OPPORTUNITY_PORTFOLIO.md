@@ -151,7 +151,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-FS-06 — Variable/distributed-order global dynamical-systems frontier
 
-**Status:** ACTIVE MAPPING — ROUND-0014.
+**Status:** RETAINED / MAPPED AFTER ROUND-0014.
 
 **Core question:** how much rigorous global dynamical-systems theory exists when the memory order or memory-order distribution itself changes through time/state or is distributed across scales?
 
@@ -159,6 +159,23 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Potential residuals:** process/semiflow architecture, attractors, nonlinear bifurcation, persistence/extinction, and operator-change dynamics beyond fixed-order Caputo.
 
-**Double Allee proximity:** unknown pending ROUND-0014; must be demonstrated naturally.
+**Double Allee proximity:** moderate-to-low at present; any bridge must justify heterogeneous/evolving memory biologically.
 
 **Main risk:** added modeling complexity without a correspondingly deep theorem frontier.
+
+
+---
+
+## OPPORTUNITY-FS-07 — Stochastic/switching time-fractional persistence and extinction
+
+**Status:** ACTIVE MAPPING — ROUND-0015.
+
+**Core question:** what general theorem architecture exists for persistence, extinction, basin exit, rare events, and regime switching in genuine time-fractional stochastic systems?
+
+**Mandatory distinction:** Caputo time-fractional dynamics must be separated from ordinary equations driven by fractional Brownian motion and from spatial-fractional SPDEs.
+
+**Potential Double-Allee relevance:** high, because noise and switching can induce survival/extinction transitions across bistable thresholds.
+
+**Specific structural issue:** whether switching resets fractional memory or preserves it may define fundamentally different dynamical systems.
+
+**Main risk:** much apparent novelty may already belong to stochastic Volterra/RDS theory.
