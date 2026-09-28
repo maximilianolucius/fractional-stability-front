@@ -197,3 +197,51 @@ ROUND-0016 compares:
 - variable/distributed-order global dynamics.
 
 No candidate is selected yet. The goal is to merge overlaps, eliminate weak gaps, and retain only theorem-level survivors.
+
+
+---
+
+# Preferred shortlist after ROUND-0016
+
+## FAMILY A — Deterministic reachable memory-state basin geometry
+
+**Status:** FINAL KILLER AUDIT — ROUND-0017.
+
+**Exact residual:** determine whether one physically reachable current-state fiber
+[
+e_0^{-1}(x)capmathcal R_alpha
+]
+can intersect distinct asymptotic basins in a natural positive multidimensional Caputo system, especially extinction versus survival/coexistence.
+
+**Closed weaker claims:** reachable same-present/different-memory is already direct prior.
+
+---
+
+## FAMILY B — Robust global threshold geometry
+
+**Status:** FINAL KILLER AUDIT — ROUND-0017.
+
+**Exact residual:** uncertainty-uniform survival/extinction regions, basin-relative persistence, separator enclosures and bistability preservation under simultaneous fractional-order, ecological-parameter and structured mechanism uncertainty.
+
+**Merged content:** Multiple/Double-Allee mechanism composition now belongs here as biologically structured uncertainty rather than an independent frontier.
+
+---
+
+## FAMILY C — Stochastic memory-state persistence / rare exit
+
+**Status:** FINAL KILLER AUDIT — ROUND-0017.
+
+**Exact residual:** positive stochastic fractional-memory systems with strong-Allee multistability, focusing on basin-relative persistence/extinction and rare basin exit / quasipotential / exit-time asymptotics.
+
+**Merged content:** persistent-memory regime switching is one stochastic forcing architecture inside this family, not a standalone opportunity.
+
+---
+
+## Removed from preferred shortlist
+
+- **NONHYPERBOLIC-MEMORY:** eliminated standalone; retain as supporting mathematical machinery and survey content.
+- **VO/DO-GLOBAL:** retain as independent domain frontier/survey content, but not preferred Double-Allee shortlist.
+- **MECHANISM-PERSISTENCE-FILTER:** merged into Family B.
+- **PERSISTENT-SWITCHING:** merged into Family C.
+
+No final winner has been selected.
