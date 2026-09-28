@@ -402,3 +402,79 @@ Persistence theory for positive Caputo systems on the Volterra memory state, inc
 
 Main killer risk: once the correct invariant positive memory space is chosen, classical infinite-dimensional persistence theorems may apply with only routine verification.
 
+---
+
+## ROUND-0010 — Fractional bifurcation semantics
+
+### NC-1001 — Fractional systems lack center/invariant manifolds
+
+**Classification:** **FALSE / SUBSTANTIAL DIRECT PRIOR THEORY**
+
+Caputo stable, center and center-stable manifold theorems exist, with additional Caputo–Hadamard and 2026 center-manifold work.
+
+Residual: operator-unified, memory-state and genuinely incommensurate reduction.
+
+### NC-1002 — Fractional systems lack Lyapunov–Schmidt / normal-form reduction
+
+**Classification:** **FALSE / SUBSTANTIAL PARTIAL THEORY**
+
+Li–Ma 2016 gives Caputo Lyapunov–Schmidt reduction; Ma–Shu 2025 gives Caputo–Hadamard LS. Basic equilibrium-bifurcation normal-form work also exists.
+
+No universal canonical-Caputo memory-state normal-form family was identified.
+
+### NC-1003 — Fold/transcritical/pitchfork are intrinsically fractional when derivative order changes
+
+**Classification:** **FALSE IN GENERAL**
+
+If order changes only the derivative operator, equilibria remain roots of (f(x,mu)=0). Branch existence/location is therefore unchanged. Fractional content enters stability, attraction, transient and memory-state dynamics.
+
+Direct prior exists for fundamental Caputo fold/transcritical/pitchfork analysis.
+
+### NC-1004 — A Matignon-sector crossing is a classical Hopf bifurcation
+
+**Classification:** **NOT VALID WITHOUT ADDITIONAL OPERATOR/RECURRENT-OBJECT STRUCTURE**
+
+Tavazoei–Haeri 2009 excludes nonconstant exact periodic solutions in the autonomous finite-terminal Caputo setting considered. A sector crossing may be a stability transition, but not by itself birth of a classical periodic orbit.
+
+### NC-1005 — Fractional periodic solutions are impossible in every formulation
+
+**Classification:** **FALSE / OPERATOR-DEPENDENT**
+
+Finite-terminal classical Caputo has the exact-periodicity obstruction. Infinite-past/Liouville–Weyl-type formulations can admit exact periodic solutions. Asymptotically periodic and delay/history-state objects are separate notions.
+
+### NC-1006 — Classical Volterra center-manifold/Hopf theory directly solves Caputo history-state bifurcation
+
+**Classification:** **CLOSE PRIOR ART / NOT DIRECTLY RESOLVING**
+
+Diekmann–van Gils 1984 and Fiedler 1986 provide strong memory-system bifurcation theory, but inspected kernel hypotheses do not automatically contain the canonical weakly singular, algebraically decaying Caputo kernel.
+
+No resolving general singular-Caputo-Volterra bifurcation theorem was identified.
+
+### NC-1007 — General incommensurate nonhyperbolic bifurcation is mature
+
+**Classification:** **NO RESOLVING GENERAL RESULT FOUND IN SEARCHED CORPUS**
+
+Hyperbolic/local multi-order stability is strong; model-specific incommensurate bifurcation papers exist. No broad center-manifold/normal-form/codimension classification was found.
+
+### NC-1008 — Fractional Double-Allee bifurcation is a clean broad gap
+
+**Classification:** **FALSE IN BROAD FORM / NARROW FRONTIER SURVIVES**
+
+Model-specific fractional and incommensurate Double-Allee bifurcation/stability papers already exist.
+
+Residual frontier:
+- separate unchanged equilibrium catastrophe geometry from fractional stability/basin/attractor effects;
+- memory-state basin/separatrix bifurcation;
+- nonhyperbolic threshold dynamics in Caputo history space;
+- incommensurate versions.
+
+### NC-1009 — D10 narrowed opportunity
+
+**Classification:** **RETAIN HIGH-VALUE CANDIDATE FAMILY**
+
+Search-qualified surviving subfamilies:
+1. singular-memory Caputo history-state nonhyperbolic bifurcation;
+2. incommensurate nonhyperbolic center-manifold/normal-form theory;
+3. rigorous periodic/Floquet bifurcation under a periodic-compatible infinite-past operator;
+4. Double-Allee memory-state basin/attractor threshold bifurcation.
+
