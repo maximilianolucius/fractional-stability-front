@@ -298,3 +298,17 @@ Verification labels:
 | S1252 | Pal et al., Allee noise-induced tipping (2026) | DOI 10.1016/j.chaos.2025.117567 | PRIMARY/FULL-PAGE EXCERPT | multistability, stochastic persistence/extinction, tipping probability/time |
 | S1253 | Gasteratos & Pannier, Kolmogorov equations for singular SVEs (2025) | arXiv:2509.21608 | PREPRINT/FULL | modern Markovian-lift backward/forward Kolmogorov/Fokker-Planck architecture |
 | S1254 | Random attractors for fractional stochastic reaction-diffusion with fBm (2025) | DOI 10.1016/j.chaos.2024.115775 | PRIMARY/ABSTRACT | terminology-firewall example: spatial fractional/fBm, not direct S1 time-fractional evidence |
+
+## ROUND-0016 — Cross-candidate adversarial comparison
+
+| ID | Source | Persistent identifier | Candidate pressure | Why it matters |
+|---|---|---|---|---|
+| S1255 | Földes & Stacy, Stochastic Persistence in Infinite Dimensions (2026) | arXiv:2601.19145 | C3 | general infinite-dimensional stochastic persistence; major subsumption threat |
+| S1256 | Herrera-Marín, Intermittency induced by long memory under stochastic regime switching (2026) | arXiv:2605.00729 | C4 | direct nonlinear Volterra long-memory Markov switching; strongly weakens C4 standalone novelty |
+| S1257 | Han & Gao, discriminating kernel via viability/reachability (2017) | DOI 10.1186/s13662-017-1429-2 | C2 | mature robust viability/discriminating-kernel framework |
+| S1258 | Peng, Stancu & Dang, robust capture basin (2019) | DOI 10.1002/rnc.4577 | C2 | guaranteed robust capture/discriminating-set computation |
+| S1259 | Matsunaga et al., center manifold for integral equations with infinite delay (2015) | DOI 10.1619/fesi.58.87 | C5 | general hereditary center-manifold/stability reduction theorem |
+| S1260 | Ma & Huang, Caputo-Hadamard fold normal form (2024) | DOI 10.1016/j.cjph.2024.01.028 | C5 | direct fractional operator-specific nonhyperbolic normal-form prior |
+| S1261 | Berec, Angulo & Courchamp, multiple Allee effects (2007) | DOI 10.1016/j.tree.2006.12.002 | C6 | classic multiple-component interaction/double-dormancy framework |
+| S1262 | Lan, two-component stochastic Allee threshold (2025) | DOI 10.1016/j.chaos.2025.116952 | C6 | sharp extinction/permanence threshold with two component Allee effects |
+| S1263 | Yang & Fan, multiple-Allee predator-prey bifurcation (2026) | DOI 10.1002/mma.70728 | C6 | rich recent bistability/BT/Turing-Hopf direct prior |
