@@ -1,3 +1,5 @@
+> **Scope notice (2026-09-28):** this is a seed map, not a complete state-of-the-art of the full domain. It must be expanded under `research/DOMAIN_MAP.md` before opportunity selection.
+
 # Theorem Map
 
 **Status:** first verified/qualified nodes promoted by Chief after ROUND-0001 and ROUND-0002.
