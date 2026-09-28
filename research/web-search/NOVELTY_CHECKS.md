@@ -542,3 +542,62 @@ Search-qualified residual:
 
 The strongest intrinsically fractional question is whether distinct memory states with the same current physical populations can belong to opposite survival/extinction basins.
 
+## ROUND-0012 — Reachable memory-state subsumption
+
+### NC-1201 — Same-present/different-memory is only an ambient-space artifact
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Cong–Tuan gives higher-dimensional standard Caputo IVPs with distinct initial values whose physical trajectories meet at finite time. Under the Doan–Kloeden semigroup representation, the corresponding states lie in the physically reachable set \(\mathcal R_\alpha\), share \(e_0\), but encode different continuation memory.
+
+### NC-1202 — The canonical constant physical embedding is invariant
+
+**Classification:** **FALSE IN GENERAL / DIRECT PRIOR**
+
+The standard IVP is embedded by constant functions. After non-equilibrium evolution, \(T_t\iota(x_0)\) is generally nonconstant. The forward-invariant object is the orbit saturation \(\mathcal R_\alpha\), not the initial constant slice.
+
+### NC-1203 — The reachable set has a mature intrinsic finite-dimensional manifold characterization
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+The semigroup formula, continuity and forward invariance are direct. Modern attractor theory gives ambient asymptotic compactness/regularity. No searched theorem establishes that \(\mathcal R_\alpha\) itself is closed, a smooth finite-dimensional manifold, or supplies a complete intrinsic geometric description.
+
+### NC-1204 — Standard autonomous Caputo prior already gives same-present opposite-basin reachable states
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Cong–Tuan gives same-present/different-future but not bistability/opposite omega-limits. Khalighi et al. gives bistability and memory-dependent transition outcomes but not the strict autonomous standard-IVP same-current pair theorem.
+
+### NC-1205 — Classical hereditary/Volterra theory kills the candidate verbatim
+
+**Classification:** **SUBSTANTIAL PARTIAL THEORY**
+
+Volterra topological dynamics, weakly singular-kernel theory, minimal states, invariant manifolds and attractors are mature. No searched theorem directly characterizes fiberwise extinction/survival basin membership on the canonical Caputo reachable set.
+
+### NC-1206 — Markovian/diffusive lifts make memory-state basin questions trivial
+
+**Classification:** **FALSE AS STATED / SUBSTANTIAL PARTIAL THEORY**
+
+Infinite-state/frequency-distributed and other Markovian lifts are established. They kill novelty of state augmentation, but they do not imply that the projected current physical population \(x\) determines asymptotic basin membership.
+
+### NC-1207 — Monotonicity kills same-present memory ambiguity for all natural ecological systems
+
+**Classification:** **SUBSTANTIAL PARTIAL THEORY**
+
+Scalar and triangular systems have strong nonintersection results, and modern comparison principles constrain ordered pairs. No general result was found forcing current-state projection injectivity for arbitrary multidimensional cooperative/competitive Caputo systems.
+
+### NC-1208 — History-dependent fractional tipping landscapes are a new narrative
+
+**Classification:** **CLOSE/DIRECT APPLICATION PRIOR**
+
+Khalighi et al. 2026 directly develops history-dependent bistable stability landscapes, delayed collapse/recovery, rollback and broadened hysteresis. A future contribution cannot rest on that qualitative narrative alone.
+
+### NC-1209 — Residual exact candidate after falsification
+
+**Classification:** **SEARCH-QUALIFIED NARROW GAP**
+
+The unresolved object is:
+
+> whether a fiber of \(e_0:\mathcal R_\alpha\to X_{\rm phys}\) can intersect two distinct asymptotic basins in an autonomous multidimensional Caputo system, with a structural characterization of such fiberwise multibasin geometry.
+
+For this project the preferred realization is a positive strong/Double-Allee system, ideally including genuinely incommensurate orders.
