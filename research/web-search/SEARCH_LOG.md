@@ -597,3 +597,40 @@ Only S1/S4 were counted as direct evidence.
 D8 is a real, naturally Allee-adjacent frontier only beyond generic stochastic stability. The strongest residuals are stochastic fractional persistence/extinction, rare exit from multistable positive basins, and persistent-memory random switching.
 
 **Dated report:** research/web-search/2026-09-28_stochastic-switching-fractional-persistence.md.
+
+## 2026-09-28 — ROUND-0016 cross-candidate adversarial comparison
+
+**Mission.** Compare C1–C7 under a common hostile standard and reduce the portfolio without selecting a final winner.
+
+**New hostile search families.**
+- C1: noninjective observables, factor maps, partial observation, same-output/different-attractor and omega-limit separation.
+- C2: robust viability kernels, discriminating kernels, robust capture basins, uncertain-semiflow permanence.
+- C3: stochastic persistence in infinite dimensions, boundary invariant measures on history spaces, quasipotential/metastability for stochastic Volterra systems.
+- C4: Markov switching Volterra, regime-switching hereditary memory, persistent/no-reset long-memory systems.
+- C5: center manifold for infinite-delay/weakly singular Volterra equations, fractional normal forms, Lyapunov-Schmidt.
+- C6: threshold logic for multiple component Allee effects, double dormancy, recent two-component stochastic thresholds and multiple-Allee bifurcations.
+- C7: variable-order pullback attractors, state-dependent-order cocycles, distributed-order nonlinear attractors and persistence.
+
+**New decisive threats.**
+1. Földes-Stacy 2026: general infinite-dimensional stochastic persistence substantially narrows C3.
+2. Herrera-Marín 2026: direct persistent long-memory stochastic regime switching substantially narrows C4.
+3. Han-Gao / Peng-Stancu-Dang: robust viability/discriminating/capture kernels narrow C2.
+4. Matsunaga et al. 2015 + fractional normal-form papers narrow C5.
+5. Berec et al. + Lan 2025 + Yang-Fan 2026 narrow C6.
+
+**Disposition.**
+- C1 RETAIN.
+- C2 RETAIN.
+- C3 RETAIN NARROWED.
+- C4 MERGE → C3.
+- C5 ELIMINATE standalone.
+- C6 MERGE → C2.
+- C7 ELIMINATE from preferred shortlist, retain in survey/domain map.
+
+**Resulting portfolio.**
+Three families:
+1. deterministic memory-state basin geometry;
+2. robust global threshold geometry;
+3. stochastic memory-state persistence / rare exit.
+
+**Dated report:** research/web-search/2026-09-28_cross-candidate-adversarial-comparison.md.
