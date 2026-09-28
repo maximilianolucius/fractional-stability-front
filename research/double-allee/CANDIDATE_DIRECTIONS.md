@@ -1,222 +1,159 @@
 # Double Allee — Candidate Directions
 
-**Status:** Chief-generated candidates after ROUND-0002. None is selected as primary.
+**Status:** post-ROUND-0003/0004/0005 Chief synthesis, 2026-09-28.
 
-Every candidate below is a research hypothesis. Each has an explicit kill criterion.
+The candidate set has been reduced substantially.
 
-## C-DA-1 — Double dormancy as an emergent-threshold theorem class
+## C-DA-1 — Mechanism-resolved threshold composition
 
-### Precise mathematical question
+**Status:** LEADING CANDIDATE — survives adversarial search, pending final formula-level novelty audit.
 
-Let the per-capita demographic growth law be built from two density-dependent component mechanisms,
+### Core question
 
-[
-g(x;	heta)=Gig(g_1(x;	heta_1),g_2(x;	heta_2),xig),
-]
+For a controlled class of separately interpretable density-dependent component-fitness functions, derive necessary-and-sufficient conditions under which:
 
-where each component alone produces no strong demographic Allee threshold on the biologically admissible interval.
+- no component alone produces a strong demographic Allee threshold;
+- the joint composition does produce one;
+- the threshold is unique or multiple;
+- the threshold moves monotonically with mechanism strength;
+- threshold creation occurs through a characterized fold/nondegeneracy condition.
 
-Characterize conditions under which the composition:
+### Required mathematical form
 
-- creates a positive unstable threshold;
-- creates exactly one threshold versus several;
-- destroys an existing threshold;
-- shifts threshold location monotonically with mechanism strength.
+The candidate is frozen in:
 
-### Closest known literature
+research/double-allee/MECHANISM_RESOLVED_FRAMEWORK.md
 
-- Berec–Angulo–Courchamp 2007: multiple component effects and double dormancy.
-- Model-specific Double-Allee predator–prey bifurcation literature.
-- General fold/saddle-node and scalar population-growth theory may contain equivalent results under different language.
+The preferred viability representation is
 
-### Expected theorem program
+V_S(x)=B(x) product_{i in S} A_i(x),
 
-1. necessary/sufficient threshold-existence criterion for a controlled function class;
-2. uniqueness/multiplicity theorem;
-3. comparative statics for threshold location;
-4. bifurcation classification at threshold creation;
-5. robustness under bounded parameter uncertainty.
+with demographic sign determined by V_S-1 and component deletion implemented by A_i -> 1.
 
-### Likely obstruction
+### Strongest prior-art threats
 
-If the function class is too broad, no nontrivial universal criterion exists.  
-If it is too narrow, the theorem becomes algebraic bookkeeping.
+- Berec–Angulo–Courchamp 2007: multiple effects, double dormancy, concrete two-component model.
+- Guijie Lan 2025: rigorous threshold dynamics for a stochastic single-species model with two component Allee effects.
+- earlier emergent-Allee results from stage/predation structure.
+- generic scalar fold/unimodality theory.
 
-### Relation to fractional stability
+### Why it still survives
 
-Secondary, not intrinsic. Fractional memory should be added only if it changes transient basin geometry, identifiability, or network persistence in a mathematically essential way.
-
-### Data opportunity
-
-Island fox and other systems with multiple measured component effects could motivate/calibrate mechanism forms.
-
-### Why this is more than a model variation
-
-The target is a **composition theorem** that explains a family of multiple-Allee models as corollaries.
+No searched source yet provides the proposed **general mechanism-resolved composition theorem** with:
+- deletion counterfactuals;
+- individual dormancy;
+- exact joint threshold creation;
+- root-count control;
+- comparative statics;
+- fold boundary;
+- a function class broad enough to be reusable.
 
 ### Kill criterion
 
-Reject if ROUND-0004 finds a general theorem in population dynamics, catastrophe theory, monotone comparative statics, or related literature that already provides the intended characterization at equal or greater generality.
+Reject if ROUND-0006 finds an equivalent or more general theorem in demographic/life-cycle, bifurcation, factorized-growth, survival–fecundity, or nonlinear-composition literature.
 
 ---
 
-## C-DA-2 — Network transformation of emergent Allee thresholds
+## C-DA-1I — Structural identifiability of the component decomposition
 
-### Precise mathematical question
+**Status:** MERGED INTO C-DA-1 AS A CORE SUPPORTING THEOREM.
 
-Consider a network of patches
+This replaces the earlier standalone C-DA-3.
 
-[
-dot x_i = f_i(x_i;	heta_i) + sum_j L_{ij} h_{ij}(x_j,x_i),
-]
+### Core question
 
-where each local (f_i) contains two component mechanisms whose interaction can create an emergent demographic threshold.
+If aggregate demographic dynamics depend on hidden component mechanisms through a composite operator such as
 
-Determine graph/topology conditions under which coupling:
+P(x)=product_i A_i(x),
 
-- removes a local extinction threshold;
-- creates a global persistence threshold;
-- synchronizes or separates threshold crossings;
-- produces topology-dependent rescue/extinction regions.
+what can abundance-only observations identify?
 
-### Closest known literature
+### Leading theorem hypothesis
 
-- Lanchier 2013 strong-Allee interacting patches;
-- metapopulation rescue/extinction theory;
-- bistable and monotone network systems;
-- graph reaction–diffusion systems.
+In a nonparametric multiplicative class,
 
-### Expected theorem program
+(A_1,...,A_m) -> (A_1 h_1,...,A_m h_m), with product_i h_i = 1,
 
-1. comparison theorem linking local threshold geometry to network persistence;
-2. graph-dependent sufficient and, where possible, necessary conditions;
-3. exact results on selected graph classes;
-4. scaling limits or bounds in terms of degree/spectral quantities;
-5. extension to heterogeneous patches.
+leaves P unchanged.
 
-### Likely obstruction
+Therefore aggregate state trajectories cannot uniquely identify the individual component mechanisms.
 
-Existing bistable-network or interacting-particle-system theory may already subsume the deterministic core.
+A second theorem should characterize the component-specific outputs needed to break this equivalence.
 
-### Relation to fractional stability
+### Why this strengthens C-DA-1
 
-Optional second-stage extension. Fractional memory is not part of the novelty claim unless it materially changes the theorem.
+It couples:
+- the **forward problem**: when mechanisms compose to create a threshold;
+- the **inverse problem**: whether those mechanisms can be recovered from data.
 
-### Data opportunity
+This makes the program applied mathematics rather than a scalar root exercise.
 
-Spatially replicated conservation or invasion datasets with known patch connectivity.
+### Fractional/network connection
 
-### Why this is more than a model variation
+If the right-hand side depends on the same composite mechanism, replacing the ordinary derivative by a fractional operator or embedding the local dynamics in a known network does not automatically break the component-factor invariance.
 
-The target is a graph theorem that explains how an ecologically grounded **emergent threshold mechanism** is transformed by topology.
+This can provide an operator/network-independent non-identifiability result without forcing fractional memory into the empirical model.
 
 ### Kill criterion
 
-Reject if general bistable-network/metapopulation theorems already deliver the same threshold/topology characterization for a function class broad enough to include double dormancy.
+Reject or sharply narrow if ROUND-0006 finds this factorization non-identifiability and minimal-output result already standard for ecological demographic decomposition.
 
 ---
 
-## C-DA-3 — Identifiability of multiple component effects versus memory
+## C-DA-2 — Generic network transformation of Allee thresholds
 
-### Precise mathematical question
+**Status:** REJECTED AS STANDALONE PRIMARY DIRECTION.
 
-Given observations of abundance and selected demographic components, determine when a model with:
+### Reason
 
-- one component Allee mechanism;
-- two interacting component mechanisms;
-- an emergent demographic threshold;
-- and a memory/fractional parameter
+Stehlík–Švígler–Volek 2023 already gives persistence/extinction theory on arbitrary connected graphs with heterogeneous logistic and bistable local reactions. Lanchier, Nagatani–Ichinose, Zhou–Wang, and 2026 N-patch bifurcation work further raise prior-art density.
 
-is structurally and practically distinguishable from simpler competitors.
+A theorem that merely says dispersal/topology changes an Allee threshold is not enough.
 
-### Closest known literature
+### Retained use
 
-- empirical multiple-component Allee studies;
-- structural/practical identifiability;
-- fractional inverse problems;
-- ecological state-space models with colored environmental noise.
+Network structure may re-enter only through a mechanism-resolved statement that generic bistable-node theory cannot express, especially:
 
-### Expected theorem/program
-
-1. structural identifiability result for a carefully chosen mechanistic model;
-2. proof of non-identifiability in insufficient observation designs;
-3. minimal-observation theorem or rank condition;
-4. practical identifiability analysis under realistic sampling;
-5. real-data model discrimination and out-of-sample validation.
-
-### Likely obstruction
-
-Fractional order may be confounded with latent environmental autocorrelation, time-varying parameters, observation error, or unmeasured predation.
-
-### Relation to fractional stability
-
-Directly relevant only if fractional memory is empirically estimable and changes stability/threshold conclusions.
-
-### Data opportunity
-
-Island fox is a lead; raw-data availability is not yet established. Alternative repeated-measure systems must be searched.
-
-### Why this is more than a model variation
-
-A successful result would state when “memory + multiple Allee effects” is scientifically identifiable rather than merely fit-able.
-
-### Kill criterion
-
-Reject if no accessible dataset has enough independent demographic and temporal information, or if structural identifiability fails under realistic observation schemes.
+- whether network state observations can identify hidden component mechanisms;
+- whether component-specific parameter changes propagate into persistence bounds in a way lost after collapsing nodes to generic bistable reactions.
 
 ---
 
-## C-DA-4 — Structured Jacobian theorem for ecological threshold networks
+## C-DA-4 — Structured conic D-stability of ecological Jacobians
 
-### Precise mathematical question
+**Status:** DEPRIORITIZED / CONDITIONAL.
 
-For ecological networks whose Jacobians inherit sign/sparsity/factorization from threshold mechanisms, determine whether local fractional stability under structured positive diagonal rescaling admits an exact finite criterion.
+### Reason
 
-### Closest known literature
+Generalized conic D-stability exists, and classical exact D-stability results already cover:
+- low dimensions;
+- tridiagonal matrices;
+- acyclic matrices;
+- Metzler/positive classes;
+- qualitative/sign stability.
 
-- generalized regional D-stability in conic sectors;
-- positive/Metzler diagonal stability;
-- qualitative/sign stability;
-- ecological community-matrix theory.
+The only plausible residual novelty is a finite exact criterion for a concrete cyclic, non-Metzler class.
 
-### Expected theorem program
+### Retained use
 
-1. identify a biologically natural Jacobian class;
-2. characterize conic-sector multiplicative D-stability on that class;
-3. relate the criterion to graph cycles/sign structure;
-4. apply it to a Double-Allee network equilibrium.
+After the mechanism-resolved ecological model is fixed, inspect its Jacobian.
 
-### Likely obstruction
-
-The matrix theorem may already exist in qualitative D-stability language, or the ecological Jacobian class may not simplify the general problem enough.
-
-### Relation to fractional stability
-
-Central.
-
-### Data opportunity
-
-Secondary; data would mainly justify parameter/sign structure.
-
-### Why this is more than a model variation
-
-The contribution would be a new structured-matrix theorem with ecology as a non-artificial application.
-
-### Kill criterion
-
-Reject if ROUND-0003 finds an existing exact characterization covering the proposed sign/graph class.
+Reopen this branch only if the model naturally produces a structurally distinctive matrix family.
 
 ---
 
-## Chief posture after seed round
+# Current convergence
 
-The project should **not** yet choose a primary direction.
+The candidate program is now:
 
-The two concepts that deserve the most aggressive falsification are:
+component mechanisms
+-> exact threshold composition
+-> structural identifiability
+-> minimal observation design
 
-- **emergent threshold from interacting component effects (double dormancy)**;
-- **network transformation of that emergent threshold**.
+with:
+- network/fractional invariance as a possible theorem extension;
+- real data as validation/observation-design evidence;
+- matrix stability only if forced by the resulting Jacobian class.
 
-The identifiability branch should proceed in parallel because it may determine whether a real-data component can be scientifically credible.
-
-The structured-Jacobian branch remains attractive only if ROUND-0003 finds a genuinely unresolved matrix subclass.
+PRIMARY_DIRECTION.md remains unselected until ROUND-0006 tests the exact frozen mathematical formulation.
