@@ -1,106 +1,162 @@
 # Search Strategy
 
-Use overlapping search families; a single query will miss adjacent mathematical traditions.
+The search strategy follows the authoritative domain:
 
-## A. Fractional stability core
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
 
-Combine fractional-order/fractional differential systems with:
+Use overlapping search families. No single vocabulary covers the field.
 
-- asymptotic stability;
+## A. Foundational fractional dynamical systems
+
+Combine:
+- fractional differential equations;
+- fractional dynamical systems;
+- Caputo / Riemann–Liouville;
+- commensurate / incommensurate;
+- multi-term / distributed-order / variable-order;
+with:
+- stability;
+- dynamical systems;
+- characteristic equation;
+- asymptotic behavior.
+
+## B. Linear / spectral stability
+
+Search:
+- Matignon criterion;
+- sector stability;
+- characteristic roots;
+- necessary and sufficient stability;
+- arbitrary dimension;
+- commensurate/incommensurate;
+- spectral characterization.
+
+## C. Nonlinear stability
+
+Search:
+- Lyapunov;
 - Mittag-Leffler stability;
-- spectral stability;
-- robust stability;
-- stability regions;
-- Matignon criterion.
+- converse Lyapunov;
+- linearization;
+- local/global asymptotic stability;
+- comparison principle;
+- invariant region;
+- nonlinear fractional systems.
 
-## B. Matrix-structure bridge
+## D. Structured and robust systems
 
 Combine fractional stability with:
-
 - D-stability;
 - diagonal stability;
-- Metzler / positive systems;
-- M-matrices;
-- sign stability;
-- qualitative matrices;
+- positive/Metzler;
+- M-matrix;
+- sign/qualitative stability;
 - interval matrices;
-- structured uncertainty.
+- structured uncertainty;
+- robust regional stability;
+- order uncertainty.
 
-## C. Network bridge
+## E. Delay / switching / stochastic / hybrid
 
-Combine fractional systems with:
+Search:
+- time delay;
+- neutral;
+- switched;
+- impulsive;
+- stochastic;
+- hybrid;
+- time varying;
+with fractional stability and exact/converse language.
 
-- networks;
-- graph topology;
-- Laplacians;
-- switching networks;
-- signed networks;
-- multilayer/temporal networks;
+## F. Networks
+
+Search:
+- consensus;
 - synchronization;
-- decentralized stability.
+- graph topology;
+- Laplacian;
+- signed/directed/multilayer/temporal networks;
+- metapopulation/dispersal;
+- topology-dependent stability.
 
-## D. Frontier language
+## G. Bifurcation / threshold / persistence
 
-Search terms include:
+Search:
+- fractional bifurcation;
+- saddle-node;
+- Hopf;
+- multistability;
+- tipping;
+- persistence/extinction;
+- resilience;
+- threshold geometry.
 
+## H. Frontier language
+
+Across all branches combine with:
 - necessary and sufficient;
-- characterization;
-- exact criterion;
-- sharp condition;
+- exact characterization;
 - converse;
-- counterexample;
+- sharp;
 - arbitrary dimension;
+- counterexample;
+- impossibility;
 - open problem;
 - unresolved;
-- generalization.
+- robustness;
+- complexity.
 
-## E. Double Allee branch
+## I. Double/Multiple Allee lens
 
-Search exact and alternative terminology:
-
-- double Allee effect;
+Search:
+- Double Allee effect;
 - multiple Allee effects;
-- two-threshold Allee;
+- double dormancy;
+- component Allee;
+- demographic Allee;
 - multiple thresholds;
-- demographic/component Allee;
-- mate limitation + cooperation;
-- predation-driven Allee;
-- bistability/multistability with Allee thresholds.
+- depensation;
+- mate limitation;
+- predation-mediated Allee;
+- survival/fecundity density dependence;
+- strong/weak Allee combinations.
 
 Then combine with:
-
 - fractional;
 - memory;
-- network;
-- dispersal/metapopulation;
+- delay;
+- network/dispersal;
 - bifurcation;
+- robustness;
+- persistence/extinction;
 - stability;
-- identifiability;
-- inverse problem;
-- real data;
-- parameter estimation.
+- uncertainty;
+- data/identifiability.
 
-## F. Citation expansion
+For every candidate, repeat the search **without Allee terminology** using its abstract mathematical structure.
 
-For each foundational paper:
+## J. Search passes
 
-1. backward references;
-2. forward citations;
-3. related-paper graph;
-4. author follow-up work;
-5. theorem-level citations.
+For each domain branch:
 
-## Search log fields
+1. canonical review/monograph;
+2. foundational theorem;
+3. strongest generalization;
+4. recent frontier papers;
+5. explicit open problems;
+6. citation expansion;
+7. adjacent-theory search;
+8. falsification search.
 
-Record:
+## K. Search records
 
-- date;
-- source/database;
-- exact query;
-- filters;
-- results returned;
+Maintain:
+- exact queries;
+- date/database;
 - results screened;
-- export filename;
-- blind spots/notes.
+- sources inspected;
+- negative searches;
+- blind spots;
+- follow-up queries.
 
-Raw exports are immutable.
+Absence from search results is not proof of absence.
