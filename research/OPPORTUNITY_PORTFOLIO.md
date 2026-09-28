@@ -111,16 +111,16 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ---
 
-## OPPORTUNITY-DA-02 — Fractional-memory basin geometry near Double Allee thresholds
+## OPPORTUNITY-DA-02 — Reachable fractional-memory basin geometry near Double Allee thresholds
 
-**Status:** ACTIVE FALSIFICATION — ROUND-0011.
+**Status:** ACTIVE KILLER AUDIT — ROUND-0012.
 
-**Core question:** after accounting for unchanged equilibrium algebra, which survival/extinction basin boundaries genuinely depend on fractional memory?
+**Core question:** within memory states actually reachable/admissible from Caputo dynamics, can survival/extinction basin membership depend on memory beyond the current physical population state?
 
 **Why this matters:** it is the direct intersection of D10 nonhyperbolic/basin dynamics and D11 threshold-relative persistence.
 
 **Strongest prior threat:** Contreras et al. 2018 already gives rich integer-order Double-Allee basin geometry, including stable-manifold, periodic and homoclinic thresholds.
 
-**Additional killer threat:** modern Caputo comparison principles may rigidly fix scalar strong-Allee thresholds at the same unstable equilibrium for all orders.
+**Scalar result:** modern Caputo separation/comparison theory closes scalar threshold-shift novelty: the unstable equilibrium remains the barrier.
 
-**What would survive:** a genuinely memory-state or multidimensional/incommensurate basin phenomenon not reducible to equilibrium algebra or standard comparison.
+**What would survive:** a reachable multidimensional/incommensurate memory-state basin phenomenon, ideally same-present/different-memory states with different long-run outcomes, not already subsumed by hereditary/Volterra theory.
