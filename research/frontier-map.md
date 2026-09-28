@@ -1,162 +1,122 @@
 # Frontier Map
 
-**Status:** Chief-synchronized after ROUND-0001 through ROUND-0005.  
-**Date:** 2026-09-28.
+**Status:** REFRAMED AFTER MISSION CLARIFICATION  
+**Date:** 2026-09-28
 
-A frontier entry distinguishes a verified/closed route from an unresolved search hypothesis.
+This map records what the current corpus supports. It is **not yet a complete map of the full domain**.
 
-## F-001 — Broad conic-sector multiplicative D-stability
+The authoritative domain is:
 
-**Status:** NOT A GAP.  
-**Best known result:** generalized multiplicative D-stability in unbounded LMI regions including conic sectors.  
-**Consequence:** broad “fractional D-stability” novelty claim rejected.
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
 
-## F-002 — Exact conic D-stability for a biologically natural structured subclass
+## FS-001 — Commensurate linear spectral stability
 
-**Status:** OPEN ONLY CONDITIONALLY.
+**Status:** mature foundational branch in current corpus.
 
-Classical exact D-stability already covers important subclasses:
-- low dimensions;
-- tridiagonal matrices;
-- acyclic matrices;
-- strong Metzler/positive cases;
-- qualitative/sign structure.
+Matignon-type sector stability is classical and should be treated as an anchor theorem family, not a novelty opportunity.
 
-No finite exact conic-sector criterion was identified for a concrete cyclic, non-Metzler ecological class, but no such class is yet mathematically forced by the chosen Double Allee mechanism.
+**Mapping need:** lineage, variants, assumptions, and relation to modern regional-stability formulations.
 
-**Chief disposition:** retain as conditional background problem; do not pursue as primary route unless the ecological model generates the required class naturally.
+## FS-002 — Broad conic-sector multiplicative D-stability
 
-## F-003 — Incommensurate state stability versus exact BIBO testing
+**Status:** NOT A BROAD GAP.
 
-**Status:** partially verified distinction.  
-**Best known result:** exact BIBO test exists.  
-**Residual issue:** simple structural state-stability characterization remains separate.  
-**Priority:** secondary to current Double Allee program.
+Generalized multiplicative D-stability in prescribed/LMI regions, including conic-sector settings, already exists.
 
-## F-101 — Simple fractionalization of Double Allee
+**Consequence:** generic “fractional D-stability” is not a fertile gap as stated.
 
-**Status:** CLOSED AS NOVELTY ROUTE.
+## FS-003 — Exact conic-sector robustness for specific structured classes
 
-Direct Caputo, incommensurate and discrete-fractional prior art exists.
+**Status:** CONDITIONAL CANDIDATE.
 
-## F-102 — Double Allee + continuum diffusion
+Classical exact D-stability covers several subclasses, while general regional D-stability is established.
 
-**Status:** CLOSED AS BROAD NOVELTY ROUTE.
+A residual exactness gap may remain for a concrete biologically natural cyclic, non-Metzler class.
 
-Reaction–diffusion prior art exists.
+**Constraint:** retain only if such a structure arises naturally from a relevant model; do not retrofit ecology to a matrix theorem.
 
-## F-103 — Generic network transformation of Allee/bistable thresholds
+## FS-004 — Incommensurate state stability
 
-**Status:** BROAD VERSION EFFECTIVELY COVERED.
+**Status:** UNDER-MAPPED / POSSIBLE GAP.
 
-Arbitrary-graph and special-graph persistence/extinction/bifurcation results already exist for strong-Allee/bistable local dynamics.
+Exact noncommensurate BIBO criteria are known.
 
-**Residual use:** only mechanism-resolved network statements that cannot be expressed after collapsing local dynamics to a generic bistable reaction.
+The state-stability structural frontier remains insufficiently mapped in this repository.
 
-## F-104 — Mechanism-resolved threshold composition
+**Action:** breadth/depth mapping before any novelty claim.
 
-**Status:** LEADING FRONTIER HYPOTHESIS / FINAL NOVELTY GATE OPEN.
+## FS-005 — Nonlinear fractional stability and converse theory
 
-### Precise target
+**Status:** UNDER-MAPPED.
 
-For
+The repository does not yet contain enough theorem-level evidence to state the true frontier for nonlinear local/global stability, linearization, Mittag-Leffler stability, or converse Lyapunov results.
 
-V_S(x)=B(x) product_{i in S} A_i(x),
+**Action:** ROUND-0008 then targeted depth search.
 
-with component deletion A_i -> 1, characterize exactly when:
-- individual component counterfactuals are non-strong;
-- the joint system has a strong demographic threshold;
-- the threshold is unique/multiple;
-- the threshold appears at a fold;
-- component-specific parameters move the threshold monotonically.
+## FS-006 — Robustness under parameter/order uncertainty
 
-### Best neighboring results
+**Status:** UNDER-MAPPED.
 
-- Berec et al. 2007: multiple effects and double dormancy;
-- Lan 2025: rigorous two-component model;
-- emergent-Allee structured-population models;
-- generic scalar bifurcation theory.
+Potentially high relevance to Double Allee and applied threshold dynamics, but no precise research gap is yet certified.
 
-### Remaining restriction
+## FS-007 — Delay / switching / stochastic / hybrid stability
 
-No result at the proposed function-class level has yet been identified.
+**Status:** UNDER-MAPPED.
 
-### Gap type
+No opportunity claim until canonical and strongest-known results are mapped.
 
-structural unification + exactness + comparative statics.
+## FS-008 — Fractional bifurcation, multistability and tipping
 
-### Next action
+**Status:** UNDER-MAPPED / HIGH DOUBLE-ALLEE RELEVANCE.
 
-ROUND-0006 exact formula-level novelty audit.
+This is a priority mapping branch because Double Allee is intrinsically a threshold/multistability phenomenon.
 
-## F-105 — Structural non-identifiability of hidden component mechanisms
+No gap is yet certified.
 
-**Status:** LEADING FRONTIER HYPOTHESIS / FINAL NOVELTY GATE OPEN.
+## FS-009 — Fractional persistence/extinction theory
 
-### Precise target
+**Status:** UNDER-MAPPED / HIGH DOUBLE-ALLEE RELEVANCE.
 
-If aggregate dynamics depend on
+Need to distinguish:
+- generic positivity/persistence results;
+- threshold theorems;
+- ecological model-specific results;
+- exact versus sufficient conditions.
 
-P(x)=product_i A_i(x),
+## DA-001 — Simple fractionalization of Double Allee
 
-then transformations
+**Status:** CLOSED AS A FERTILE BROAD GAP.
 
-A_i -> A_i h_i,
-with product_i h_i = 1,
+Direct Caputo, incommensurate and discrete-fractional Double-Allee prior art exists.
 
-leave the demographic vector field unchanged.
+## DA-002 — Generic network/diffusion Double Allee
 
-### Candidate consequence
+**Status:** BROAD VERSION CROWDED / NOT A CLEAN GAP.
 
-Aggregate abundance trajectories identify the composite demographic mechanism but not the individual component functions in a nonparametric class.
+Network, metapopulation and diffusion threshold results already exist in nearby forms.
 
-### Gap type
+## DA-003 — Mechanism-space / persistence-filtered composition
 
-inverse problem + structural identifiability + mechanism attribution.
+**Status:** RETAINED CANDIDATE OPPORTUNITY.
 
-### Main novelty threat
+Rounds 0004–0007 found no direct theorem that fully couples:
+- component-level low-density failure;
+- minimal mechanism combinations;
+- global positive persistence.
 
-General symmetry/gauge identifiability theory may already contain an equivalent theorem, and ecological demography may have function-decomposition analogues.
+However:
+- convexity is standard;
+- weighted coalitions are standard;
+- antichain/order-convex structure is standard;
+- envelope sensitivity is standard.
 
-### Next action
+The residual opportunity is the **persistence-filtered synthesis**, whose mathematical depth remains uncertain.
 
-ROUND-0006.
+See:
+`research/double-allee/CANDIDATE_MECHANISM_SPACE_GEOMETRY.md`
 
-## F-106 — Minimal component-observation design
+## Map-level conclusion
 
-**Status:** SEARCH HYPOTHESIS.
+The current repository is overdeveloped around Double Allee relative to the broader FDE stability domain.
 
-### Precise target
-
-Characterize which component-specific outputs are necessary/sufficient to break the factorization ambiguity and recover hidden demographic mechanisms.
-
-### Applied significance
-
-This directly determines whether survival/reproduction datasets can test multiple-component Allee hypotheses.
-
-### Next action
-
-ROUND-0006.
-
-## F-107 — Network/fractional invariance of component non-identifiability
-
-**Status:** SECONDARY THEOREM HYPOTHESIS.
-
-If the local right-hand side depends only on a composite product and coupling is independent of factor labels, known network coupling does not break the hidden-factor symmetry.
-
-Likewise, changing the left-hand-side derivative to a fixed fractional operator does not change a right-hand-side factorization invariance.
-
-**Importance:** natural bridge back to fractional/network theory without cosmetic fractionalization.
-
-**Next action:** ROUND-0006 must search symmetry/identifiability analogues.
-
-## F-108 — Real-data mechanism/threshold identification
-
-**Status:** VIABLE SUPPORTING APPLICATION, NOT YET A SINGLE READY DATASET.
-
-- island fox: biologically ideal, raw historical data not verified open;
-- Crested Ibis: strong multiple-component lead, raw access unresolved;
-- herring/cod: open threshold-inference benchmarks;
-- freshwater mussel: open component-effect benchmark.
-
-Fractional memory is not currently supported as a required empirical parameter.
+No single “best gap” should be selected until ROUND-0008 and subsequent depth-first waves improve coverage of FS-004 through FS-009.
