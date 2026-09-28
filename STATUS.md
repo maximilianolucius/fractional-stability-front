@@ -36,6 +36,7 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0014 — variable/distributed-order dynamics audit.
 - ROUND-0015 — stochastic/switching fractional persistence audit.
 - ROUND-0016 — cross-candidate adversarial comparison.
+- ROUND-0017 — shortlist final killer audit.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -95,15 +96,17 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0017 — Shortlist final killer audit
+### Gap-discovery phase
 
-**Status:** OPEN
+**Status:** COMPLETE
 
-Purpose:
+Final disposition:
 
-- test the three surviving families against their strongest remaining adjacent theories;
-- determine whether each survives as a genuine theorem gap, only as an application/translation, requires reformulation, or is killed;
-- close the evidence needed before the Chief makes the project's final research-opportunity recommendation.
+- **Primary recommendation:** deterministic reachable memory-state basin geometry in positive multidimensional Caputo systems, preferably strong/Double-Allee.
+- **Secondary:** robust multibasin threshold geometry under parameter/order/kernel perturbations.
+- **High-risk future:** rare extinction / basin-exit theory for positive stochastic fractional-memory systems.
+
+No ROUND-0018 is opened. Proving the recommended theorem family belongs to a new project.
 
 ## Current candidate opportunity portfolio
 
@@ -128,7 +131,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0017 when returned;
-5. make a final Chief recommendation among the surviving theorem-level opportunities;
+4. final recommendation published in research/FINAL_RECOMMENDATION.md;
+5. future theorem proving requires a separate project; optional continuation here is a survey/review.
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
