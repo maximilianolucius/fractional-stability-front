@@ -366,3 +366,42 @@ D11 survives only in narrowed form: positive Caputo persistence on the Volterra 
 
 **Dated report:** research/web-search/2026-09-28_fractional-uniform-persistence-falsification.md.
 
+---
+
+## 2026-09-28 — ROUND-0010 — fractional bifurcation semantics
+
+**Question.** What rigorous bifurcation architecture exists for continuous-time fractional differential systems, and what remains after distinguishing equilibrium bifurcation, stability crossing, attractor change, exact periodicity and history-state recurrence?
+
+**Search blocks.**
+- Caputo stable / center-stable / center manifolds;
+- fractional center-manifold reduction;
+- Lyapunov–Schmidt and normal-form reduction;
+- fold / transcritical / pitchfork / cusp / codimension-two;
+- exact periodic-solution nonexistence;
+- “fractional Hopf” corrections and operator conventions;
+- Liouville–Weyl / infinite-past periodic solutions;
+- S-asymptotically periodic fractional solutions;
+- Volterra center manifolds / local and global Hopf;
+- Caputo history-state / singular Volterra semiflow;
+- incommensurate center manifold / normal form / bifurcation;
+- fractional Double-Allee basin / threshold / bifurcation semantics.
+
+**Decisive findings.**
+1. Finite-dimensional Caputo stable, center and center-stable manifold theory exists.
+2. Caputo Lyapunov–Schmidt reduction exists; Caputo–Hadamard center-manifold and LS reductions exist.
+3. Fold/transcritical/pitchfork equilibrium-bifurcation results exist; equilibrium branch location is still determined by the RHS root equation.
+4. Tavazoei–Haeri 2009 excludes nonconstant exact periodic solutions for the finite-terminal autonomous Caputo setting considered, including commensurate and incommensurate systems.
+5. Infinite-past/Liouville–Weyl-type formulations can admit exact periodic solutions; rigorous fractional Floquet theory remains incomplete.
+6. Classical Volterra equations already have center-manifold/Hopf theory, but inspected kernel hypotheses do not automatically contain the canonical weakly singular, algebraically decaying Caputo kernel.
+7. No general incommensurate nonhyperbolic center-manifold/normal-form theorem was identified.
+8. Generic fractional Double-Allee bifurcation is crowded; the residual is memory-state basin/attractor/nonhyperbolic semantics rather than recomputation of algebraic folds.
+
+**Round verdict.**
+D10 survives as a narrowed opportunity family:
+- singular-memory Caputo history-state bifurcation;
+- incommensurate nonhyperbolic reduction;
+- periodic/Floquet theory under an operator that admits exact periodicity;
+- Double-Allee memory-state basin/attractor bifurcation.
+
+**Dated report:** `research/web-search/2026-09-28_fractional-bifurcation-semantics.md`.
+
