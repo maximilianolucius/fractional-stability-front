@@ -54,3 +54,45 @@ Verification labels:
 1. Full-text status refers only to the material actually inspected in this round.
 2. Conference result S015 is retained primarily as a terminology warning until its exact transformation definition is inspected from full text.
 3. Source inclusion does not imply that every claim in the source is accepted as exact; theorem strength is separately recorded in the theorem corpus.
+
+## ROUND-0003 — Structured D-stability
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S201 | Johnson, *Sufficient conditions for D-stability* (1974) | DOI 10.1016/0022-0531(74)90074-X | PRIMARY/ABSTRACT | classical survey; lack of effective general characterization |
+| S202 | Johnson, *Second, Third, and Fourth Order D-Stability* (1974) | DOI 10.6028/jres.078B.004 | PRIMARY/FULL | exact low-dimensional conditions |
+| S203 | Carlson, Datta, Johnson (1982) | DOI 10.1137/0603030 | PRIMARY/ABSTRACT | exact real tridiagonal D-stability |
+| S204 | Berman, Hershkowitz (1984) | DOI 10.1016/0024-3795(84)90201-5 | PRIMARY/ABSTRACT | exact acyclic D-stability |
+| S205 | Chen, Fan, Yu (1995) | DOI 10.1016/0167-6911(94)00036-U | PRIMARY/ABSTRACT | real structured-singular-value iff; hardness warning |
+| S206 | Narendra, Shorten (2009) | DOI 10.1109/ACC.2009.5160435 | PRIMARY/FULL | Hurwitz Metzler/diagonal-stability recursive exact structure |
+| S207 | Jeffries, Klee, van den Driessche (1987) | DOI 10.1016/0024-3795(87)90156-X | PRIMARY/ABSTRACT | qualitative/sign graph theory |
+
+## ROUND-0004 — Double dormancy/network
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S301 | Lan, *Threshold dynamics of a stochastic single species model with two component Allee effects* (2025) | DOI 10.1016/j.chaos.2025.116952 | PRIMARY/ABSTRACT | strongest direct two-component threshold prior art |
+| S302 | de Roos, Persson, Thieme (2003) | DOI 10.1098/rspb.2002.2286 | PRIMARY/FULL | conditions for emergent Allee effect outside double-dormancy vocabulary |
+| S303 | van Kooten, de Roos, Persson (2005) | DOI 10.1016/j.jtbi.2005.03.032 | PRIMARY/ABSTRACT | emergent Allee + bistability under stage-specific predation |
+| S304 | Jorge, Martinez-Garcia (2024) | DOI 10.1098/rsif.2024.0042 | PRIMARY/FULL | component-to-demographic emergence through aggregation |
+| S305 | Stehlík, Švígler, Volek (2023) | DOI 10.1016/j.jmaa.2023.127581 | PRIMARY/FULL HTML | arbitrary connected-graph persistence/extinction theorem |
+| S306 | Nagatani, Ichinose (2019) | DOI 10.1016/j.physa.2019.01.037 | PRIMARY/ABSTRACT | direct topology-sensitive graph Allee model |
+| S307 | Zhou, Wang (2004) | DOI 10.1016/j.mbs.2003.06.001 | PRIMARY/ABSTRACT | metapopulation-level threshold emergence |
+
+## ROUND-0005 — Data and identifiability
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S401 | NPS Island Fox Monitoring | official NPS monitoring page | OFFICIAL WEB | annual abundance grids/PIT tags and radio-collar survival monitoring |
+| S402 | Perälä, Kuparinen (2017) | DOI 10.1098/rspb.2017.1284 | PRIMARY/FULL+DATA | low-abundance data necessity; nine herring stocks |
+| S403 | Perälä, Hutchings, Kuparinen dataset | Dryad 10.5061/dryad.r4xgxd2dg | DATASET/OPEN CC0 | open cod stock/recruitment threshold benchmark |
+| S404 | Terui et al. dataset | Dryad 10.5061/dryad.bb75p | DATASET/OPEN | component fertilization/density/spatial data |
+| S405 | Robinet et al. (2008) | DOI 10.1111/j.1365-2656.2008.01417.x | PRIMARY/FULL | release–recapture mate-finding mechanism data |
+| S406 | Li et al. Crested Ibis (2022) | DOI 10.1016/j.gecco.2022.e02103 | PRIMARY/OPEN ABSTRACT | close multiple-component empirical alternative |
+| S407 | Johnson et al. low-density experiments (2019) | DOI 10.1371/journal.pbio.3000399 | PRIMARY/FULL+LINKED DATA | Allee model discrimination methodology |
+| S408 | Alavi et al. (2015) | arXiv:1511.01402 | PREPRINT/FULL | general fractional structural-identifiability method |
+| S409 | Nazarian, Haeri, Tavazoei (2010) | DOI 10.1016/j.isatra.2009.11.007 | PRIMARY/ABSTRACT | fractional model/parameter identifiability limitations |
+| S410 | Varalda, Pequito (2026) | DOI 10.1016/j.ifacsc.2026.100397 | PRIMARY/OPEN | structural identifiability theorem for fractional-order networks |
+| S411 | Kharazmi et al. (2021) | DOI 10.1038/s43588-021-00158-0 | PRIMARY/FULL | integer/fractional/time-delay model comparison under sparse/noisy data |
+| S412 | Liu, Wang, Zhang (2025) | DOI 10.1016/j.jfranklin.2024.107444 | PRIMARY/ABSTRACT | simultaneous fractional order + delay identification under colored noise |
+
