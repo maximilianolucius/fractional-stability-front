@@ -197,3 +197,55 @@ For each source used in a theorem or novelty statement, prefer the original publ
 
 **Dated note:** `research/web-search/2026-09-28_double-allee-data-identifiability.md`.
 
+---
+
+## 2026-09-28 — ROUND-0006 — mechanism-resolved final novelty gate
+
+**Question.** Does prior theory subsume the frozen program combining mechanism-resolved threshold composition with hidden-factor identifiability and minimal observation design?
+
+**Forward search families.**
+- `survival fecundity product threshold population theorem`
+- `density dependent survival fecundity Allee threshold`
+- `multiple component Allee effects exact threshold`
+- `double dormancy theorem Allee`
+- `two weak Allee effects strong threshold`
+- `synergistic Allee effects survival reproduction`
+- `multiple life stage density regulation equilibria`
+- `demographic compensation survival fecundity Allee`
+- `fitness component product density dependence`
+- exact DOI/citation chase for Pavlová–Berec–Boukal 2010 and Berec et al. 2007.
+
+**Inverse/identifiability search families.**
+- `factorized nonlinear model structural identifiability`
+- `product identifiable combinations structural identifiability`
+- `gauge symmetry structural identifiability ODE`
+- `Lie symmetry parameter nonidentifiability biological model`
+- `minimal outputs structural identifiability nonlinear systems`
+- `integrated population model survival reproduction identifiability`
+- `abundance only survival fecundity identifiability`
+- `nonparametric product unknown functions identifiability`
+- `network structural identifiability hidden local parameters`
+- `fractional model symmetry identifiability`
+
+**Citation expansion.**
+Backward/forward and related-method searches were run from:
+- Yates–Evans–Chappell 2009;
+- Meshkat–Anderson–DiStefano 2011;
+- Joubert–Stigter–Molenaar 2018;
+- structural-identifiability symmetry reviews;
+- integrated population model literature;
+- Berec 2007 and direct component-effect follow-ups.
+
+**Decisive findings.**
+1. Multiple survival/fecundity density-regulation and explicit multiplicative demographic decomposition predate the project.
+2. No searched source gives the frozen general component-deletion double-dormancy theorem across a reusable function class.
+3. The proposed gauge is an output-preserving symmetry and therefore falls under established structural-identifiability theory.
+4. Minimal output selection is an established structural-identifiability problem.
+5. Network/fixed-fractional preservation of an exactly unchanged RHS is a direct corollary rather than independent novelty.
+6. The frozen forward unimodality/fold and implicit-comparative-statics lemmas are standard calculus/bifurcation tools.
+
+**Round verdict.**
+The integrated program survives only with **forward mechanism-resolved composition** as the novelty core, and only if strengthened beyond assuming the product is unimodal.
+
+**Dated note:** `research/web-search/2026-09-28_mechanism-resolved-final-novelty.md`.
+
