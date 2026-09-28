@@ -35,6 +35,7 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0013 — robust nonlinear threshold/order-uncertainty audit.
 - ROUND-0014 — variable/distributed-order dynamics audit.
 - ROUND-0015 — stochastic/switching fractional persistence audit.
+- ROUND-0016 — cross-candidate adversarial comparison.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -94,17 +95,15 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0016 — Cross-candidate adversarial comparison
+### ROUND-0017 — Shortlist final killer audit
 
 **Status:** OPEN
 
 Purpose:
 
-- compare the strongest surviving candidates under the same evidentiary standard;
-- run new hostile searches against every candidate;
-- identify overlaps and merge candidates where appropriate;
-- eliminate terminology-level, too-narrow, over-crowded or weakly Double-Allee-connected gaps;
-- reduce the portfolio to a defensible shortlist before any final recommendation.
+- test the three surviving families against their strongest remaining adjacent theories;
+- determine whether each survives as a genuine theorem gap, only as an application/translation, requires reformulation, or is killed;
+- close the evidence needed before the Chief makes the project's final research-opportunity recommendation.
 
 ## Current candidate opportunity portfolio
 
@@ -129,7 +128,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0016 when returned;
-5. reduce the portfolio to 2–4 serious survivors if justified by evidence;
+4. assimilate ROUND-0017 when returned;
+5. make a final Chief recommendation among the surviving theorem-level opportunities;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
