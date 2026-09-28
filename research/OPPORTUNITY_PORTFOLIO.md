@@ -113,7 +113,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-DA-02 — Reachable fractional-memory basin geometry near Double Allee thresholds
 
-**Status:** ACTIVE KILLER AUDIT — ROUND-0012.
+**Status:** RETAINED / PAUSED AFTER ROUND-0012.
 
 **Core question:** within memory states actually reachable/admissible from Caputo dynamics, can survival/extinction basin membership depend on memory beyond the current physical population state?
 
@@ -123,4 +123,23 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Scalar result:** modern Caputo separation/comparison theory closes scalar threshold-shift novelty: the unstable equilibrium remains the barrier.
 
-**What would survive:** a reachable multidimensional/incommensurate memory-state basin phenomenon, ideally same-present/different-memory states with different long-run outcomes, not already subsumed by hereditary/Volterra theory.
+**What survived:** the narrow fiberwise question whether one current-state fiber inside the reachable Caputo state set can intersect distinct asymptotic basins. Reachable same-present/different-memory itself is already direct prior.
+
+**Reason for pause:** the branch is now sufficiently narrow that further consecutive drilling would bias the global map.
+
+
+---
+
+## OPPORTUNITY-FS-05 — Robust nonlinear survival/extinction under parameter and fractional-order uncertainty
+
+**Status:** ACTIVE FALSIFICATION — ROUND-0013.
+
+**Core question:** can one characterize survival, extinction, persistence, invariant regions, or basin/threshold structure uniformly over uncertainty in ecological parameters and fractional orders?
+
+**Why this matters:** linear robust fractional stability is comparatively mature, while Double Allee is inherently a threshold/persistence phenomenon and real (alpha) values are estimated with uncertainty.
+
+**Strongest threats:** nonlinear robust-control literature, classical robust permanence, differential inclusions, viability kernels, set-valued semiflows, robust invariant-set theory.
+
+**Novelty risk:** high until a theorem-level residual survives those adjacent theories.
+
+**Double Allee proximity:** very high.
