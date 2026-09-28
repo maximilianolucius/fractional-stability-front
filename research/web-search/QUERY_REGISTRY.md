@@ -156,3 +156,24 @@ For each high-value result, the search was expanded by at least one of:
 | Q099 | 0008 | `fractional structural identifiability network order inverse problem` | D13 architecture | existing Alavi / Nazarian / Varalda-Pequito corpus confirmed mature generic theory |
 | Q100 | 0008 | `fractional Double Allee recent 2021 2026 incommensurate discrete diffusion` | D15 cross-cutting check | existing repo coverage confirmed cosmetic route saturation |
 
+## ROUND-0009 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q101 | 0009 | Caputo fractional uniform persistence abstract theorem | direct fractional theory | only model-specific results found |
+| Q102 | 0009 | autonomous Caputo semiflow history space Volterra | history-state killer test | Doan–Kloeden 2021 found |
+| Q103 | 0009 | Caputo skew-product attractor dissipativity | Q2/Q4 | Cui–Kloeden 2024 found |
+| Q104 | 0009 | Caputo compact absorbing set attractor 2026 | Q4 compactness | Cui–Kloeden–Xin arXiv:2607.05799 found |
+| Q105 | 0009 | persistence infinite-dimensional C0 semigroup boundary attractor | abstract killer | Hale–Waltman 1989 found |
+| Q106 | 0009 | nonautonomous semiflow persistence permanence Thieme | history/nonautonomous killer | Thieme 2000 found |
+| Q107 | 0009 | persistence permanence infinite delay FDE | hereditary killer | Faria 2016 found |
+| Q108 | 0009 | robust permanence invariant measures invasion Lyapunov exponents | Q5/Q6 benchmark | Garay–Hofbauer; Hofbauer–Schreiber line found |
+| Q109 | 0009 | invasion graphs permanence acyclic | Q6 benchmark | Hofbauer–Schreiber 2022 found |
+| Q110 | 0009 | fractional SEIHRDP uniformly persistent | direct applied fractional evidence | Lu et al. 2023 Theorem 3.6 found |
+| Q111 | 0009 | fractional phytoplankton permanence persistence | direct ecological fractional evidence | Abbas et al. 2016 found |
+| Q112 | 0009 | fractional persistence problem positivity order Cresson | terminology control | confirmed distinct meaning |
+| Q113 | 0009 | conditional persistence Allee effect | Double-Allee concept test | Roth–Schreiber 2014 found |
+| Q114 | 0009 | persistence relative to subset persistence function semiflow | basin-relative novelty test | abstract theory already allows chosen persistence functions/sets |
+| Q115 | 0009 | robust persistence Caputo history semiflow | direct surviving subgap | no general resolving source found |
+| Q116 | 0009 | fractional invasion rate memory state permanence | direct surviving subgap | no general resolving source found |
+
