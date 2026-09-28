@@ -52,3 +52,45 @@ For each high-value result, the search was expanded by at least one of:
 - Citation indexes differ in coverage; this seed does not claim exhaustive forward-citation closure.
 - “D-stability” has incompatible meanings across matrix analysis and control; every future query must include the transformation or region explicitly.
 - “Double Allee” is not a reliable mathematical descriptor by itself; future searches must specify mechanism and threshold geometry.
+
+## ROUND-0003 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q028 | 0003 | `D-stable matrix necessary sufficient characterization` | classical exact theory | historical exact subclasses and surveys recovered |
+| Q029 | 0003 | `second third fourth order D-stability` | low dimension | Johnson 1974 exact low-order conditions |
+| Q030 | 0003 | `tridiagonal D-stable matrices characterization` | graph/path subclass | Carlson–Datta–Johnson exact characterization |
+| Q031 | 0003 | `acyclic D-stable matrices` | graph subclass | Berman–Hershkowitz exact N&S result |
+| Q032 | 0003 | `D-stability NP-hard structured singular value` | complexity | Chen–Fan–Yu real-mu iff; may be NP-hard |
+| Q033 | 0003 | `Metzler D-stability diagonal stability Hurwitz` | positive subclass | Hurwitz Metzler / diagonal-stability collapse located |
+| Q034 | 0003 | `qualitative sign D-stability graph` | sign pattern threat | complete sign-stability literature found; not conic equivalent |
+| Q035 | 0003 | `conic sector relative D-stability acyclic tridiagonal Metzler` | direct novelty falsification | no finite exact conic intersection found in searched corpus |
+
+## ROUND-0004 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q036 | 0004 | `"double dormancy" Allee Berec` | citation/definition chase | concept remains centered on Berec lineage |
+| Q037 | 0004 | `"two component Allee effects" threshold dynamics` | direct prior theorem | Lan 2025 found |
+| Q038 | 0004 | `emergent Allee effect stage structured predation` | non-Allee formulation | de Roos 2003; van Kooten 2005 |
+| Q039 | 0004 | `component Allee demographic aggregation` | mechanism-to-demography | Jorge–Martinez-Garcia 2024 |
+| Q040 | 0004 | `source sink dynamics network bistable persistence extinction` | arbitrary graph theorem | Stehlík–Švígler–Volek 2023 |
+| Q041 | 0004 | `diffusively coupled Allee graph topology` | direct graph literature | Nagatani–Ichinose 2019 |
+| Q042 | 0004 | `Allee-like metapopulation threshold migration` | metapopulation emergence | Zhou–Wang 2004 |
+
+## ROUND-0005 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q043 | 0005 | `"Double Allee Effects and Extinction in the Island Fox" dataset Dryad supplementary` | raw data trace | no open exact 1988–2000 raw package found |
+| Q044 | 0005 | `island fox NPS monitoring capture recapture survival annual` | agency data route | NPS monitoring/IRMA documentation found |
+| Q045 | 0005 | `Allee effects northwest Atlantic cod Dryad` | open threshold data | CC0 Dryad dataset found |
+| Q046 | 0005 | `Detection Allee effects marine fishes supplementary data` | model-discrimination data | nine-stock herring XLS found |
+| Q047 | 0005 | `cryptic Allee effect Dryad fertilization density` | component data | open mussel Dryad found |
+| Q048 | 0005 | `gypsy moth mating success Allee release recapture data` | mechanism data | real experiment found; raw repo not verified |
+| Q049 | 0005 | `Crested Ibis component Allee survival reproduction data` | multiple-component alternative | close empirical system found; raw repo unverified |
+| Q050 | 0005 | `structural identifiability fractional order models` | inverse-problem prior art | Alavi 2015 + later theory |
+| Q051 | 0005 | `structural identifiability fractional-order networks 2026` | network threat | Varalda–Pequito theorem found |
+| Q052 | 0005 | `fractional order time delay identification colored noise` | confounding check | joint estimation methods found |
+| Q053 | 0005 | `integer fractional time-delay model identifiability sparse data` | model-class confounding | Kharazmi et al. 2021 found |
+
