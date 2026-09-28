@@ -1,37 +1,66 @@
 # Research Workflow
 
-## Stage 0 — Protocol
-Freeze scope, terminology, questions, search strategy, and schemas.
+## Stage 0 — Charter and protocol
+Freeze domain, objectives, evidence rules, taxonomy and agent roles.
 
-## Stage 1 — Seed corpus
-Collect foundational stability results, canonical fractional criteria, major reviews, adjacent mature theories, and Allee/Double Allee foundations.
+## Stage 1 — Domain architecture
+Partition **Dynamical Systems and Stability Theory — Fractional Differential Equations** into coherent theorem families.
 
-## Stage 2 — Systematic expansion
-Run database searches plus backward/forward citation chasing. Preserve raw exports.
+## Stage 2 — Breadth-first seed corpus
+For every branch collect:
+- canonical review;
+- foundational theorem;
+- strongest known generalization;
+- recent frontier source;
+- explicit open problem where available.
 
-## Stage 3 — Screening
-Assign include / exclude + reason / borderline / pending verification.
+## Stage 3 — Systematic expansion
+Run database searches, backward/forward citation chasing, author follow-ups and synonym expansion.
 
 ## Stage 4 — Theorem extraction
-Extract theorem-level information from full texts, not abstracts alone.
+Extract theorem-level hypotheses, strength, dimension, operator/order structure, proof method and limitations.
 
 ## Stage 5 — Result deduplication
-Identify equivalent criteria, genuine generalizations, strengthened/weakened assumptions, conflicting claims, and special cases.
+Identify equivalent criteria, genuine generalizations, restrictions, corrections and contradictory-looking results.
 
 ## Stage 6 — Theorem map
-Represent logical implications and non-comparability between results.
+Build implication/generalization/non-comparability relationships.
 
-## Stage 7 — Frontier analysis
-Ask for each branch: strongest exact result, artificial assumptions, missing converse, unresolved dimension/order/topology, conservatism, and adjacent tools.
+## Stage 7 — Frontier map
+For each branch identify:
+- strongest exact result;
+- missing converse;
+- restrictive assumptions;
+- robustness failures;
+- computational barriers;
+- bridge opportunities.
 
-## Stage 8 — Open-problem catalogue
-Record evidence, best-known result, precise gap, dependencies, candidate tools, and possible obstructions.
+## Stage 8 — Double Allee focused map
+Map Double/Multiple Allee mathematics and locate it within the broader FDE/stability frontier.
 
-## Stage 9 — Double Allee branch
-Build terminology, state of art, candidate directions, dataset inventory, and adversarial novelty audit.
+## Stage 9 — Candidate opportunity portfolio
+Generate several candidate gaps. Record:
+- exact gap;
+- evidence class;
+- strongest threat;
+- mathematical depth;
+- FDE centrality;
+- Double Allee proximity;
+- empirical relevance.
 
-## Stage 10 — Research agenda
-Organize targets by logical dependency and structural value.
+## Stage 10 — Adversarial falsification
+Search the mathematical abstraction of each promising candidate in adjacent literatures.
 
-## Stage 11 — Survey manuscript
-Write only when the map is mature enough that the narrative reflects mathematical structure rather than search order.
+A surviving candidate remains in the portfolio; it does not automatically become an active theorem project.
+
+## Stage 11 — Opportunity comparison
+Compare surviving gaps only after broad domain coverage is sufficient.
+
+## Stage 12 — Survey readiness audit
+Determine whether the state-of-art map can support a coherent review/survey manuscript.
+
+## Stage 13 — Optional survey manuscript
+Write the survey only after the map is stable.
+
+## Out of scope
+Solving the selected future research gap and writing the original research paper belong to a separate project.
