@@ -601,3 +601,69 @@ The unresolved object is:
 > whether a fiber of \(e_0:\mathcal R_\alpha\to X_{\rm phys}\) can intersect two distinct asymptotic basins in an autonomous multidimensional Caputo system, with a structural characterization of such fiberwise multibasin geometry.
 
 For this project the preferred realization is a positive strong/Double-Allee system, ideally including genuinely incommensurate orders.
+
+## ROUND-0013 — Robust nonlinear thresholds under parameter/order uncertainty
+
+### NC-1301 — Simultaneous parameter + fractional-order uncertainty is broadly new
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Linear fractional systems already have direct robust-stability theory with uncertain coefficients, uncertain order, coupled order/parameter bounds, mixed uncertainties and incommensurate orders. Yang–Hou 2019 gives non-conservative joint order/structured-parameter regions for its class.
+
+### NC-1302 — Incommensurate robust uncertainty is an open blank field
+
+**Classification:** **FALSE / DIRECT PRIOR FOR LINEAR SYSTEMS**
+
+Tavazoei–Asemani and related work cover incommensurate robust linear stability, including irrational orders and time-varying interval uncertainty. The residual is nonlinear global ecology, not linear multi-order robustness.
+
+### NC-1303 — Nonlinear open-loop robust fractional stability is missing
+
+**Classification:** **FALSE / SUBSTANTIAL DIRECT PRIOR**
+
+Global robust Mittag-Leffler/asymptotic stability theorems exist for uncertain fractional neural networks and interval nonlinear systems. These results are class-specific sufficient certificates and typically single-equilibrium, not multibasin threshold theory.
+
+### NC-1304 — General nonlinear survival/extinction or persistence uniformly over alpha and theta
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+No searched theorem gives uncertainty-uniform extinction/survival, common survival/extinction sets, or basin-relative persistence for a general autonomous positive Caputo family over simultaneous parameter/order uncertainty.
+
+### NC-1305 — Classical robust permanence automatically solves the Caputo problem
+
+**Classification:** **CLOSE PRIOR ART / NOT DIRECTLY SUBSUMING**
+
+Classical robust permanence is mature and powerful. But its perturbation/state hypotheses do not transparently include changes in fractional order/kernel or the Caputo memory-state construction. Strong Allee also requires basin-relative rather than global permanence.
+
+### NC-1306 — Differential-inclusion viability makes robust threshold sets routine
+
+**Classification:** **FALSE AS STATED / SUBSTANTIAL PARTIAL THEORY**
+
+Caputo viability and fractional differential inclusions have direct theory, but viability is existential. Universal robustness requires all admissible uncertainty realizations to remain in the set. Memo-viability work itself shows classical tangency transfer is nontrivial.
+
+### NC-1307 — Common robust basin regions are a new concept
+
+**Classification:** **FALSE OUTSIDE FDEs / CLOSE PRIOR ART**
+
+Robust region-of-attraction estimation under bounded parameter uncertainty is mature in nonlinear ODE/control theory. A fractional contribution must involve memory/order uncertainty, extinction boundaries, persistence, or sharp multibasin geometry.
+
+### NC-1308 — Multiparameter fractional bifurcation boundaries are new
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Yang–Hou–Li–Luo 2022 already partitions multiparameter space and identifies local stability/critical hypersurfaces for nonlinear fractional systems. The residual must be global robust threshold/basin structure.
+
+### NC-1309 — Fractional ecological uncertainty papers already solve robust Allee thresholds
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+The closest direct fractional predator-prey uncertainty paper uses fuzzy initial conditions and numerical propagation. Existing fractional Allee papers vary selected parameters/orders but do not provide uncertainty-uniform robust survival/extinction theorem families.
+
+### NC-1310 — Residual D6 candidate after falsification
+
+**Classification:** **SEARCH-QUALIFIED CANDIDATE**
+
+> Uncertainty-uniform global threshold geometry and basin-relative persistence for positive nonlinear Caputo systems under simultaneous parameter and fractional-order uncertainty, including genuinely incommensurate order boxes.
+
+For strong/Double Allee, the key objects are common robust survival/extinction regions, preservation or loss of bistability, uniform persistence constants on the survival side, and robust separator bounds.
+
+No result resolving this package was identified in the searched corpus as of 2026-09-28.
