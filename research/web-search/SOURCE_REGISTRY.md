@@ -312,3 +312,19 @@ Verification labels:
 | S1261 | Berec, Angulo & Courchamp, multiple Allee effects (2007) | DOI 10.1016/j.tree.2006.12.002 | C6 | classic multiple-component interaction/double-dormancy framework |
 | S1262 | Lan, two-component stochastic Allee threshold (2025) | DOI 10.1016/j.chaos.2025.116952 | C6 | sharp extinction/permanence threshold with two component Allee effects |
 | S1263 | Yang & Fan, multiple-Allee predator-prey bifurcation (2026) | DOI 10.1002/mma.70728 | C6 | rich recent bistability/BT/Turing-Hopf direct prior |
+
+## ROUND-0017 — Shortlist final killer audit
+
+| ID | Source | Persistent identifier | Family pressure | Why it matters |
+|---|---|---|---|---|
+| S1264 | Smith & Zhao, Robust persistence for semidynamical systems (2001) | DOI 10.1016/S0362-546X(01)00678-2 | B | robust persistence already abstract at semiflow level |
+| S1265 | Salceanu, Robust uniform persistence for structured delay models (2022) | DOI 10.3934/dcdsb.2021258 | B | direct robust persistence on biological history/delay state |
+| S1266 | Lipshutz, Exit time asymptotics for small-noise SDDEs (2018) | DOI 10.3934/dcds.2018135 | C | uniform history-space LDP + quasipotential/exit asymptotics |
+| S1267 | Herrera-Marín, Regime-Switching Volterra Operators (2026) | arXiv:2606.23558 | C | second 2026 persistent-memory switching framework; switching demoted to application layer |
+| S1268 | Huang et al., bistable DDE basins (2014) | DOI 10.1016/j.jde.2013.12.015 | A | history-space basin geometry with Allee application; no endpoint-sufficiency theorem |
+| S1269 | Mondal et al., fractional Double-Allee predator-prey (2025) | DOI 10.1016/j.cjph.2025.09.020 | A | natural positive nontriangular multistable Double-Allee realizability class |
+| S1270 | Doan, Kloeden & Tuan, Attractors of Caputo FDEs (2025/2026) | DOI 10.1007/978-3-032-05511-8 | B | includes continuous dependence on fractional index; alpha perturbation not automatically singular |
+| S1271 | Wu, Caputo system comparison principles (2023) | DOI 10.1016/j.chaos.2023.113437 | A | quasi-/mixed-monotone comparison restricts ordered subclasses |
+| S1272 | Földes & Stacy, Stochastic Persistence in Infinite Dimensions (2026) | arXiv:2601.19145 | C | theorem-level compatibility test confirms abstract persistence framework is already broad |
+| S1273 | Hamaguchi, Markovian lift for stochastic Volterra (2024) | DOI 10.1016/j.spa.2024.104482 | C | supplies Hilbert Markov/Feller memory state for compatibility analysis |
+| S1274 | Alfonsi / Abi Jaber-Alfonsi-Szulda stochastic Volterra invariance (2025–2026) | DOI 10.1016/j.spa.2024.104535; 10.1016/j.spa.2026.105078 | C | positive-cone-preserving noise/invariance makes ecological formulation feasible |
