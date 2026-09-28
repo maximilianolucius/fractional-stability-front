@@ -249,3 +249,38 @@ The integrated program survives only with **forward mechanism-resolved compositi
 
 **Dated note:** `research/web-search/2026-09-28_mechanism-resolved-final-novelty.md`.
 
+---
+
+## 2026-09-28 — ROUND-0007 — mechanism-space geometry falsification
+
+**Question.** Are THM-P2/P3/P4/P5 already standard under convex viability, threshold-game, reliability, epidemiological-intervention or tipping terminology?
+
+**Query families.**
+- `semi infinite programming intersection halfspaces convex feasible set`
+- `population persistence region convex parameter space`
+- `extinction region intervention vector convex`
+- `effective reproduction number convex vaccination strategy`
+- `optimal rays vaccination strategy`
+- `minimal winning coalition weighted threshold game`
+- `minimal cut sets coherent reliability system`
+- `Sperner antichain minimal winning coalitions`
+- `intersection upset downset order convex poset`
+- `Danskin theorem max value gradient unique maximizer`
+- `ecological tipping surface parameter sensitivity envelope theorem`
+- `log concavity survival fecundity density dependent product`
+
+**Decisive results.**
+1. P2 convexity and half-space representation are generic convex/semi-infinite-programming facts.
+2. Vector intervention/persistence geometry already appears in mathematical epidemiology through effective reproduction-number optimization.
+3. P3 is a ray restriction of P2; no exact two-boundary multiple-Allee analogue was found.
+4. The low-density part of P4 is exactly weighted-threshold/minimal-winning-coalition mathematics.
+5. Minimal winning coalitions/antichains/Sperner structure and reliability minimal-cut-set language are standard.
+6. Low-density failure is an upset and persistence is a downset; their intersection is order-convex, so chain-contiguity is standard order theory.
+7. No searched source classifies the **persistence-filtered** weighted coalitions defined by simultaneous (F_S(0)<0<M_S).
+8. P5 is an immediate application of Danskin/envelope theory.
+
+**Round verdict.**
+No killer source for the full ecological package. P2/P3 are mathematically standard but the low-density-vs-global-persistence synthesis is distinct; P4 survives only in the persistence-filtered part; P5 is standard.
+
+**Dated note:** `research/web-search/2026-09-28_mechanism-space-geometry.md`.
+
