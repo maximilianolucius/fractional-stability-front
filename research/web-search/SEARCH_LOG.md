@@ -284,3 +284,54 @@ No killer source for the full ecological package. P2/P3 are mathematically stand
 
 **Dated note:** `research/web-search/2026-09-28_mechanism-space-geometry.md`.
 
+---
+
+## 2026-09-28 — ROUND-0008 — full-domain architecture
+
+**Mission.** Breadth-first theorem-level audit of Dynamical Systems and Stability Theory — Fractional Differential Equations across fifteen branches.
+
+**Search architecture.**
+Searches were deliberately spread beyond the existing Double-Allee vocabulary and included:
+- commensurate/incommensurate spectral stability;
+- multi-term fractional equations;
+- nonlinear linearization and instability;
+- converse Lyapunov / Mittag-Leffler / ISS;
+- D-stability / positive / descriptor / robust uncertainty;
+- interval uncertainty in both coefficients and orders;
+- mixed parameter + norm-bounded uncertainty;
+- delay-independent versus delay-dependent stability;
+- neutral/multi-Caputo functional equations;
+- switched/singular/impulsive/hybrid fractional stability;
+- heterogeneous multi-agent consensus and signed graphs;
+- periodic-orbit nonexistence and fractional bifurcation;
+- abstract permanence/uniform persistence;
+- variable-order and distributed-order Lyapunov theory;
+- structural identifiability/inverse problems;
+- time-fractional reaction–diffusion and Turing instability.
+
+**Most consequential positive findings.**
+1. Diethelm et al. 2024: modern constructive general incommensurate stability + nonlinear linearization.
+2. Gallegos–Duarte-Mermoud 2019 and Guo et al. 2025: converse fractional Lyapunov theory is substantive.
+3. Zhang–Lu 2023: N&S mixed-uncertainty robust linear stability.
+4. Zhang–Jin–Lu–Zhu 2025: N&S delay-independent fractional time-delay stability.
+5. Tavazoei–Haeri 2009 versus Doan–Kloeden 2022: rigorous periodicity/bifurcation theory is conceptually nontrivial.
+6. Fonda–Gidoni 2015 supplies an abstract local-dynamical-system permanence benchmark; no comparably general fractional persistence theorem was identified in the breadth search.
+7. Lenka 2025 and Wu–Pu–Yang 2026 show variable/distributed-order stability theory is rapidly evolving.
+8. Ahmad–Cygan–Karch 2025 preprint advances abstract fractional reaction-diffusion linearization/Turing theory.
+
+**Scoped negative findings.**
+- No unified exact/converse switched/hybrid fractional stability architecture was identified.
+- No general fractional permanence theorem comparable in scope to abstract local-dynamical-system persistence theory was identified.
+- No general multidimensional fractional bifurcation framework was identified that fully reconciles finite-memory periodicity obstruction with widespread applied Hopf terminology.
+- No claim of absence is made; these are depth-round targets.
+
+**Candidate frontier hypotheses surfaced.**
+- rigorous fractional bifurcation near threshold systems;
+- abstract fractional persistence/permanence;
+- nonlinear robust threshold/persistence under uncertain order;
+- variable/distributed-order nonlinear stability/persistence/bifurcation;
+- exact delay-dependent/neutral nonlinear fractional stability;
+- global nonlinear incommensurate stability/persistence.
+
+**Dated report:** `research/web-search/2026-09-28_full-domain-architecture.md`.
+
