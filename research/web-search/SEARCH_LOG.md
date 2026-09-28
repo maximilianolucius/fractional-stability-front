@@ -634,3 +634,49 @@ Three families:
 3. stochastic memory-state persistence / rare exit.
 
 **Dated report:** research/web-search/2026-09-28_cross-candidate-adversarial-comparison.md.
+
+## 2026-09-28 — ROUND-0017 shortlist final killer audit
+
+**Mission.** Final hostile closure on Families A/B/C; no new branches and no winner selection.
+
+**Family A tests.**
+- hereditary/Volterra stable-set and basin-fiber search;
+- endpoint/output-equivalence search;
+- Caputo cooperative/competitive/quasi-monotone comparison;
+- scalar/triangular obstruction;
+- direct positive Double-Allee realizability.
+
+**A result.**
+Hereditary basin theory is mature, and comparison theory kills scalar/triangular/ordered special cases. No theorem was found forcing current-state fiber basin purity in general multidimensional positive Caputo systems. Mondal et al. 2025 provides a natural positive Double-Allee multistable target class. Verdict: **A-SURVIVES-GENUINE**.
+
+**Family B tests.**
+- robust persistence for semidynamical systems;
+- structured-delay robust persistence;
+- alpha/order perturbation continuity;
+- fractional differential-inclusion strong invariance;
+- maximal/discriminating robust sets;
+- exact versus conservative separator geometry.
+
+**B result.**
+Broad robust persistence is mature even on semiflows/history systems. Fractional-index solution dependence can be continuous. Direct Caputo strong-invariance/order-uncertain multibasin results were not found. Strong Allee invalidates global permanence on all positive states. Verdict: **B-REFORMULATE** to robust multibasin threshold/separator geometry under parameter+kernel/order perturbation.
+
+**Family C tests.**
+- theorem-level Földes–Stacy compatibility with stochastic-Volterra lifts;
+- extinction-boundary invariance/tightness;
+- infinite-dimensional/history-space quasipotential and exit-time prior;
+- singular power-law stochastic-Volterra exit search;
+- Herrera-Marín 2026 follow-up;
+- positive-cone-preserving noise.
+
+**C result.**
+Abstract infinite-dimensional stochastic persistence is already available; transfer to SVE lifts is technically nontrivial but not a blank theory. History-space exit/quasipotential theory exists for SDDEs, while power-law SVE path LDPs are direct prior. No full singular fractional-Volterra quasipotential/exit theorem was located. Persistent switching is direct active prior. Verdict: **C-REFORMULATE** to rare extinction/basin-exit theory for positive singular fractional memory.
+
+**Evidence closure.**
+The three final statuses are:
+- A-SURVIVES-GENUINE;
+- B-REFORMULATE;
+- C-REFORMULATE.
+
+No final winner selected.
+
+**Dated report:** research/web-search/2026-09-28_shortlist-final-killer-audit.md.
