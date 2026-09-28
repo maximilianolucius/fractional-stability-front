@@ -667,3 +667,85 @@ The closest direct fractional predator-prey uncertainty paper uses fuzzy initial
 For strong/Double Allee, the key objects are common robust survival/extinction regions, preservation or loss of bistability, uniform persistence constants on the survival side, and robust separator bounds.
 
 No result resolving this package was identified in the searched corpus as of 2026-09-28.
+
+## ROUND-0014 — Variable/distributed-order dynamics
+
+### NC-1401 — Variable order and distributed order are interchangeable formulations
+
+**Classification:** **FALSE / DIRECT PRIOR TAXONOMY**
+
+Fixed distributed order superposes a continuum/discrete measure of orders simultaneously. Variable order changes the active order with time/state. Distributed-variable order allows the distribution itself to vary. An uncertain-order family is yet another object. These classes must remain separate.
+
+### NC-1402 — Fixed distributed-order systems lack a state/evolution framework
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Bazhlekova, Jia–Peng–Li, and later resolvent-family work provide abstract Volterra, subordination, positivity, analytic-resolvent and well-posedness frameworks for fixed distributed-order evolution equations.
+
+### NC-1403 — Linear distributed-order stability is an open broad frontier
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Characteristic-function/root criteria and LTI BIBO sufficient/necessary conditions already exist in important classes.
+
+### NC-1404 — Nonlinear distributed-order stability is largely unexplored
+
+**Classification:** **FALSE IN BROAD FORM / SUBSTANTIAL PARTIAL THEORY**
+
+Fernández-Anaya et al. 2017 gives nonlinear time-varying distributed-order Lyapunov/asymptotic-stability results; Prabhakar extensions also exist. The frontier lies beyond equilibrium-centered sufficient Lyapunov theory.
+
+### NC-1405 — Variable-order nonlinear stability is missing
+
+**Classification:** **FALSE IN BROAD FORM / SUBSTANTIAL PARTIAL THEORY**
+
+Modern time-varying-order comparison, Lyapunov and Mittag-Leffler stability results exist. Sarwar and 2026 nonautonomous VO work supply well-posedness/stability foundations.
+
+### NC-1406 — General global attractor/process theory for nonlinear VO/state-dependent/DVO systems is mature
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Searches did not identify a general canonical process/cocycle/history-state construction with dissipativity, asymptotic compactness and attractors comparable to the fixed-order Caputo branch.
+
+### NC-1407 — General center-manifold/normal-form theory exists for VO/DO systems
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Model-specific local spectral and numerical bifurcation studies are active, but no broad center-manifold, Lyapunov–Schmidt or normal-form architecture was identified for variable or continuous distributed order.
+
+### NC-1408 — General persistence/permanence theory exists for VO/DO positive systems
+
+**Classification:** **NO RESOLVING GENERAL RESULT FOUND**
+
+Positivity, boundedness and model-specific extinction/invasion results exist, but no abstract VO/DO analogue of mature persistence/permanence frameworks was located.
+
+### NC-1409 — Distributed-order weights are intrinsically unidentifiable
+
+**Classification:** **FALSE / DIRECT INVERSE PRIOR**
+
+Specific distributed-order diffusion problems admit uniqueness of the weight function from sparse observations. Variable-order parameters can also be recovered computationally in selected systems.
+
+### NC-1410 — Fixed-order, multi-term, continuous DO and VO models are generally distinguishable from trajectory data
+
+**Classification:** **NO GENERAL RESULT FOUND**
+
+Within-class inverse results do not establish cross-model structural distinguishability. Flexible memory laws may remain observationally confounded.
+
+### NC-1411 — Direct variable/distributed-order Double Allee is an obvious high-value gap
+
+**Classification:** **AMBIGUOUS / TERMINOLOGY ABSENCE INSUFFICIENT**
+
+Direct VO/DO ecology exists, but no theorem-level necessity for Double-Allee mechanisms to use evolving/distributed memory was identified. The bridge is currently weaker than retained threshold/persistence candidates.
+
+### NC-1412 — Search-qualified D14 frontier
+
+**Classification:** **RETAIN AS DOMAIN FRONTIER**
+
+The strongest residual is global nonlinear dynamics for evolving memory operators:
+- process/cocycle/history-state architecture for VO/state-dependent/DVO;
+- nonlinear dissipativity and attractors;
+- general persistence/extinction;
+- nonhyperbolic reduction/bifurcation;
+- dependence of global dynamics on the order distribution;
+- structural distinguishability of memory-operator classes.
+
+For fixed distributed order, linear stability and equilibrium Lyapunov theory are already substantial, so novelty must begin beyond those layers.
