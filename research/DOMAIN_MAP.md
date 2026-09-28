@@ -201,3 +201,24 @@ The surviving search-qualified frontier is:
 This is retained as a candidate but paused for comparison.
 
 The active branch is now D14: variable/distributed-order dynamics.
+
+
+## ROUND-0014 Chief correction
+
+D14 splits sharply by operator class.
+
+- fixed distributed order: substantial operator/resolvent, exact linear and nonlinear Lyapunov theory;
+- prescribed variable order: equilibrium/well-posedness theory growing, global process/cocycle theory thin;
+- state-dependent order: foundational;
+- distributed-variable order: sparse theorem architecture.
+
+The strongest residuals concern:
+- process/cocycle construction;
+- attractors/dissipativity;
+- nonhyperbolic reduction;
+- persistence/extinction;
+- cross-class model distinguishability.
+
+D14 is retained as a real global-dynamics frontier but is not currently among the closest Double-Allee candidates.
+
+The active branch is now D8: stochastic, randomly switched and hybrid time-fractional dynamics.
