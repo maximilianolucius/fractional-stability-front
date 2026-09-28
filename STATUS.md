@@ -29,6 +29,7 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0007 — mechanism-space geometry falsification.
 - ROUND-0008 — full-domain architecture audit.
 - ROUND-0009 — fractional uniform-persistence/permanence falsification.
+- ROUND-0010 — fractional bifurcation semantics and architecture.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -88,17 +89,17 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0010 — Fractional bifurcation semantics and architecture
+### ROUND-0011 — Double-Allee basin-memory geometry
 
 **Status:** OPEN
 
 Purpose:
 
-- reconstruct rigorous invariant/center-manifold and reduction theory for continuous-time fractional systems;
-- separate equilibrium bifurcation from stability crossing, attractor bifurcation and periodic-orbit claims;
-- audit the meaning of “Hopf” under finite-lower-terminal Caputo memory;
-- determine what remains genuinely unresolved for nonhyperbolic, multidimensional and incommensurate systems;
-- test whether Double Allee exposes a real fractional bifurcation gap rather than an ODE-equilibrium calculation.
+- determine which Allee threshold/basin properties are invariant under Caputo fractionalization;
+- test scalar threshold rigidity via comparison/nonintersection theory;
+- distinguish physical-initial-state basins from full memory-state basins;
+- determine whether α genuinely changes separatrices/basin boundaries or mainly local stability/transients;
+- connect D10 bifurcation and D11 threshold-relative persistence only where the connection is mathematically real.
 
 ## Current candidate opportunity portfolio
 
@@ -123,7 +124,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0010 when returned;
-5. compare D10 versus narrowed D11 before launching the next depth wave;
+4. assimilate ROUND-0011 when returned;
+5. decide whether the D10-D/D11 intersection survives scalar rigidity and history-space prior art;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
