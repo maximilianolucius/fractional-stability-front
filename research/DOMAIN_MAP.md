@@ -24,8 +24,8 @@ This file describes the **map architecture and repository coverage**, not a clai
 | D7 Delay / neutral systems | fractional delay characteristic roots and Lyapunov criteria | SEED | canonical theorem map and sharpness | high |
 | D8 Switching / impulsive / stochastic / hybrid | nonautonomous and random fractional dynamics | SEED | subfield architecture and strongest stability results | medium-high |
 | D9 Networks / multi-agent systems | synchronization, consensus, graph stability, dispersal | SEED-MODERATE | distinguish topology-aware theorems from stacked models | **high** |
-| D10 Bifurcation / multistability / tipping | folds, periodicity semantics, attractor changes, threshold geometry | MODERATE | dedicated audit of rigorous nonlocal bifurcation versus ODE-style Hopf claims | **very high** |
-| D11 Persistence / extinction / population dynamics | uniform persistence, permanence, extinction, basin-relative survival | SEED | test abstract fractional theory against history-space/hereditary persistence frameworks | **very high** |
+| D10 Bifurcation / multistability / tipping | folds, invariant/center manifolds, periodicity semantics, attractor changes, threshold geometry | MODERATE | ROUND-0010 active; 2018 center-stable and 2026 center-manifold results are major prior-art threats | **very high** |
+| D11 Persistence / extinction / population dynamics | memory-state persistence, permanence, extinction, basin-/threshold-relative survival | MODERATE | broad semiflow gap closed; residual is ecological boundary/physical-state transfer, invasion/robust persistence, strong-Allee-relative formulations | **very high** |
 | D12 Double / Multiple Allee | component/demographic effects, double dormancy, multiple mechanisms | DEEP relative to repo | integrate with FDE branches rather than isolate | **central lens** |
 | D13 Identifiability / inverse problems | structural/practical ID for fractional dynamics | SEED-MODERATE | determine relevance to stability/threshold questions | high |
 | D14 Variable/distributed/uncertain order dynamics | changing memory architecture | SEED | strongest stability theory and exactness gaps | medium-high |
@@ -94,3 +94,16 @@ The breadth audit confirmed that the generic incommensurate/local-stability bran
 A terminology warning applies to D11: Cresson–Szafrańska (2017) use “fractional persistence problem” for preservation of properties such as positivity/order/stability under fractional embedding; this is not the same as ecological uniform persistence/permanence.
 
 ROUND-0009 is now testing whether D11 is genuinely new or already subsumed by hereditary/history-space theory.
+
+
+## ROUND-0009 Chief correction
+
+Doan–Kloeden's history-space construction means the broad statement “Caputo systems lack a semiflow” is false under their hypotheses, and Hale–Waltman-type persistence theory is already infinite-dimensional.
+
+The D11 candidate therefore narrows to:
+
+> **memory-state persistence for positive Caputo systems with a rigorously defined ecological extinction boundary, physical-state transfer, robust/invasion criteria, and basin-/threshold-relative variants compatible with strong Allee bistability.**
+
+This is retained as a high-information candidate with substantial subsumption risk.
+
+ROUND-0010 now audits D10. Independent Chief verification added an important 2026 prior-art threat: Liao–Wu–Li, DOI 10.1016/j.physd.2026.135122, proves existence conditions for center manifolds in fractional differential equations and cites earlier center-manifold/Lyapunov–Schmidt work.
