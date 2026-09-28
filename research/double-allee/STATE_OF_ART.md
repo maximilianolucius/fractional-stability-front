@@ -183,7 +183,25 @@ However, most results remain **model-specific**. No general theorem discovered i
 
 ## 8. Real-data status
 
-### What is established
+### Island fox — direct empirical Double Allee study
+
+Angulo et al. (2007), *Double Allee Effects and Extinction in the Island Fox*, DOI 10.1111/j.1523-1739.2007.00721.x, is the strongest direct empirical source identified in this seed.
+
+**Data:** demographic observations from **1988–2000** for island-fox populations on the California Channel Islands.
+
+**Variables/relationships tested:** density effects on adult and pup survival, proportion of breeding adult females, interaction with Golden Eagle presence, and per-capita population trends.
+
+**Reported ecological structure:**
+- simultaneous component Allee effects on survival and breeding;
+- predation-driven adult-survival Allee effect associated with Golden Eagles;
+- resulting demographic Allee effect;
+- suboptimal population growth reported below about **7 foxes/km²**.
+
+**Why it matters:** this is not a decorative ecological citation; it is a concrete empirical system with multiple low-density mechanisms and measured demographic responses.
+
+**What it does not establish:** two positive demographic thresholds, fractional memory, or joint threshold/memory identifiability.
+
+### What is established more broadly
 
 Ecological literature documents systems where several component Allee mechanisms can plausibly coexist. Berec et al. (2007) reviews examples involving combinations such as:
 - pollination + inbreeding;
