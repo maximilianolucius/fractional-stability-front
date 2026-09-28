@@ -229,3 +229,27 @@ Verification labels:
 | S1110 | Conti, Marchini & Pata, minimal-state viscoelastic attractor (2010) | DOI 10.3934/dcds.2010.27.1535 | PRIMARY/ABSTRACT+METADATA | mature attractor theory on minimal memory state |
 | S1111 | Cheng & Wu, complete Caputo system comparison (2026) | DOI 10.1016/j.jmaa.2026.130509 | PRIMARY/ABSTRACT | monotonicity/comparison killer for structured subclasses |
 | S1112 | Doan & Kloeden, triangular Caputo attractors (2022) | DOI 10.1007/s13540-022-00030-6 | PRIMARY/PREPRINT+METADATA | triangular systems inherit strong nonintersection/ODE-like attractor structure |
+
+## ROUND-0013 — Robust nonlinear threshold / order uncertainty
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S1201 | Senol et al., uncertain fractional robust stability (2014) | DOI 10.1016/j.isatra.2013.09.004 | PRIMARY/ABSTRACT+METADATA | direct uncertainty in coefficients and orders |
+| S1202 | Yang & Hou, robust uncertain-order bounds (2019) | DOI 10.1016/j.jfranklin.2018.12.024 | PRIMARY/FULL-PAGE EXCERPT | non-conservative joint order/parameter robust bounds |
+| S1203 | Tavazoei & Asemani, incommensurate robust stability (2020) | DOI 10.1016/j.cnsns.2020.105344 | PRIMARY/ABSTRACT+METADATA | strong linear incommensurate robust baseline |
+| S1204 | Tavazoei & Asemani, time-varying interval uncertainty (2020) | DOI 10.1016/j.jfranklin.2020.09.044 | PRIMARY/ABSTRACT+AUTHOR EXCERPT | irrational/incommensurate orders + time-varying interval uncertainty |
+| S1205 | Zhang & Lu, mixed uncertainties (2023) | DOI 10.1016/j.cnsns.2023.107511 | PRIMARY/ABSTRACT+METADATA | mixed multiparameter and norm-bounded robust stability |
+| S1206 | Song, Wu & Wang, robust ML neural networks (2017) | DOI 10.1186/s13662-017-1298-8 | PRIMARY/OPEN FULL | nonlinear open-loop global robust ML stability |
+| S1207 | Interval fractional nonlinear delay stability (2018) | DOI 10.1016/j.jfranklin.2018.08.017 | PRIMARY/ABSTRACT | global asymptotic stability sufficient criterion for a nonlinear interval class |
+| S1208 | Girejko, Mozyrska & Wyrwas, Caputo viability (2011) | DOI 10.1016/j.jmaa.2011.04.004 | PRIMARY/ABSTRACT+METADATA | direct fractional viability / positivity |
+| S1209 | Carja et al., fractional differential inclusions (2014) | DOI 10.1016/j.aml.2014.06.012 | PRIMARY/FULL EXCERPT | corrected Caputo viability tangency conditions; existential viable selection |
+| S1210 | Girejko, Mozyrska & Wyrwas, memo-viability (2015) | DOI 10.1186/s13662-015-0403-0 | PRIMARY/OPEN FULL | memory-domain initialization proves classical Nagumo transfer is nontrivial |
+| S1211 | Schreiber, C^r robust permanence (2000) | DOI 10.1006/jdeq.1999.3719 | PRIMARY/ABSTRACT+AUTHOR COPY | classical invariant-measure/Morse robust permanence killer baseline |
+| S1212 | Garay & Hofbauer, robust permanence (2003) | DOI 10.1137/S0036141001392815 | PRIMARY/ABSTRACT | average-Lyapunov/minimax robustness benchmark |
+| S1213 | Hofbauer & Schreiber, structured robust permanence (2010) | DOI 10.1016/j.jde.2009.11.010 | PRIMARY/ABSTRACT+AUTHOR COPY | invasion/dominant-exponent structured-population benchmark |
+| S1214 | Patel & Schreiber, robust permanence with feedbacks (2018) | DOI 10.1007/s00285-017-1187-5 | PRIMARY/OPEN FULL | strongest direct ecological feedback/perturbation subsumption threat |
+| S1215 | Topcu et al., robust ROA estimation (2010) | DOI 10.1109/TAC.2009.2033751 | PRIMARY/INSTITUTIONAL MANUSCRIPT | common robust attraction-set concept mature outside FDEs |
+| S1216 | Narayanamoorthy et al., fractional predator-prey uncertainty (2019) | DOI 10.1049/iet-syb.2019.0055 | PRIMARY/OPEN FULL | direct ecology title; uncertainty is mainly fuzzy initial conditions/numerics |
+| S1217 | Yang et al., multiparameter fractional bifurcation (2022) | DOI 10.1016/j.chaos.2021.111714 | PRIMARY/FULL-PAGE EXCERPT | local stability/critical hypersurface parameter-space prior |
+| S1218 | Nazarian, Haeri & Tavazoei, fractional identifiability (2010) | DOI 10.1016/j.isatra.2009.11.007 | PRIMARY/ABSTRACT | supports scientific realism of order uncertainty |
+| S1219 | Zhang, Lu & Zhu, robust fractional control review (2025) | DOI 10.1007/s11071-025-11497-2 | REVIEW/FULL EXCERPT | documents crowded robust stability/control field and helps isolate open-loop global ecology |
