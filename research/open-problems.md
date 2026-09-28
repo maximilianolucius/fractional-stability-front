@@ -2,97 +2,74 @@
 
 ## Evidence classes
 
-- **A — Explicit:** stated as open by a primary source.
+- **A — Explicit:** stated open by a primary source.
 - **B — Structural:** follows from a theorem restriction or missing converse.
-- **C — Cross-literature:** emerges by connecting separate bodies of work.
+- **C — Cross-literature:** emerges from connecting separate bodies of work.
 - **D — Exploratory:** plausible but frontier status not yet verified.
 
-## OP-001 — Structured conic-sector D-stability for a concrete cyclic ecological class
+This catalogue distinguishes **verified candidate gaps** from **mapping questions**.
 
-**Evidence class:** C/B  
-**Status:** conditional / deprioritized.  
-**Problem:** if the selected ecological model generates a natural cyclic, non-Metzler Jacobian family, determine whether conic-sector multiplicative D-stability admits a finite exact criterion.  
-**Best known result:** broad regional D-stability + classical exact structured subclasses.  
-**Do not pursue unless:** the biological model produces the matrix class naturally.
-
-## OP-101 — Exact mechanism-resolved double-dormancy composition
+## OP-DA-01 — Persistence-filtered multiple-mechanism Allee composition
 
 **Evidence class:** C/D  
-**Status:** leading candidate; ROUND-0006 final novelty gate.
+**Status:** retained candidate after ROUND-0007.
 
-**Precise problem:** for
+**Question:** characterize component subsets that jointly create low-density demographic failure while preserving a positive persistence state elsewhere in density.
 
-V_S(x)=B(x) product_{i in S}A_i(x),
+**What is standard:** convex value-function geometry, weighted minimal coalitions, antichain/order-convex consequences, Danskin sensitivity.
 
-with separately interpretable component mechanisms and explicit component-deletion counterfactuals, characterize when individually non-strong components jointly create a strong demographic threshold.
+**Residual issue:** the continuous global-persistence filter coupled to discrete mechanism subsets.
 
-**Target results:**
-1. necessary-and-sufficient threshold-existence conditions;
-2. uniqueness/multiplicity under shape constraints;
-3. fold boundary;
-4. comparative statics;
-5. extension to minimal threshold-generating subsets for m components.
+**Double Allee proximity:** direct/very high.
 
-**Best known neighboring results:** Berec 2007; Lan 2025; emergent-Allee structured-population models.
+**Main risk:** may remain only a synthesis of standard tools.
 
-**Main risk:** the theorem may reduce to textbook unimodality/fold analysis unless the component-resolved structure produces genuinely new reusable conclusions.
+## OP-FS-01 — Structured conic-sector exactness for a natural cyclic class
 
-## OP-102 — Structural non-identifiability of component mechanisms from aggregate abundance
+**Evidence class:** B/C  
+**Status:** conditional.
 
-**Evidence class:** C/D  
-**Status:** leading supporting theorem; ROUND-0006 final novelty gate.
+**Question:** for a naturally arising cyclic, non-Metzler matrix family, is there a finite exact conic-sector multiplicative D-stability characterization?
 
-**Precise problem:** prove and classify the equivalence class of hidden component functions that generate identical aggregate demographic dynamics.
+**Main restriction:** no such class has yet been shown to be forced by a compelling Double Allee/FDE model.
 
-For multiplicative components, study
+## OP-FS-02 — Incommensurate state-stability structure
 
-(A_1,...,A_m) -> (A_1 h_1,...,A_m h_m)
+**Evidence class:** D  
+**Status:** mapping hypothesis, not verified open problem.
 
-with product_i h_i = 1.
+**Question:** what exact structural state-stability characterizations exist beyond known noncommensurate BIBO tests?
 
-**Target result:** exact nonparametric structural non-identifiability theorem, with admissibility constraints.
+**Next evidence needed:** full branch map.
 
-**Why it matters:** separates detection of a demographic Allee effect from attribution to its biological component mechanisms.
+---
 
-**Main risk:** equivalent symmetry/factorization theorems may already be standard in structural-identifiability literature.
+# High-priority mapping questions — NOT YET OPEN-PROBLEM CLAIMS
 
-## OP-103 — Minimal observation theorem for mechanism recovery
+The following branches are too thinly mapped to promote as open problems:
 
-**Evidence class:** C/D  
-**Status:** leading supporting theorem; ROUND-0006 final novelty gate.
+### MQ-01 — Nonlinear fractional converse stability
+What converse Lyapunov/linearization results are known, and under what regularity/order assumptions?
 
-**Precise problem:** characterize the component-specific demographic outputs required to break the hidden-factor equivalence and recover separate mechanisms.
+### MQ-02 — Robust stability under fractional-order uncertainty
+Are there exact results or mainly sufficient certificates?
 
-**Possible result:** an (m-1)-functional ambiguity for m unrestricted multiplicative factors, reduced or removed by independent component measurements.
+### MQ-03 — Fractional bifurcation exactness
+What rigorous bifurcation theorems exist for folds/Hopf-type phenomena, and where are results mostly formal/numerical?
 
-**Applied target:** survival + reproduction measurements such as those reported for island fox/Crested Ibis.
+### MQ-04 — Fractional persistence/extinction
+What general persistence/permanence/extinction theorems exist beyond model-specific ecology?
 
-## OP-104 — Operator/network invariance of mechanism non-identifiability
+### MQ-05 — Delay/memory equivalence and distinguishability
+What stability results distinguish fractional memory from explicit delay kernels, and is there a structural bridge relevant to Allee thresholds?
 
-**Evidence class:** C/D  
-**Status:** secondary extension.
+### MQ-06 — Topology-aware threshold dynamics
+Which networked fractional threshold results genuinely depend on topology rather than generic coupling?
 
-**Precise problem:** determine whether the component-factor equivalence persists:
-- under known graph coupling;
-- under ordinary versus fixed fractional left-hand-side dynamics.
+These mapping questions are priorities for ROUND-0008 and follow-up depth waves.
 
-**Potential value:** shows why adding network replication or fractional memory does not automatically make hidden ecological mechanisms identifiable.
+## Project boundary
 
-**Main risk:** mathematically immediate once OP-102 is proved, in which case it belongs as a corollary rather than a separate contribution.
+This project identifies and verifies such gaps.
 
-## OP-105 — Practical observation design for multiple-component Allee inference
-
-**Evidence class:** C/D  
-**Status:** viable application problem.
-
-**Precise problem:** translate OP-102/103 into sampling requirements:
-- low-density coverage;
-- separate survival/reproduction observations;
-- replication;
-- uncertainty;
-- intervention/confounder tracking.
-
-**Open benchmarks:** herring, cod, freshwater mussel.  
-**High-value biological targets:** island fox, Crested Ibis.
-
-**Fractional memory:** optional only after component/threshold identifiability is established.
+It does not solve them.
