@@ -132,3 +132,13 @@ It does not solve them.
 **Double Allee relevance:** very high.
 
 **Main killer threats:** classical robust permanence, differential inclusions/viability, and existing uncertain nonlinear fractional stability theory.
+
+
+## OP-FS-06 — Global dynamics for variable/distributed-order systems
+
+**Evidence class:** D  
+**Status:** active mapping in ROUND-0014.
+
+**Question:** beyond existence and Lyapunov sufficient criteria, what rigorous global dynamical-systems theory exists for variable-order and distributed-order FDEs, including attractors, bifurcation, persistence/extinction and state-space formulations?
+
+**Double Allee relevance:** unknown; to be evaluated, not assumed.
