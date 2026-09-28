@@ -749,3 +749,84 @@ The strongest residual is global nonlinear dynamics for evolving memory operator
 - structural distinguishability of memory-operator classes.
 
 For fixed distributed order, linear stability and equilibrium Lyapunov theory are already substantial, so novelty must begin beyond those layers.
+
+## ROUND-0015 — Stochastic / switching fractional persistence
+
+### NC-1501 — Genuine time-fractional stochastic equations lack a state architecture
+
+**Classification:** **FALSE / SUBSTANTIAL DIRECT PRIOR**
+
+Brownian-driven Caputo equations are stochastic Volterra equations. Completely monotone fractional kernels admit Hilbert-space Markovian lifts with Markov/Feller and invariant-measure machinery.
+
+### NC-1502 — Positivity for stochastic fractional-memory systems is untouched
+
+**Classification:** **FALSE / SUBSTANTIAL PARTIAL THEORY**
+
+Nonnegativity-preserving kernels and stochastic invariance of convex domains are established for stochastic Volterra equations, including completely monotone and more general singular kernels. Ecological positivity still constrains the diffusion model.
+
+### NC-1503 — Moment/pathwise stochastic Caputo stability is a broad novelty route
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Stochastic, stochastic-asymptotic, almost-sure exponential, p-moment exponential and finite-time stability results already exist.
+
+### NC-1504 — Invariant measures/random long-time structure are absent for time-fractional stochastic memory
+
+**Classification:** **FALSE IN BROAD FORM / SUBSTANTIAL PARTIAL THEORY**
+
+Markovian-lift invariant-measure, stationary-process and limit-distribution theory is increasingly strong. Direct S1 random-attractor theory is much thinner and must not be confused with fBm/spatial-fractional random-attractor literature.
+
+### NC-1505 — General stochastic persistence/extinction for positive time-fractional systems is mature
+
+**Classification:** **NO RESOLVING GENERAL RESULT FOUND**
+
+No general analogue of stochastic permanence/invasion/extinction theory was identified for positive Brownian/Lévy-driven Caputo/Volterra memory systems.
+
+### NC-1506 — Large deviations for stochastic fractional-memory equations are unexplored
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+General singular stochastic-Volterra LDP/MDP theory exists, and a 2026 result treats the weakly singular power-law kernel directly.
+
+### NC-1507 — Quasipotential / rare extinction from Allee basins is already resolved for time-fractional memory
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Existing path LDP machinery was not found to have been converted into a general quasipotential, sharp exit-time, most-likely extinction-path or Kramers-type theorem for positive multistable Caputo/Volterra systems.
+
+### NC-1508 — Random switching with reset/short fractional memory is an open broad branch
+
+**Classification:** **FALSE / DIRECT PRIOR**
+
+Deterministic/stochastic switching, short-memory resets, almost-sure stability and random-switch p-moment stability are established.
+
+### NC-1509 — Persistent-memory random switching is already covered by reset-memory theory
+
+**Classification:** **NO RESOLVING GENERAL RESULT FOUND**
+
+Keeping a fixed lower terminal carries pre-switch memory into later regimes and changes the problem. O'Regan–Hristova 2026 explicitly identifies this as a distinct future direction.
+
+### NC-1510 — Direct stochastic-fractional Allee persistence/extinction is mature
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Ordinary stochastic Allee theory is mature and deterministic fractional Allee theory is mature/model-specific, but no theorem-level genuine S1 intersection resolving persistence/extinction was identified.
+
+### NC-1511 — Double-Allee proximity
+
+**Classification:** **CLOSE / HIGH NATURAL PROXIMITY**
+
+Strong/Double Allee creates intrinsic extinction/survival multistability, making stochastic exit, rare extinction and regime switching scientifically natural. The novelty must come from the memory-dependent theorem, not from adding noise.
+
+### NC-1512 — Search-qualified D8 residual
+
+**Classification:** **RETAIN AS DOMAIN FRONTIER**
+
+The strongest residual package is:
+- stochastic persistence/extinction on fractional memory-state spaces;
+- basin-relative stochastic persistence for strong Allee;
+- rare basin exit/quasipotential after existing SVE LDP theory;
+- random switching with persistent Caputo memory;
+- a Double-Allee realization showing a genuine memory-dependent theorem.
+
+No general result resolving this package was identified in the searched corpus as of 2026-09-28.
