@@ -7,50 +7,92 @@
 - **C — Cross-literature:** emerges by connecting separate bodies of work.
 - **D — Exploratory:** plausible but frontier status not yet verified.
 
-## OP-001 — Structured conic-sector D-stability without universal scaling quantifier
+## OP-001 — Structured conic-sector D-stability for a concrete cyclic ecological class
 
 **Evidence class:** C/B  
-**Precise problem:** characterize conic-sector multiplicative D-stability for a meaningful structured matrix class by finite conditions that do not require checking every positive diagonal scaling.  
-**Why it matters:** general regional D-stability exists, so novelty can only come from a genuinely sharper structural theorem.  
-**Best known result:** generalized regional D-stability and exact boundary criteria; sufficient generalized diagonal-dominance certificates.  
-**Missing step:** exact finite characterization for sign/graph/Metzler/ecological-Jacobian subclasses.  
-**Dependencies:** complexity and qualitative-matrix literature audit.  
-**Potential tools:** sign nonsingularity; additive compounds; cycle products; P/M-matrix theory; diagonal Lyapunov theory.  
-**Likely obstructions:** known hardness or existing qualitative D-stability classifications.  
-**Frontier verification status:** ROUND-0003 required.
+**Status:** conditional / deprioritized.  
+**Problem:** if the selected ecological model generates a natural cyclic, non-Metzler Jacobian family, determine whether conic-sector multiplicative D-stability admits a finite exact criterion.  
+**Best known result:** broad regional D-stability + classical exact structured subclasses.  
+**Do not pursue unless:** the biological model produces the matrix class naturally.
 
-## OP-101 — Composition theorem for double dormancy
+## OP-101 — Exact mechanism-resolved double-dormancy composition
 
 **Evidence class:** C/D  
-**Precise problem:** given two component Allee mechanisms that individually yield no strong demographic threshold, characterize when their composition creates a positive unstable demographic threshold and how its location depends on mechanism strengths.  
-**Why it matters:** converts the ecological notion of double dormancy into a reusable mathematical theorem.  
-**Best known result:** Berec et al. define double dormancy and illustrate interactions; model-specific Double-Allee analyses exist.  
-**Missing step:** general necessary/sufficient conditions for threshold emergence, uniqueness/multiplicity, and comparative statics.  
-**Dependencies:** precise model class and cross-literature search in root geometry/catastrophe/bifurcation theory.  
-**Potential tools:** scalar per-capita growth decomposition; implicit-function theorem; fold theory; monotonicity; real-root analysis.  
-**Likely obstructions:** theorem may become trivial if the function class is too narrow, or false without shape constraints.  
-**Frontier verification status:** ROUND-0004 required.
+**Status:** leading candidate; ROUND-0006 final novelty gate.
 
-## OP-102 — Arbitrary-network persistence threshold for emergent component interactions
+**Precise problem:** for
 
-**Evidence class:** C/D  
-**Precise problem:** for patches whose local demographic threshold arises from interaction of multiple component effects, determine conditions under which dispersal/topology creates, destroys, or shifts the global persistence/extinction threshold.  
-**Why it matters:** bridges ecologically real compound mechanisms with network dynamics rather than adding a network cosmetically.  
-**Best known result:** strong-Allee interacting-patch theory already gives topology-sensitive persistence/extinction for specific stochastic graph settings.  
-**Missing step:** general theorem for a precisely defined multiple-component/emergent-threshold class and broader graphs.  
-**Dependencies:** OP-101 plus network prior-art audit.  
-**Potential tools:** monotone systems; graph comparison; spectral bounds; persistence theory; interacting particle systems.  
-**Likely obstructions:** existing bistable-network theorems may subsume the deterministic problem.  
-**Frontier verification status:** ROUND-0004 required.
+V_S(x)=B(x) product_{i in S}A_i(x),
 
-## OP-103 — Joint threshold/memory identifiability from ecological observations
+with separately interpretable component mechanisms and explicit component-deletion counterfactuals, characterize when individually non-strong components jointly create a strong demographic threshold.
+
+**Target results:**
+1. necessary-and-sufficient threshold-existence conditions;
+2. uniqueness/multiplicity under shape constraints;
+3. fold boundary;
+4. comparative statics;
+5. extension to minimal threshold-generating subsets for m components.
+
+**Best known neighboring results:** Berec 2007; Lan 2025; emergent-Allee structured-population models.
+
+**Main risk:** the theorem may reduce to textbook unimodality/fold analysis unless the component-resolved structure produces genuinely new reusable conclusions.
+
+## OP-102 — Structural non-identifiability of component mechanisms from aggregate abundance
 
 **Evidence class:** C/D  
-**Precise problem:** determine observation designs and model conditions under which multiple component effects, an emergent demographic threshold, and a fractional-memory parameter/kernel are jointly structurally and practically identifiable.  
-**Why it matters:** would prevent fractional memory from being an untestable decorative parameter and tie the mathematics to real data.  
-**Best known result:** empirical multiple-component Allee evidence and separate theoretical fractional models.  
-**Missing step:** joint identifiability theorem/analysis and a suitable open dataset.  
-**Dependencies:** raw-data access, observation model, mechanistic choice.  
-**Potential tools:** differential-algebra/transfer-function identifiability where applicable; sensitivity rank; profile likelihood; simulation-based calibration.  
-**Likely obstructions:** confounding with latent environmental autocorrelation, observation error, and unmeasured predation.  
-**Frontier verification status:** ROUND-0005 required.
+**Status:** leading supporting theorem; ROUND-0006 final novelty gate.
+
+**Precise problem:** prove and classify the equivalence class of hidden component functions that generate identical aggregate demographic dynamics.
+
+For multiplicative components, study
+
+(A_1,...,A_m) -> (A_1 h_1,...,A_m h_m)
+
+with product_i h_i = 1.
+
+**Target result:** exact nonparametric structural non-identifiability theorem, with admissibility constraints.
+
+**Why it matters:** separates detection of a demographic Allee effect from attribution to its biological component mechanisms.
+
+**Main risk:** equivalent symmetry/factorization theorems may already be standard in structural-identifiability literature.
+
+## OP-103 — Minimal observation theorem for mechanism recovery
+
+**Evidence class:** C/D  
+**Status:** leading supporting theorem; ROUND-0006 final novelty gate.
+
+**Precise problem:** characterize the component-specific demographic outputs required to break the hidden-factor equivalence and recover separate mechanisms.
+
+**Possible result:** an (m-1)-functional ambiguity for m unrestricted multiplicative factors, reduced or removed by independent component measurements.
+
+**Applied target:** survival + reproduction measurements such as those reported for island fox/Crested Ibis.
+
+## OP-104 — Operator/network invariance of mechanism non-identifiability
+
+**Evidence class:** C/D  
+**Status:** secondary extension.
+
+**Precise problem:** determine whether the component-factor equivalence persists:
+- under known graph coupling;
+- under ordinary versus fixed fractional left-hand-side dynamics.
+
+**Potential value:** shows why adding network replication or fractional memory does not automatically make hidden ecological mechanisms identifiable.
+
+**Main risk:** mathematically immediate once OP-102 is proved, in which case it belongs as a corollary rather than a separate contribution.
+
+## OP-105 — Practical observation design for multiple-component Allee inference
+
+**Evidence class:** C/D  
+**Status:** viable application problem.
+
+**Precise problem:** translate OP-102/103 into sampling requirements:
+- low-density coverage;
+- separate survival/reproduction observations;
+- replication;
+- uncertainty;
+- intervention/confounder tracking.
+
+**Open benchmarks:** herring, cod, freshwater mussel.  
+**High-value biological targets:** island fox, Crested Ibis.
+
+**Fractional memory:** optional only after component/threshold identifiability is established.
