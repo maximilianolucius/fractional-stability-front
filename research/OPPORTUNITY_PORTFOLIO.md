@@ -78,7 +78,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-FS-03 — Rigorous nonlocal bifurcation near Allee thresholds
 
-**Status:** HIGH-PRIORITY SEARCH HYPOTHESIS.
+**Status:** ACTIVE FALSIFICATION — ROUND-0010.
 
 **Core issue:** reconcile nonhyperbolic equilibrium bifurcations, attractor changes, spectral boundary crossings, and the finite-lower-terminal nonperiodicity obstruction in autonomous Caputo systems.
 
@@ -88,18 +88,22 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Main killer threats:** fractional center-manifold/normal-form theory, history-space semiflow bifurcation theory, attractor bifurcation, infinite-memory periodic formulations.
 
-**Next action:** depth-first audit after ROUND-0009.
+**Next action:** determine the exact residual after center-manifold, Lyapunov–Schmidt, attractor and periodicity prior art.
 
 ---
 
-## OPPORTUNITY-FS-04 — Abstract or basin-relative persistence for fractional/nonlocal systems
+## OPPORTUNITY-FS-04 — Memory-state and basin-relative persistence for fractional/nonlocal systems
 
-**Status:** ACTIVE FALSIFICATION — ROUND-0009.
+**Status:** RETAINED / NARROWED AFTER ROUND-0009.
 
-**Core issue:** determine whether general uniform-persistence/permanence theory exists for positive Caputo/nonlocal systems or follows directly from a history-space embedding.
+**Core issue:** construct/characterize ecological persistence on a Caputo/Volterra memory state with invariant extinction boundary, transfer to physical population lower bounds, and basin-/threshold-relative variants for strong Allee dynamics.
 
 **Double Allee proximity:** direct, but conceptually delicate because strong Allee dynamics intentionally allow positive initial conditions to go extinct.
 
 **Critical refinement:** ordinary global uniform persistence may be the wrong object; basin-relative or threshold-conditional persistence may be the mathematically natural bridge.
 
-**Main killer threats:** hereditary/Volterra persistence theory, skew-product/process persistence, history-space semiflows, monotone nonlocal systems.
+**Main killer threats:** Hale–Waltman / Smith–Thieme infinite-dimensional persistence theory, hereditary/Volterra persistence, and a possible direct application after choosing the correct invariant history space.
+
+**What ROUND-0009 closed:** absence of a semiflow/attractor framework is not a gap.
+
+**What survived:** boundary-state construction, physical-state transfer, robust persistence, invasion criteria, and Allee-compatible conditional/basin-relative persistence.
