@@ -237,3 +237,30 @@ For each high-value result, the search was expanded by at least one of:
 | Q160 | 0012 | Double Allee fractional basin memory history dependent | ecological realization | direct basin numerics already known; exact fiberwise theorem not found |
 | Q161 | 0012 | Caputo reachable set history state attractor closure | structure of R_alpha | semigroup/attractor results found; no intrinsic manifold/closedness theorem located |
 | Q162 | 0012 | incommensurate Caputo history state semigroup reachable set | multi-order extension | no general counterpart resolving fiberwise basin question located |
+
+## ROUND-0013 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q163 | 0013 | fractional uncertain order robust stability coefficients Senol 2014 | linear/order baseline | direct coefficient+order uncertainty prior |
+| Q164 | 0013 | robust bounds uncertain order structured perturbations cylindrical algebraic decomposition | exact joint order/parameter baseline | Yang-Hou 2019 non-conservative robust regions |
+| Q165 | 0013 | robust stability incommensurate fractional order systems Tavazoei Asemani | incommensurate baseline | direct generalized-Nyquist robust prior |
+| Q166 | 0013 | incommensurate time-varying interval uncertainty fractional stability | time-varying uncertainty | Tavazoei-Asemani 2020 JFI |
+| Q167 | 0013 | fractional mixed uncertainties robust stability Zhang Lu 2023 | strongest mixed uncertainty | direct multi-parameter + norm-bounded prior |
+| Q168 | 0013 | nonlinear fractional open-loop robust Mittag-Leffler parameter uncertainty | nonlinear robust stability | Song-Wu-Wang 2017 global robust ML stability |
+| Q169 | 0013 | interval fractional nonlinear global robust asymptotic stability time delay | nonlinear interval systems | global class-specific Razumikhin/LMI result |
+| Q170 | 0013 | robust nonlinear fractional order uncertainty uniform alpha interval global stability | uniform-in-order nonlinear | no general global ecological theorem located |
+| Q171 | 0013 | fractional robust permanence persistence Caputo uncertainty | robust permanence analogue | no general Caputo robust-permanence theorem located |
+| Q172 | 0013 | Schreiber C^r robust permanence invariant measures | classical killer | mature invariant-measure/Morse theory |
+| Q173 | 0013 | Patel Schreiber robust permanence internal external feedbacks | feedback/history adjacent killer | strong classical theorem framework |
+| Q174 | 0013 | Caputo viability locally closed set Nagumo | invariant-set bridge | Girejko-Mozyrska-Wyrwas 2011 |
+| Q175 | 0013 | viability fractional differential inclusions Caputo tangency | differential-inclusion killer | Carja et al. 2014 corrected viability theorem |
+| Q176 | 0013 | memo-viability Caputo memory domain | test routine transfer | memory-domain necessity/sufficiency; transfer nontrivial |
+| Q177 | 0013 | robust region of attraction bounded parameter uncertainty nonlinear polynomial | basin bridge | Topcu et al. 2010 + later robust-ROA literature |
+| Q178 | 0013 | robust Allee threshold parameter uncertainty fractional | direct Allee killer | no rigorous uncertainty-uniform fractional Allee threshold theorem |
+| Q179 | 0013 | fractional predator prey uncertainty fuzzy initial conditions | direct ecology prior | Narayanamoorthy et al. 2019; numerical/fuzzy initial-data uncertainty |
+| Q180 | 0013 | multiparameter fractional bifurcation parameter space CAD | uncertain bifurcation | Yang-Hou-Li-Luo 2022 local critical hypersurfaces |
+| Q181 | 0013 | incommensurate order box uncertainty nonlinear persistence extinction | nonlinear multi-order target | no resolving global theorem located |
+| Q182 | 0013 | fractional order identifiability noise uncertainty | scientific basis for alpha uncertainty | Nazarian-Haeri-Tavazoei 2010 |
+| Q183 | 0013 | robust control continuous-time fractional systems review 2025 | crowding/control distinction | Zhang-Lu-Zhu review confirms mature robust-control field |
+| Q184 | 0013 | fractional differential inclusion strong invariance all selections Caputo | universal robust-invariance killer | viability prior found; no resolving common-survival strong-invariance theorem located |
