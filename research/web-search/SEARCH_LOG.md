@@ -438,3 +438,39 @@ Scalar route closed. The search-qualified residual is multidimensional memory-st
 
 **Dated report:** `research/web-search/2026-09-28_allee-basin-memory-geometry.md`.
 
+## 2026-09-28 — ROUND-0012 reachable memory-state subsumption audit
+
+**Question.** Does the surviving Caputo basin-memory candidate remain nontrivial after restricting from the ambient Volterra function space to states physically reachable from standard Caputo IVPs, and is it already subsumed by hereditary/Volterra or Markovian-lift theory?
+
+**Search blocks.**
+- Doan–Kloeden transition-state construction and physical embedding;
+- Cong–Tuan scalar/triangular nonintersection versus higher-dimensional trajectory intersection;
+- recent Caputo attractor regularity and reachable-state interpretation;
+- same-present/different-history and same-present/opposite-basin searches;
+- bistable fractional memory/tipping/hysteresis;
+- classical Volterra topological dynamics and weakly singular kernels;
+- equivalent histories/minimal states;
+- Caputo history-state dynamic programming;
+- infinite-state/diffusive representations and completely monotone-kernel Markovian lifts;
+- monotone/cooperative/competitive comparison;
+- Double/Multiple-Allee basin relevance.
+
+**Decisive positive findings.**
+1. Doan–Kloeden gives the exact infinite-dimensional semigroup and constant physical embedding.
+2. Cong–Tuan gives an explicit d>=2 standard Caputo-IVP trajectory intersection. Combined with Doan–Kloeden, this proves noninjectivity of current-state evaluation on the physically reachable memory set; the effect is not an ambient-state artifact.
+3. Cui–Kloeden–Xin 2026 gives compact absorbing-set/attractor and Hölder-regularity results for the ambient Caputo Volterra semiflow.
+4. Khalighi et al. 2026 is very close prior art for history-dependent bistable landscapes, rollback, delayed collapse/recovery and hysteresis.
+5. Miller–Sell, Miller–Feldstein, minimal-state viscoelasticity and Gomoyunov show that enlarged/minimal history-state machinery is mature well beyond ecological fractional terminology.
+6. Trigeassou–Maamri confirms that infinite-dimensional Markovian/frequency-distributed realization is established fractional-systems methodology.
+7. Scalar/triangular and monotone comparison theory materially restricts subclasses but does not provide a general multidimensional basin-fiber killer.
+
+**Critical negative search.**
+No theorem or explicit example was located satisfying all of:
+standard autonomous Caputo IVPs + two physically reachable distinct memory states + identical current physical state + different future continuations + convergence to different asymptotic attractors.
+
+This is not an absence proof.
+
+**Round verdict.**
+The ambient-artifact objection is falsified, but the broad memory-landscape narrative is substantially prior art. The search-qualified residual is the fiberwise multibasin question for \(e_0:\mathcal R_\alpha\to X_{\rm phys}\), preferably in positive strong/Double-Allee systems.
+
+**Dated report:** research/web-search/2026-09-28_reachable-memory-state-subsumption.md.
