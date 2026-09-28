@@ -132,7 +132,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-FS-05 — Robust nonlinear survival/extinction under parameter and fractional-order uncertainty
 
-**Status:** ACTIVE FALSIFICATION — ROUND-0013.
+**Status:** RETAINED / NARROWED AFTER ROUND-0013.
 
 **Core question:** can one characterize survival, extinction, persistence, invariant regions, or basin/threshold structure uniformly over uncertainty in ecological parameters and fractional orders?
 
@@ -140,6 +140,25 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Strongest threats:** nonlinear robust-control literature, classical robust permanence, differential inclusions, viability kernels, set-valued semiflows, robust invariant-set theory.
 
-**Novelty risk:** high until a theorem-level residual survives those adjacent theories.
+**Novelty risk:** substantial because classical robust permanence, viability and robust-ROA theory are strong adjacent literatures.
+
+**What survived:** common robust survival/extinction regions, basin-relative persistence, or separator enclosures uniformly over simultaneous parameter/order uncertainty.
 
 **Double Allee proximity:** very high.
+
+
+---
+
+## OPPORTUNITY-FS-06 — Variable/distributed-order global dynamical-systems frontier
+
+**Status:** ACTIVE MAPPING — ROUND-0014.
+
+**Core question:** how much rigorous global dynamical-systems theory exists when the memory order or memory-order distribution itself changes through time/state or is distributed across scales?
+
+**Known prior:** distributed-order nonlinear Lyapunov/asymptotic stability is established; variable-order existence/stability theory is nonempty.
+
+**Potential residuals:** process/semiflow architecture, attractors, nonlinear bifurcation, persistence/extinction, and operator-change dynamics beyond fixed-order Caputo.
+
+**Double Allee proximity:** unknown pending ROUND-0014; must be demonstrated naturally.
+
+**Main risk:** added modeling complexity without a correspondingly deep theorem frontier.
