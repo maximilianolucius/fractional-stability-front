@@ -86,23 +86,28 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0008 — Full-domain architecture and coverage audit
+### ROUND-0009 — Fractional uniform-persistence/permanence falsification
+
+**Status:** OPEN
 
 Purpose:
 
-- breadth-first map of the FDE dynamical-systems/stability domain;
-- identify canonical results, strongest generalizations and modern reviews;
-- quantify which branches are currently under-mapped in this repository;
-- surface candidate gaps without prematurely selecting one;
-- tag each candidate by Double Allee proximity.
+- determine whether a genuine abstract persistence/permanence gap exists for Caputo/nonlocal systems;
+- test whether history-space / hereditary / Volterra theory already subsumes it;
+- distinguish ecological uniform persistence from the unrelated “fractional persistence problem” terminology;
+- determine whether ordinary uniform persistence is even the right concept for strong/Double Allee bistability.
 
 ## Current candidate opportunity portfolio
 
-At least one live candidate exists:
+Current high-information candidates include:
 
-- persistence-filtered mechanism composition in Multiple/Double Allee systems.
+- persistence-filtered mechanism composition in Multiple/Double Allee systems;
+- rigorous fractional bifurcation/nonhyperbolic threshold dynamics;
+- abstract or basin-relative persistence/permanence for fractional/nonlocal systems;
+- robust nonlinear threshold/persistence under order/parameter uncertainty;
+- variable/distributed-order nonlinear threshold dynamics.
 
-It must compete with gaps discovered by the broader map.
+No candidate is selected.
 
 ## Survey objective
 
@@ -115,7 +120,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0008;
-5. launch depth-first mapping waves in under-covered branches;
+4. assimilate ROUND-0009 when returned;
+5. follow with a dedicated D10 bifurcation/periodicity/attractor audit;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
