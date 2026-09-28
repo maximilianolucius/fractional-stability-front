@@ -96,3 +96,19 @@ Verification labels:
 | S411 | Kharazmi et al. (2021) | DOI 10.1038/s43588-021-00158-0 | PRIMARY/FULL | integer/fractional/time-delay model comparison under sparse/noisy data |
 | S412 | Liu, Wang, Zhang (2025) | DOI 10.1016/j.jfranklin.2024.107444 | PRIMARY/ABSTRACT | simultaneous fractional order + delay identification under colored noise |
 
+## ROUND-0006 — Mechanism-resolved final novelty
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S501 | Pavlová, Berec, Boukal, *Caught between two Allee effects* (2010) | DOI 10.1016/j.jtbi.2010.03.009 | PRIMARY/ABSTRACT | direct interaction of reproduction- and predation-mediated Allee effects |
+| S502 | Rodriguez, *Models of growth with density regulation in more than one life stage* (1988) | DOI 10.1016/0040-5809(88)90036-6 | PRIMARY/ABSTRACT | survival/fecundity density regulation can generate multiple equilibria |
+| S503 | Feldman, Morris, *Higher survival at low density counteracts lower fecundity...* (2011) | DOI 10.1111/j.1365-2745.2011.01855.x | PRIMARY/FULL | vital-rate counterfactual composition can create/remove Allee effect |
+| S504 | Buddh, Krishna, Agashe, *Density dependent survival drives variation...* (2024) | DOI 10.1111/oik.10813 | PRIMARY/FULL+ABSTRACT | explicit product of density-dependent survival and fecundity |
+| S505 | Yates, Evans, Chappell, *Structural identifiability analysis via symmetries...* (2009) | DOI 10.1016/j.automatica.2009.07.009 | PRIMARY/ABSTRACT | output-preserving symmetries as structural-identifiability transformations |
+| S506 | Meshkat, Anderson, DiStefano, *Finding identifiable parameter combinations...* (2011) | DOI 10.1016/j.mbs.2011.06.001 | PRIMARY/ABSTRACT | exact identifiable-combination/reparameterization theory |
+| S507 | Joubert, Stigter, Molenaar, *Determining minimal output sets...* (2018) | DOI 10.1371/journal.pone.0207334 | PRIMARY/FULL | direct general minimal-output structural-identifiability result |
+| S508 | Riecke et al., *Integrated population models: Model assumptions and inference* (2019) | DOI 10.1111/2041-210X.13195 | REVIEW/FULL PAGE | ecological precedent for combining abundance and demographic data streams |
+| S509 | Massonis, Villaverde, *Finding and Breaking Lie Symmetries...* (2020) | DOI 10.3390/sym12030469 | PRIMARY/FULL | detects and breaks symmetry-induced unidentifiability/observability |
+| S510 | Villaverde, Banga, *Dynamical compensation and structural identifiability...* (2017) | DOI 10.1371/journal.pcbi.1005878 | PRIMARY/FULL | biological output invariance is structural unidentifiability under the observation scheme |
+| S511 | Tsai, *Bifurcations in a population model on N patches with strong Allee effect...* (2026) | DOI 10.1016/j.jsc.2025.102544 | PRIMARY/ABSTRACT | current N-patch strong-Allee bifurcation prior art |
+
