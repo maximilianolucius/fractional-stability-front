@@ -515,3 +515,42 @@ Classical robust permanence, viability and robust ROA provide strong ingredients
 D6 survives as a search-qualified frontier only in a narrowed form: uncertainty-uniform global threshold geometry + basin-relative persistence for positive nonlinear Caputo systems, especially strong/Double Allee and incommensurate order families.
 
 **Dated report:** research/web-search/2026-09-28_robust-nonlinear-threshold-order-uncertainty.md.
+
+## 2026-09-28 — ROUND-0014 variable/distributed-order dynamics audit
+
+**Question.** What theorem-level dynamical-systems and stability theory exists when the fractional memory operator itself varies through time/state or an order distribution, and where does the real frontier begin?
+
+**Search architecture.**
+- distributed-order operator taxonomy/reviews;
+- fixed-DO abstract Volterra/resolvent/subordination theory;
+- characteristic-root and BIBO linear DO stability;
+- nonlinear DO Lyapunov/asymptotic stability;
+- Prabhakar distributed-order stability;
+- variable-order Caputo existence, continuation and Ulam-Hyers stability;
+- time-varying-order comparison/Lyapunov/Mittag-Leffler theory;
+- state-dependent/nonautonomous variable-order equations;
+- process/cocycle/semigroup searches;
+- global/pullback attractor, absorbing-set and asymptotic-compactness searches;
+- center-manifold, normal-form and Lyapunov-Schmidt searches;
+- persistence/permanence/extinction searches;
+- direct VO/DO ecology and Allee searches;
+- distributed-order inverse uniqueness and VO parameter learning;
+- distributed-variable-order/state-dependent-distribution searches.
+
+**Decisive findings.**
+1. Fixed distributed order is substantially mature at the abstract-evolution, exact-linear and nonlinear-Lyapunov levels.
+2. DO LTI systems already have characteristic/root and BIBO necessary/sufficient theory in important classes.
+3. Abstract distributed-order equations admit Volterra reformulations, complete-monotonicity, positivity, subordination and resolvent-family machinery.
+4. Variable-order foundations have advanced: continuation/global existence, comparison, Lyapunov and time-varying-order Mittag-Leffler stability now exist.
+5. State-dependent/nonautonomous variable-order work remains dominated by existence, uniqueness and uniform stability.
+6. No broad nonlinear process/cocycle + attractor theory was identified for VO/state-dependent/DVO systems.
+7. No broad center-manifold/normal-form/LS theory was identified for VO or continuous DO.
+8. Positivity and model-specific ecological/epidemic threshold results exist; no abstract persistence/permanence framework was located.
+9. Variable-order predator-prey and distributed-order predator-prey are direct prior, so application-level novelty is weak.
+10. DO weight functions can be uniquely identifiable in selected inverse problems; VO parameters can be learned from data. Cross-operator model distinguishability remains unresolved.
+11. No direct variable-/distributed-order Double-Allee theorem program was identified, but terminology absence is not enough to establish a high-value gap.
+
+**Round verdict.**
+D14 is a real but heterogeneous frontier. Fixed distributed order is no longer a foundational stability gap. The strongest unresolved layer is global nonlinear dynamics for evolving memory laws: process/cocycle structure, dissipativity/attractors, persistence/extinction and nonhyperbolic reduction. Double-Allee proximity is currently moderate-to-low and requires a mechanistic rather than decorative bridge.
+
+**Dated report:** research/web-search/2026-09-28_variable-distributed-order-dynamics.md.
