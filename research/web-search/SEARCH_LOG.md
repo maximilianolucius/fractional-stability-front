@@ -554,3 +554,46 @@ D6 survives as a search-qualified frontier only in a narrowed form: uncertainty-
 D14 is a real but heterogeneous frontier. Fixed distributed order is no longer a foundational stability gap. The strongest unresolved layer is global nonlinear dynamics for evolving memory laws: process/cocycle structure, dissipativity/attractors, persistence/extinction and nonhyperbolic reduction. Double-Allee proximity is currently moderate-to-low and requires a mechanistic rather than decorative bridge.
 
 **Dated report:** research/web-search/2026-09-28_variable-distributed-order-dynamics.md.
+
+## 2026-09-28 — ROUND-0015 stochastic / switching fractional persistence audit
+
+**Question.** Does genuine time-fractional stochastic/switching dynamics already possess mature state, persistence/extinction and rare-event theory, and is there a natural Double/Multiple-Allee frontier?
+
+**Terminology firewall.**
+- S1: time-fractional derivative + stochastic forcing.
+- S2: ordinary systems driven by fractional Brownian motion.
+- S3: stochastic systems with spatial fractional operators.
+- S4: deterministic fractional dynamics between random/switching events.
+Only S1/S4 were counted as direct evidence.
+
+**Search architecture.**
+- Brownian-driven Caputo stochastic integral formulation and well-posedness;
+- moment, almost-sure and finite-time stability;
+- stochastic Volterra Markovian lifts;
+- invariant measures, stationary processes and Kolmogorov equations;
+- stochastic positivity and convex-domain invariance;
+- persistence/extinction in positive time-fractional systems;
+- ordinary stochastic Allee persistence/extinction/regime switching;
+- noise-induced Allee tipping and first-passage behavior;
+- stochastic-Volterra large deviations;
+- quasipotential/exit-time/metastability;
+- switched Caputo lower-terminal conventions;
+- reset/short-memory versus persistent-memory switching;
+- direct stochastic-fractional Allee and Double-Allee searches.
+
+**Decisive findings.**
+1. Genuine S1 well-posedness and equilibrium stability are direct prior.
+2. Fractional power-law stochastic Volterra equations can be embedded in Hilbert-space Markovian lifts; invariant-measure and stationary-process theory is increasingly strong.
+3. Positivity/invariance for stochastic Volterra equations is established under structural kernel/noise conditions.
+4. General singular-SVE LDP theory is direct prior; 2026 work treats the power-law fractional kernel explicitly.
+5. Ordinary stochastic Allee persistence/extinction, regime switching and noise-induced tipping are mature and form a strong killer baseline.
+6. No general stochastic persistence/permanence/extinction theory was identified for positive time-fractional Caputo/Volterra systems.
+7. No general Allee-specific quasipotential/exit-time theorem was found downstream of the existing SVE LDP.
+8. Reset/short-memory fractional switching is substantially developed.
+9. Persistent-memory switching with a fixed lower terminal is structurally different and remains unresolved in the searched corpus; a 2026 source explicitly marks it as future work.
+10. No theorem-level direct stochastic + time-fractional + Allee persistence/extinction paper was identified.
+
+**Round verdict.**
+D8 is a real, naturally Allee-adjacent frontier only beyond generic stochastic stability. The strongest residuals are stochastic fractional persistence/extinction, rare exit from multistable positive basins, and persistent-memory random switching.
+
+**Dated report:** research/web-search/2026-09-28_stochastic-switching-fractional-persistence.md.
