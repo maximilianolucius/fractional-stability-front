@@ -200,3 +200,20 @@ For each high-value result, the search was expanded by at least one of:
 | Q133 | 0010 | `fractional Double Allee bifurcation incommensurate basin` | block G | Mondal et al. 2025 and related direct prior |
 | Q134 | 0010 | `Caputo Allee Hopf Matignon stability sector periodic solutions` | semantic ecology check | Pippal–Sati 2026 explicit distinction found |
 
+## ROUND-0011 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q135 | 0011 | `"Allee thresholds and basins of attraction" double Allee` | mandatory integer-order baseline | Contreras–Aguirre 2018: stable-manifold/limit-cycle/homoclinic thresholds |
+| Q136 | 0011 | `scalar Caputo separation solutions nonintersection` | Killer 1 | Diethelm–Ford + Cong–Tuan; scalar barrier rigidity |
+| Q137 | 0011 | `general scalar Caputo comparison principle Wu` | scalar threshold order | Wu 2020 direct comparison theorem |
+| Q138 | 0011 | `complete system comparison principles Caputo 2026` | system order theory | Cheng–Wu 2026 |
+| Q139 | 0011 | `Caputo basin attraction memory state physical initial condition` | physical vs history basin | Doan–Kloeden memory-state framework; no direct global basin theorem found |
+| Q140 | 0011 | `basin stability delayed dynamics infinite dimensional initial function` | history-space analogue | Leng–Lin–Kurths 2016 |
+| Q141 | 0011 | `fractional double Allee basin stability incommensurate` | Killer 3 | Mondal et al. 2025 direct numerical prior |
+| Q142 | 0011 | `commensurate incommensurate Allee fear basin attraction 2026` | incommensurate basin prior | Saha et al. 2026 physical-slice basin plots |
+| Q143 | 0011 | `Pippal Sati basin restricted Mittag Leffler invariant set` | classify certificate | sufficient invariant-subset certificate, not exact basin |
+| Q144 | 0011 | `Wang Han fractional predator prey refuge Allee basin global stability` | direct Allee prior | model-specific stability; no exact separatrix found |
+| Q145 | 0011 | `Caputo stable manifold ecological basin boundary` | stable-manifold threshold | local manifold theory exists; global threshold transfer unresolved |
+| Q146 | 0011 | `Volterra hereditary basin boundary power law Caputo kernel` | Killer 2 | close classical prior, no direct singular-kernel basin subsumption located |
+
