@@ -1,0 +1,54 @@
+# FINAL SHORTLIST — PRE-RECOMMENDATION
+
+**Date:** 2026-09-28  
+**Status:** ROUND-0017 FINAL KILLER AUDIT OPEN
+
+The project has moved from breadth mapping to evidence closure.
+
+## Family A — Deterministic reachable memory-state basin geometry
+
+Question:
+[
+exists phi,psiinmathcal R_alpha,qquad
+e_0(phi)=e_0(psi),
+qquad
+phiinmathcal B(A_1),quad
+psiinmathcal B(A_2),quad A_1
+eq A_2?
+]
+
+Preferred realization: positive multidimensional strong/Double-Allee Caputo dynamics with extinction and survival/coexistence basins.
+
+Main unresolved killer: positive/competitive structure or general hereditary stable-set theory may force one basin per current-state fiber in natural model classes.
+
+## Family B — Robust global threshold geometry
+
+Question: for
+[
+(oldsymbolalpha,	heta,m)inmathcal U,
+]
+can one characterize common survival/extinction regions, basin-relative persistence, separator bounds and bistability preservation uniformly over the uncertainty family?
+
+Multiple/Double-Allee mechanism composition is treated as structured uncertainty inside this family.
+
+Main unresolved killer: mature robust permanence and discriminating-kernel/strong-invariance theory may transfer after the history-state lift.
+
+## Family C — Stochastic memory-state persistence / rare exit
+
+Question: for positive stochastic fractional-memory systems with strong-Allee multistability, can one establish basin-relative stochastic persistence/extinction and rigorous rare-extinction / quasipotential / exit-time results on the lifted memory state?
+
+Persistent-memory regime switching is treated as one stochastic forcing architecture.
+
+Main unresolved killers:
+- Földes–Stacy 2026 infinite-dimensional stochastic persistence;
+- infinite-dimensional Freidlin–Wentzell exit theory;
+- Herrera-Marín 2026 long-memory regime switching.
+
+## Not shortlisted as independent opportunities
+
+- nonhyperbolic-memory bifurcation: supporting machinery / survey;
+- variable/distributed-order global dynamics: genuine domain frontier but weaker Double-Allee opportunity;
+- mechanism-persistence-filter: merged into Family B;
+- persistent-memory switching: merged into Family C.
+
+No family is yet selected as the final recommendation.
