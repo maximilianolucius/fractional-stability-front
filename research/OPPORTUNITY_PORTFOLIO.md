@@ -245,3 +245,28 @@ can intersect distinct asymptotic basins in a natural positive multidimensional 
 - **PERSISTENT-SWITCHING:** merged into Family C.
 
 No final winner has been selected.
+
+
+---
+
+# Final disposition after ROUND-0017
+
+## PRIMARY
+
+**Deterministic reachable memory-state basin geometry**
+
+Recommended as the principal opportunity discovered by the project.
+
+## SECONDARY
+
+**Robust multibasin threshold geometry under parameter/order/kernel perturbations**
+
+Retained after reformulation; broad robust-persistence novelty is rejected.
+
+## HIGH-RISK FUTURE
+
+**Rare extinction / basin-exit theory for positive stochastic fractional-memory systems**
+
+Retained after reformulation; broad stochastic-persistence and switching novelty is rejected.
+
+The gap-discovery task is complete. No further thematic round is active.
