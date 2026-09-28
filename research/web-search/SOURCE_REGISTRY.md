@@ -275,3 +275,26 @@ Verification labels:
 | S1234 | Li et al., inversion of distributed orders (2020) | DOI 10.1016/j.cam.2019.112564 | PRIMARY/OPEN ARCHIVE | additional DO weight uniqueness result |
 | S1235 | Singh, Mehra & Gulyani, VO parameter learning (2023) | DOI 10.1002/num.22796 | PRIMARY/ABSTRACT+METADATA | practical recovery in variable-order systems; not structural cross-model identifiability |
 | S1236 | Variable-order Arneodo bifurcation/chaos (2026) | DOI 10.3390/fractalfract10050296 | PRIMARY/OPEN FULL PAGE | recent model-specific/numerical bifurcation evidence; not general reduction theory |
+
+## ROUND-0015 — Stochastic / switching fractional persistence
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S1237 | Zhang & Zou, Caputo stochastic existence/finite-time stability (2025) | DOI 10.1063/5.0285642 | PRIMARY/OPEN FULL | direct S1 Brownian-driven Caputo well-posedness and finite-time stability |
+| S1238 | Xiao & Wang, Caputo stochastic stability (2021) | DOI 10.15388/namc.2021.26.22421 | PRIMARY/FULL | stochastic/asymptotic/a.s./p-moment stability baseline |
+| S1239 | Hamaguchi, Markovian lifting for stochastic Volterra equations (2024) | DOI 10.1016/j.spa.2024.104482 | PRIMARY/FULL-PAGE EXCERPT | Hilbert memory-state lift, Markov/Feller structure and invariant-measure machinery |
+| S1240 | Bianchi et al., stochastic Volterra limit theorems (2026) | DOI 10.1007/s40072-026-00428-w | PRIMARY/OPEN FULL | invariant measures, stationary processes, LLN/CLT for Volterra lifts incl fractional kernels |
+| S1241 | Alfonsi, nonnegativity-preserving kernels (2025) | DOI 10.1016/j.spa.2024.104535 | PRIMARY/OPEN FULL | positivity and convex-domain stochastic invariance |
+| S1242 | Abi Jaber, Alfonsi & Szulda, convex-domain general-kernel SVEs (2026) | DOI 10.1016/j.spa.2026.105078 | PRIMARY/PREPROOF+FULL PAGE | weak existence and positive-orthant invariance beyond convolution kernels |
+| S1243 | Jacquier & Pannier, large/moderate deviations for SVEs (2022) | DOI 10.1016/j.spa.2022.03.017 | PRIMARY/OPEN FULL | general singular stochastic-Volterra LDP/MDP killer baseline |
+| S1244 | Gao et al., weakly singular SVE numerics/LDP (2026) | DOI 10.1016/j.cnsns.2026.109827 | PRIMARY/FULL-PAGE EXCERPT | direct power-law kernel Freidlin-Wentzell LDP |
+| S1245 | Wang et al., switched Caputo almost-sure stability (2023) | DOI 10.1080/00051144.2023.2262016 | PRIMARY/OPEN FULL | deterministic/stochastic switching stability; lower-limit controversy |
+| S1246 | Agarwal, Hristova & O'Regan, short-memory switched network (2025) | DOI 10.3390/math13223704 | PRIMARY/OPEN FULL | explicit memory reset at switches; ML stability |
+| S1247 | O'Regan & Hristova, random switching times (2026) | DOI 10.3390/fractalfract10090616 | PRIMARY/OPEN FULL | Erlang switching + reset lower terminal; persistent-memory case explicitly future work |
+| S1248 | Updating the lower limit in Caputo switching — reply (2022) | DOI 10.1016/j.nahs.2021.101123 | PRIMARY/FULL-PAGE EXCERPT | documents mathematical controversy over reset convention |
+| S1249 | Yu, Yuan & Zhang, stochastic Allee under regime switching (2018) | DOI 10.1016/j.cnsns.2017.11.028 | PRIMARY/FULL-PAGE EXCERPT | extinction, persistence, stochastic permanence, recurrence and ergodicity baseline |
+| S1250 | He, Liu & Xu, stochastic Allee + Lévy jump (2024) | DOI 10.1002/mma.9880 | PRIMARY/FULL | positive solution, boundedness and ergodic stationary behavior |
+| S1251 | Granados & Valencia, stochastic emergent-Allee persistence/extinction (2026) | DOI 10.5614/cbms.2026.9.1.3 | PRIMARY/FULL | recent direct stochastic Allee threshold/persistence baseline |
+| S1252 | Pal et al., Allee noise-induced tipping (2026) | DOI 10.1016/j.chaos.2025.117567 | PRIMARY/FULL-PAGE EXCERPT | multistability, stochastic persistence/extinction, tipping probability/time |
+| S1253 | Gasteratos & Pannier, Kolmogorov equations for singular SVEs (2025) | arXiv:2509.21608 | PREPRINT/FULL | modern Markovian-lift backward/forward Kolmogorov/Fokker-Planck architecture |
+| S1254 | Random attractors for fractional stochastic reaction-diffusion with fBm (2025) | DOI 10.1016/j.chaos.2024.115775 | PRIMARY/ABSTRACT | terminology-firewall example: spatial fractional/fBm, not direct S1 time-fractional evidence |
