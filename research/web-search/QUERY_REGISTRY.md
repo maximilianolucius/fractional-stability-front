@@ -94,3 +94,20 @@ For each high-value result, the search was expanded by at least one of:
 | Q052 | 0005 | `fractional order time delay identification colored noise` | confounding check | joint estimation methods found |
 | Q053 | 0005 | `integer fractional time-delay model identifiability sparse data` | model-class confounding | Kharazmi et al. 2021 found |
 
+## ROUND-0006 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q054 | 0006 | `survival fecundity product threshold population theorem` | life-cycle component composition | Rodriguez 1988; Feldman–Morris 2011; Buddh et al. 2024 |
+| Q055 | 0006 | `double dormancy theorem multiple component Allee` | exact composition theorem | Berec model/call for theory; no general resolving theorem found |
+| Q056 | 0006 | `Caught between two Allee effects reproduction predation` | mandatory two-effect threat | Pavlová–Berec–Boukal 2010 |
+| Q057 | 0006 | `two component Allee effects threshold exact` | recent direct threat | Lan 2025 retained as strongest model-specific threat |
+| Q058 | 0006 | `factorized nonlinear model structural identifiability` | product-factor ambiguity | identifiable-combination literature found |
+| Q059 | 0006 | `gauge symmetry Lie symmetry structural identifiability ODE` | invariance prior art | Yates et al. 2009; Massonis–Villaverde 2020 |
+| Q060 | 0006 | `product identifiable combinations parameters ODE` | composite-only identifiability | Meshkat et al. 2011; Eisenberg–Hayashi 2014 |
+| Q061 | 0006 | `minimal outputs structural identifiability nonlinear systems` | output-design novelty test | Joubert et al. 2018 direct general result |
+| Q062 | 0006 | `integrated population models survival reproduction abundance inference` | ecological observation analogue | Riecke et al. 2019 |
+| Q063 | 0006 | `nonparametric product unknown functions identifiability` | distinguish functional from parametric SI | no direct ecological m-factor functional theorem found; ambiguity algebraically immediate |
+| Q064 | 0006 | `fractional model symmetry identifiability` | fractional extension threat | generic fractional identifiability already in corpus; fixed-RHS invariance immediate |
+| Q065 | 0006 | `10.1016/j.jsc.2025.102544 N-patch strong Allee` | mandatory network threat | Tsai 2026 verified |
+
