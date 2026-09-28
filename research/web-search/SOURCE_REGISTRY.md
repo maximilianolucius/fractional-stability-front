@@ -40,12 +40,14 @@ Verification labels:
 | S105 | Pal, Saha, *Qualitative analysis of a predator-prey system with double Allee effect in prey* (2015) | DOI: 10.1016/j.chaos.2014.12.007 | PRIMARY/FULL | strong analytical bifurcation prior art; clarifies common “double” growth law |
 | S106 | Lanchier, *The Role of Dispersal in Interacting Patches Subject to an Allee Effect* (2013) | DOI: 10.1239/aap/1386857863 | PRIMARY/FULL | topology/geometry-dependent Allee persistence/extinction in interacting patches |
 | S107 | Rahmi et al., *A Modified Leslie–Gower Model Incorporating Beddington–DeAngelis Functional Response, Double Allee Effect and Memory Effect* (2021) | DOI: 10.3390/fractalfract5030084 | PRIMARY/FULL | direct Caputo Double-Allee prior art |
-| S108 | Li, Li, diffusive predator-prey model with double Allee effect (2024) | DOI: 10.3934/math.20241309 | PRIMARY/ABSTRACT+METADATA | reaction–diffusion/spatial Double-Allee prior art |
-| S109 | Ramesh et al., fractional predator–prey system with Double Allee effect (2025) | DOI: 10.1371/journal.pone.0305179 | PRIMARY/FULL | Caputo local/global stability and Hopf prior art |
-| S110 | C. Mondal et al., fractional/discrete Double-Allee predator–prey analysis (2025) | DOI: 10.1007/s10867-025-09670-0 | PRIMARY/ABSTRACT+METADATA | continuous fractional + discrete comparison |
+| S108 | Lingling Li, Xuechen Li, *The spatiotemporal dynamics of a diffusive predator-prey model with double Allee effect* (2024) | DOI: 10.3934/math.20241309 | PRIMARY/ABSTRACT+METADATA | reaction–diffusion/spatial Double-Allee prior art |
+| S109 | Ramesh K. et al., *Analysis of the stability of a predator-prey model including the memory effect, double Allee effect and Holling type-I functional response* (2025) | DOI: 10.1371/journal.pone.0305179 | PRIMARY/FULL | Caputo local/global stability and Hopf prior art |
+| S110 | Chirodeep Mondal et al., *Dynamics of predator-prey system with the consequences of double Allee effect in prey population* (2025) | DOI: 10.1007/s10867-025-09670-0 | PRIMARY/ABSTRACT+METADATA | continuous fractional + discrete comparison |
 | S111 | R. Mondal et al., *Dynamics of a fractional order predator-prey system with double Allee effect and group defense* (2025) | DOI: 10.1016/j.cjph.2025.09.020 | PRIMARY/FULL | incommensurate fractional-order prior art; multistability/basin analysis |
-| S112 | Alraddadi, Ahmed, Seol, fractional discrete predator–prey Double-Allee model (2026) | DOI: 10.3390/fractalfract10050304 | PRIMARY/FULL | discrete fractional local stability and bifurcations |
-| S113 | Tassaddiq et al., Double-Allee predator–prey dynamical stability (2026) | DOI: 10.3934/math.2026048 | PRIMARY/FULL | recent non-fractional/discrete analytical prior art |
+| S112 | Ibrahim Alraddadi, Rizwan Ahmed, Youngsoo Seol, *Bifurcation Structure and Chaos Control in a Discrete-Time Fractional Predator–Prey Model with Double Allee Effect* (2026) | DOI: 10.3390/fractalfract10050304 | PRIMARY/FULL | discrete fractional local stability and bifurcations |
+| S113 | Asifa Tassaddiq, Rizwan Ahmed, Jawad Khan, Youngmoon Lee, *Impact of double Allee effect on the dynamics and stability of a predator-prey model* (2026) | DOI: 10.3934/math.2026048 | PRIMARY/FULL | recent non-fractional/discrete analytical prior art |
+
+| S114 | Angulo, Roemer, Berec, Gascoigne, Courchamp, *Double Allee Effects and Extinction in the Island Fox* (2007) | DOI: 10.1111/j.1523-1739.2007.00721.x | PRIMARY/FULL+ABSTRACT | empirical demographic data 1988–2000; simultaneous component effects on survival and breeding; demographic effect and reported density threshold |
 
 ## Notes
 
