@@ -2,115 +2,120 @@
 
 ## Current phase
 
-**Phase 3 — Primary direction selected; theorem proving + theorem-specific falsification**
+**Phase 2R — Domain-map expansion and research-opportunity discovery**
 
-The frontier-selection stage is complete.
+The project mission was clarified on 2026-09-28.
 
-## Completed Chief-reviewed rounds
+The target domain is:
 
-- ROUND-0001 — fractional stability seed: ACCEPT WITH RESERVATIONS.
-- ROUND-0002 — Double Allee terminology seed: ACCEPT WITH RESERVATIONS.
-- ROUND-0003 — structured conic D-stability: matrix route deprioritized.
-- ROUND-0004 — double dormancy/network falsification: composition survives; broad network route rejected.
-- ROUND-0005 — data/identifiability: real-data branch viable; fractional memory removed from empirical core.
-- ROUND-0006 — mechanism-resolved final novelty gate: **ACCEPT WITH MAJOR REVISION; PRIMARY DIRECTION SELECTED.**
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
 
-## Selected primary direction
+The project objective is to map the state of the art and identify fertile research gaps, preferably directly involving Double/Multiple Allee dynamics or otherwise very close to them.
 
-**Mechanism-Space Geometry of Multiple Allee Effects: Threshold-Generating Coalitions, Phase Boundaries, and Mechanism Attribution**
+The project does **not** proceed from gap selection into full theorem proving. Solving the chosen gap belongs to a separate future project.
 
-Canonical file:
+## Authoritative charter
 
-research/double-allee/PRIMARY_DIRECTION.md
+`docs/PROJECT_CHARTER.md`
 
-## Mathematical core
+## Completed evidence rounds
 
-Use
+- ROUND-0001 — fractional stability seed.
+- ROUND-0002 — Double Allee terminology and prior-art seed.
+- ROUND-0003 — structured conic D-stability.
+- ROUND-0004 — double dormancy/network falsification.
+- ROUND-0005 — Double Allee data/identifiability.
+- ROUND-0006 — mechanism-resolved novelty gate.
+- ROUND-0007 — mechanism-space geometry falsification.
 
-\[
-F(x;\lambda)
-=
-b(x)-\sum_i\lambda_i g_i(x)
-\]
+## Assimilated lesson from ROUND-0007
 
-to represent baseline demographic viability minus component-mechanism penalties.
+The mechanism-space candidate was not killed, but most of its individual mathematical ingredients were shown to be standard:
 
-Current theorem targets:
+- convex/semi-infinite geometry;
+- weighted threshold games;
+- antichain/order-convex structure;
+- Danskin/envelope sensitivity.
 
-- **P1:** component-level shape conditions imply strict concavity in density;
-- **P2:** convex mechanism-space extinction geometry;
-- **P3:** exact radial phase window;
-- **P4:** minimal threshold-generating mechanism coalitions;
-- **P5:** extinction-boundary sensitivity;
-- **P6:** robust uncertainty extension.
+The residual candidate gap is the coupling between:
 
-Proof files:
+[
+	ext{low-density failure}
+quad	ext{and}quad
+	ext{global positive persistence}
+]
 
-- research/double-allee/THEOREM_PROGRAM.md
-- research/double-allee/PROOF_LEDGER.md
+for component-resolved multiple Allee mechanisms.
 
-## Current proof state
+This is retained as a **candidate opportunity**, not an active proof program.
 
-Chief draft proofs exist for the logical cores of P1–P4.
+See:
 
-They remain **DRAFT-PROVED**, not verified.
+`research/double-allee/CANDIDATE_MECHANISM_SPACE_GEOMETRY.md`
 
-Next proof tasks:
-1. boundary/equality cases;
-2. zero-denominator cases in P3;
-3. formal inclusion-chain theorem in P4;
-4. explicit counterexamples showing necessity of sign/shape assumptions;
-5. infinite-domain/coercive variant.
+## Correction of prior project state
 
-## Identifiability disposition
+The prior status “primary direction selected; theorem proving” is withdrawn.
 
-Generic factor-gauge non-identifiability and minimal-output recovery are established structural-identifiability ideas.
+`research/double-allee/PRIMARY_DIRECTION.md` is de-selected.
 
-They are no longer headline novelty.
+Historical exploratory files:
 
-Their role is scientific interpretation:
+- `MECHANISM_RESOLVED_FRAMEWORK.md`
+- `THEOREM_PROGRAM.md`
+- `PROOF_LEDGER.md`
 
-> observing a demographic threshold does not imply unique attribution to its component mechanisms.
+are preserved as candidate-analysis provenance and are not current proof tasks.
 
-## Empirical feasibility
+## Current mapping priorities
 
-A strong new benchmark was verified:
+The full domain map must now be expanded across:
 
-**Buddh, Krishna & Agashe (2024), Tribolium castaneum**
-
-- population growth decomposed into density-dependent fecundity × survival;
-- both mechanisms experimentally estimated;
-- data and R code linked through Figshare.
-
-This is now the first open mechanism-resolved dataset for implementation.
+1. fractional operator/order architectures relevant to dynamical stability;
+2. linear autonomous spectral stability;
+3. incommensurate/multi-term stability;
+4. nonlinear local/global stability;
+5. Lyapunov/Mittag-Leffler and converse theory;
+6. structured/positive/D-stability/diagonal-stability bridges;
+7. robustness and uncertainty;
+8. delays, switching, stochastic and hybrid systems;
+9. graph/network dynamics;
+10. bifurcation, multistability, persistence/extinction and tipping;
+11. ecological/population applications;
+12. Double/Multiple Allee as a preferred frontier lens.
 
 ## Active round
 
-### ROUND-0007 — Mechanism-space geometry falsification
+### ROUND-0008 — Full-domain architecture and coverage audit
 
-**Status:** OPEN  
-**Priority:** P0  
-**Purpose:** determine whether the strengthened P2–P4 results are already known in convex viability, tipping-region, reliability, weighted-threshold-game, or adjacent literature.
+Purpose:
 
-Request:
+- breadth-first map of the FDE dynamical-systems/stability domain;
+- identify canonical results, strongest generalizations and modern reviews;
+- quantify which branches are currently under-mapped in this repository;
+- surface candidate gaps without prematurely selecting one;
+- tag each candidate by Double Allee proximity.
 
-research/coordination/chief-to-web/ROUND-0007_mechanism-space-geometry_REQUEST.md
+## Current candidate opportunity portfolio
 
-This round does not reopen direction selection. It can still force theorem narrowing.
+At least one live candidate exists:
 
-## Research directions explicitly rejected as primary
+- persistence-filtered mechanism composition in Multiple/Double Allee systems.
 
-- generic fractional Double Allee;
-- generic network Double Allee;
-- another special predator–prey bifurcation model;
-- broad fractional D-stability;
-- generic identifiability/gauge theory.
+It must compete with gaps discovered by the broader map.
+
+## Survey objective
+
+Once coverage is sufficiently mature, evaluate preparation of a survey/state-of-the-art paper.
+
+The survey is a legitimate output of this project.
 
 ## Immediate Chief agenda
 
-1. close P1–P4 rigorously;
-2. build sharp counterexamples;
-3. reproduce Tribolium component functions;
-4. audit ROUND-0007 when returned;
-5. promote only genuinely new statements to manuscript claims;
-6. begin paper architecture after P2–P4 survive both proof and prior-art checks.
+1. expand `research/DOMAIN_MAP.md`;
+2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
+3. build a nontrivial `opportunity-matrix.csv`;
+4. assimilate ROUND-0008;
+5. launch depth-first mapping waves in under-covered branches;
+6. maintain Double Allee proximity as a selection criterion;
+7. only after broad coverage, recommend the most fertile gaps.
