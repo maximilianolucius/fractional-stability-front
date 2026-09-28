@@ -108,3 +108,15 @@ It does not solve them.
 **Critical multidimensional test:** distinguish the basin on the constant-initial-data slice from the basin in the full history/memory state.
 
 **Integer-order benchmark:** Contreras et al. 2018, DOI 10.1002/mma.4774.
+
+
+## OP-DA-03 — Reachability of history-dependent Allee basin membership
+
+**Evidence class:** D  
+**Status:** active killer audit in ROUND-0012.
+
+**Question:** within the reachable Caputo memory-state set, can two states with identical current physical populations carry different survival/extinction basin memberships because their memory content differs?
+
+**Why it matters:** this would be an intrinsically fractional/non-Markovian threshold phenomenon with no autonomous finite-dimensional ODE analogue.
+
+**Main killer risks:** ambient-state artifact; direct hereditary/Volterra subsumption; monotone-system structure; lack of ecological reachability.
