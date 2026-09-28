@@ -125,4 +125,4 @@ This result is search-dependent, not proof of absence. A dedicated inverse-probl
 
 **Classification:** **DIRECT PRIOR EVIDENCE FOUND**
 
-Berec–Angulo–Courchamp (2007) synthesizes multiple empirical examples. This supports biological plausibility of compound mechanisms, but does not by itself validate a two-threshold demographic model or a fractional derivative.
+Berec–Angulo–Courchamp (2007) synthesizes multiple empirical examples. In addition, Angulo et al. (2007, DOI 10.1111/j.1523-1739.2007.00721.x) directly analyzed island-fox demographic data from 1988–2000 and reported a double component Allee effect affecting survival and the proportion of breeding females, with a resulting demographic effect and suboptimal growth below about 7 foxes/km^2. This is direct empirical support for compound component mechanisms, but it does not establish two demographic thresholds or a fractional-memory law.
