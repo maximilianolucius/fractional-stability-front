@@ -168,7 +168,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-FS-07 — Stochastic/switching time-fractional persistence and extinction
 
-**Status:** ACTIVE MAPPING — ROUND-0015.
+**Status:** RETAINED / ENTERING CROSS-CANDIDATE AUDIT.
 
 **Core question:** what general theorem architecture exists for persistence, extinction, basin exit, rare events, and regime switching in genuine time-fractional stochastic systems?
 
@@ -178,4 +178,22 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Specific structural issue:** whether switching resets fractional memory or preserves it may define fundamentally different dynamical systems.
 
-**Main risk:** much apparent novelty may already belong to stochastic Volterra/RDS theory.
+**Main risk:** much apparent novelty already belongs to stochastic Volterra/RDS theory; the residual must be persistence/extinction, rare basin exit, or persistent-memory switching rather than generic stochastic stability.
+
+
+---
+
+## Comparative phase — ROUND-0016
+
+The project now has enough domain breadth for direct candidate elimination.
+
+ROUND-0016 compares:
+- reachable memory-state fiber multibasin geometry;
+- robust survival/extinction under parameter/order uncertainty;
+- stochastic fractional persistence/extinction and rare exit;
+- persistent-memory random switching;
+- singular/incommensurate nonhyperbolic memory dynamics;
+- persistence-filtered Multiple/Double-Allee mechanism composition;
+- variable/distributed-order global dynamics.
+
+No candidate is selected yet. The goal is to merge overlaps, eliminate weak gaps, and retain only theorem-level survivors.
