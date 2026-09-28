@@ -222,3 +222,26 @@ The strongest residuals concern:
 D14 is retained as a real global-dynamics frontier but is not currently among the closest Double-Allee candidates.
 
 The active branch is now D8: stochastic, randomly switched and hybrid time-fractional dynamics.
+
+
+## ROUND-0015 Chief correction
+
+D8 is substantially more mature than a naive “stochastic fractional” search suggests.
+
+Direct prior exists for:
+- stochastic Caputo/Volterra well-posedness;
+- moment/pathwise equilibrium stability;
+- positivity/invariance;
+- Markovian stochastic-Volterra lifts;
+- invariant/stationary measures;
+- large deviations;
+- reset-memory switched fractional stability.
+
+The surviving high-value residuals are:
+- stochastic persistence/extinction on the lifted fractional-memory state;
+- rare extinction / basin-exit theory for multistable positive systems;
+- random switching with a fixed original lower terminal / persistent memory.
+
+D8 is retained as one of the most naturally Allee-connected branches.
+
+The project now enters a comparative phase: ROUND-0016 audits the best surviving candidates side by side instead of opening another independent thematic branch.
