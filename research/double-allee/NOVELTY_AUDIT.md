@@ -1,151 +1,118 @@
 # Double Allee — Novelty Audit
 
-**Updated by Chief:** 2026-09-28 after ROUND-0003/0004/0005 and independent verification.
+**Updated by Chief:** 2026-09-28 after ROUND-0006.
 
-## Closed or strongly blocked routes
+## Closed routes
 
-### N-DA-001 — Simple Caputo fractionalization
-**Status:** CLOSED AS PRIMARY NOVELTY ROUTE.
+The following are not primary novelty routes:
 
-### N-DA-002 — Incommensurate fractionalization
-**Status:** CLOSED AS PRIMARY NOVELTY ROUTE.
+- simple Caputo Double-Allee models;
+- incommensurate/discrete fractionalization;
+- continuum diffusion alone;
+- generic planar Double-Allee bifurcation;
+- generic graph/network threshold effects;
+- broad fractional/conic D-stability;
+- generic structural-identifiability symmetry;
+- generic minimal-output identifiability;
+- implicit-function threshold sensitivity;
+- fixed-operator/network preservation of an unchanged RHS factorization.
 
-### N-DA-003 — Discrete fractionalization
-**Status:** CLOSED AS PRIMARY NOVELTY ROUTE.
+## ROUND-0006 conclusions
 
-### N-DA-004 — Continuum diffusion
-**Status:** CLOSED AS PRIMARY NOVELTY ROUTE.
+### N-DA-501 — Strict-unimodal root classification
 
-### N-DA-005 — Generic planar Double-Allee bifurcation
-**Status:** HIGH PRIOR-ART DENSITY.
+**Status:** COVERED AFTER REFORMULATION.
 
-### N-DA-006 — Generic network transformation of an Allee/bistable threshold
-**Status:** BROAD VERSION EFFECTIVELY COVERED.
+Use as scaffolding only.
 
-Stehlík–Švígler–Volek 2023 already provides arbitrary connected-graph persistence/extinction conditions for heterogeneous local reactions including bistable dynamics. Additional graph-Allee and metapopulation results reinforce this.
+### N-DA-502 — Double-dormancy component-function theorem
 
-### N-DA-007 — Generic structured fractional D-stability
-**Status:** BROAD VERSION CLOSED.
+**Status:** NO RESOLVING RESULT FOUND IN SEARCHED CORPUS, but with high triviality risk in the old formulation.
 
-General conic/LMI-region multiplicative D-stability exists; classical exact structural D-stability theory is rich.
+The old formulation was too weak if it merely assumed joint unimodality and checked endpoint/maximum signs.
 
----
+### N-DA-503 — Product-factor non-identifiability
 
-## Leading surviving claim family
+**Status:** COVERED AFTER REFORMULATION.
 
-### N-DA-101 — Mechanism-resolved threshold composition theorem
+Use established output-preserving symmetry/identifiable-combination theory.
 
-**Current status:** PARTIAL/CLOSE PRIOR ART — SURVIVES ONLY IN EXACT FUNCTION-CLASS FORM.
+### N-DA-504 — Minimal-output restoration
 
-Strongest threats:
+**Status:** COVERED AFTER REFORMULATION.
+
+Only realistic ecology-specific observation operators could support a new secondary result.
+
+## Selected novelty nucleus
+
+The Chief strengthened and selected the primary direction as:
+
+> **mechanism-space geometry of multiple Allee effects**, with component-level penalty profiles and minimal threshold-generating mechanism combinations.
+
+Use
+
+\[
+F(x;\lambda)
+=
+b(x)-\sum_i\lambda_i g_i(x).
+\]
+
+The central targets are:
+
+1. convex extinction geometry in lambda-space;
+2. exact radial threshold windows;
+3. minimal threshold-generating coalitions for arbitrary m;
+4. robustness under mechanism uncertainty.
+
+These are specified in:
+
+- research/double-allee/PRIMARY_DIRECTION.md
+- research/double-allee/THEOREM_PROGRAM.md
+- research/double-allee/PROOF_LEDGER.md
+
+## Current evidence-qualified claim
+
+As of 2026-09-28:
+
+> No result resolving the selected mechanism-space phase-and-coalition theorem program was identified in the searched corpus.
+
+This statement is provisional with respect to the strengthened P2–P4 formulation.
+
+## Active theorem-specific falsification
+
+ROUND-0007 tests whether P2–P4 are already covered under:
+
+- convex viability/persistence regions;
+- tipping surfaces;
+- reliability/minimal cut sets;
+- weighted voting games/minimal winning coalitions;
+- monotone Boolean systems;
+- robust ecological stability;
+- parameter-space threshold geometry.
+
+## Primary prior-art threats retained
+
 - Berec–Angulo–Courchamp 2007;
+- Pavlová–Berec–Boukal 2010;
 - Lan 2025;
-- two-Allee trade-off models;
-- emergent-Allee stage-structured models;
-- generic saddle-node/root geometry.
+- Rodriguez 1988;
+- Feldman–Morris 2011;
+- Buddh–Krishna–Agashe 2024;
+- generic convex-analysis and threshold-game theory.
 
-The residual claim is:
+## Primary-direction status
 
-> For a controlled class of separately interpretable density-dependent component-fitness functions, derive reusable necessary-and-sufficient conditions for individually non-strong components to jointly create a strong demographic threshold, including root-count control, fold boundary and comparative statics.
+**SELECTED.**
 
-The precise class is frozen in:
+Selection means the research program is now proof-active.
 
-research/double-allee/MECHANISM_RESOLVED_FRAMEWORK.md
+It does **not** mean that P2–P4 are already certified novel. ROUND-0007 is the final theorem-specific prior-art check while proofs proceed.
 
-**Required final audit:** ROUND-0006.
+## Data position
 
----
+The 2024 Tribolium study materially improves feasibility:
+- it separately estimates density-dependent fecundity and survival;
+- the demographic model is multiplicative at the component level;
+- data and code are openly linked through Figshare.
 
-### N-DA-102 — Gauge-type non-identifiability of hidden component mechanisms
-
-**Current status:** SEARCH HYPOTHESIS.
-
-Proposed mathematical invariance:
-
-If aggregate dynamics depend on
-
-P(x)=product_i A_i(x),
-
-then admissible transformations satisfying
-
-product_i h_i(x)=1
-
-and
-
-A_i -> A_i h_i
-
-leave the demographic vector field invariant.
-
-Potential consequence:
-
-> abundance-only state trajectories identify the composite demographic effect but not the separate component mechanisms in a nonparametric class.
-
-Threats to search:
-- structural identifiability of factorized nonlinear systems;
-- demographic decomposition from abundance-only data;
-- life-cycle survival/fecundity identifiability;
-- gauge/symmetry identifiability methods;
-- nonparametric factorization;
-- hidden-mechanism ecological inverse problems.
-
-**Required final audit:** ROUND-0006.
-
----
-
-### N-DA-103 — Minimal observation theorem
-
-**Current status:** SEARCH HYPOTHESIS.
-
-Candidate result:
-
-> component-specific outputs can remove the factorization ambiguity, and the number/type of outputs required can be characterized.
-
-Threats:
-- observability of factorized nonlinear systems;
-- multitype demographic inverse problems;
-- survival/reproduction estimation theory;
-- input-output identifiability.
-
-**Required final audit:** ROUND-0006.
-
----
-
-### N-DA-104 — Network/fractional invariance of mechanism non-identifiability
-
-**Current status:** SECONDARY EXTENSION HYPOTHESIS.
-
-If network coupling is known and independent of the hidden factorization, nodewise transformations preserving each composite local mechanism leave the full vector field unchanged.
-
-Likewise, replacing the ordinary derivative by a fixed fractional operator does not break a right-hand-side invariance.
-
-This would be useful only as a theorem extension to N-DA-102; it is not the primary novelty claim.
-
----
-
-## Data novelty position
-
-### Island fox
-High-value multiple-component empirical system, but exact historical raw data are not verified openly reusable.
-
-### Crested Ibis
-High-value multiple-component alternative; raw data access unresolved.
-
-### Open benchmarks
-- herring: low-density model discrimination;
-- cod: threshold uncertainty;
-- freshwater mussel: component-effect observation design.
-
-The primary theorem program must not depend on obtaining a closed dataset.
-
----
-
-## Final novelty gate
-
-PRIMARY_DIRECTION.md may be populated only if ROUND-0006 fails to find prior theory that subsumes both:
-
-1. the mechanism-resolved composition theorem at comparable generality; and
-2. the component-factor identifiability / minimal-observation theorem in the same ecological setting.
-
-Until then use:
-
-> No result resolving the frozen mechanism-resolved composition-and-identifiability program was identified in the searched corpus as of 2026-09-28.
+This is the current first empirical benchmark for the selected mechanism-space theory.
