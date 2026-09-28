@@ -245,3 +245,28 @@ The surviving high-value residuals are:
 D8 is retained as one of the most naturally Allee-connected branches.
 
 The project now enters a comparative phase: ROUND-0016 audits the best surviving candidates side by side instead of opening another independent thematic branch.
+
+
+## ROUND-0016 portfolio reduction
+
+The preferred opportunity portfolio is reduced to three families:
+
+1. **Family A — deterministic reachable memory-state basin geometry**
+   [
+   e_0^{-1}(x)capmathcal R_alpha
+   ]
+   and possible multibasin fibers.
+
+2. **Family B — robust global threshold geometry**
+   common survival/extinction/persistence regions under simultaneous order, parameter and structured mechanism uncertainty.
+
+3. **Family C — stochastic memory-state persistence / rare exit**
+   basin-relative stochastic persistence, rare extinction, quasipotential/exit geometry, with persistent-memory switching absorbed as one forcing architecture.
+
+Changes:
+- nonhyperbolic-memory bifurcation is eliminated as a standalone preferred candidate and retained as supporting machinery/survey content;
+- Multiple/Double-Allee mechanism composition is merged into Family B;
+- persistent-memory switching is merged into Family C;
+- variable/distributed-order global dynamics remains a real domain frontier but leaves the preferred shortlist because its Double-Allee proximity is weaker and model-artifact risk is higher.
+
+ROUND-0017 is the final hostile prior-art audit on Families A/B/C before Chief recommendation.
