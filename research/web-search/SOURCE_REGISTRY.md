@@ -150,3 +150,26 @@ Verification labels:
 | S722 | Ahmad, Cygan & Karch (2025) | arXiv:2507.02094 | PREPRINT/FULL | D14 abstract linearization/Turing |
 | S723 | Brandibur & Kaslik, multi-term stability (2023) | DOI 10.3390/fractalfract7020117 | REVIEW/FULL | D2 multi-term architecture |
 
+## ROUND-0009 — Fractional uniform persistence / permanence
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S801 | Doan & Kloeden, Caputo semidynamical systems (2021) | DOI 10.1007/s10013-020-00464-6 | PRIMARY/FULL | constructs infinite-dimensional Volterra semiflow; strongest history-space subsumption threat |
+| S802 | Cui & Kloeden, skew-product attractors (2024) | DOI 10.1063/5.0214041 | PRIMARY/FULL+METADATA | nonautonomous Caputo skew-product and attractor under dissipativity |
+| S803 | Cui, Kloeden & Xin, Caputo dynamics (2026) | arXiv:2607.05799 | PREPRINT/FULL | compact absorbing set + attractor for Volterra semiflow |
+| S804 | Hale & Waltman, persistence in infinite-dimensional systems (1989) | DOI 10.1137/0520025 | PRIMARY/ABSTRACT | central abstract persistence killer theorem |
+| S805 | Thieme, nonautonomous persistence/permanence (2000) | DOI 10.1016/S0025-5564(00)00018-3 | PRIMARY/ABSTRACT | weak-to-strong and nonautonomous persistence; retarded FDE applications |
+| S806 | Magal & Zhao, global attractors for uniformly persistent systems (2005) | DOI 10.1137/S0036141003439173 | PRIMARY/ABSTRACT | interior attractor consequences on complete metric spaces |
+| S807 | Faria, infinite-delay FDE persistence (2016) | DOI 10.1007/s10884-015-9462-x | PRIMARY/PREPRINT+METADATA | broad hereditary persistence/permanence killer literature |
+| S808 | Cresson & Szafrańska, fractional persistence problem (2017) | DOI 10.1016/j.cnsns.2016.07.016 | PRIMARY/FULL | terminology warning: positivity/order/equilibrium/stability preservation |
+| S809 | Abbas et al., fractional phytoplankton (2016) | DOI 10.1007/s12591-014-0219-5 | PRIMARY/ABSTRACT | model-specific fractional permanence/persistence |
+| S810 | Lu et al., fractional SEIHRDP migration (2023) | DOI 10.1016/j.isatra.2022.12.006 | PRIMARY/FULL | model-specific uniform persistence theorem |
+| S811 | Garay & Hofbauer, robust permanence (2003) | DOI 10.1137/S0036141001392815 | PRIMARY/ABSTRACT | robust persistence benchmark |
+| S812 | Hofbauer & Schreiber, structured-population robust permanence (2010) | DOI 10.1016/j.jde.2009.11.010 | PRIMARY/FULL | invariant-measure/Lyapunov-exponent benchmark |
+| S813 | Patel & Schreiber, robust permanence with feedbacks (2018) | DOI 10.1007/s00285-017-1187-5 | PRIMARY/FULL | broad ecological feedback persistence framework |
+| S814 | Hofbauer & Schreiber, invasion graphs (2022) | DOI 10.1007/s00285-022-01815-2 | PRIMARY/FULL | invasion-rate/acyclicity benchmark |
+| S815 | Roth & Schreiber, Allee conditional persistence (2014) | DOI 10.1080/17513758.2014.962631 | PRIMARY/FULL | shows conditional persistence is established near Allee effects |
+| S816 | Butler, Freedman & Waltman, uniformly persistent systems (1986) | DOI 10.1090/S0002-9939-1986-0822433-4 | PRIMARY/ABSTRACT | foundational weak-to-uniform theorem |
+| S817 | Cong & Tuan, nonlocal fractional dynamical systems (2017) | DOI 10.1216/JIE-2017-29-4-585 | PREPRINT/FULL | naive finite-dimensional fractional dynamical-system obstruction |
+| S818 | Doan, Kloeden & Tuan, Caputo attractors monograph (2026) | DOI 10.1007/978-3-032-05511-8 | BOOK/METADATA | consolidates semiflow/skew-product/attractor architecture |
+
