@@ -335,3 +335,34 @@ Searches were deliberately spread beyond the existing Double-Allee vocabulary an
 
 **Dated report:** `research/web-search/2026-09-28_full-domain-architecture.md`.
 
+---
+
+## 2026-09-28 — ROUND-0009 — fractional uniform-persistence falsification
+
+**Question.** Does an abstract uniform-persistence/permanence theory already exist for positive Caputo/nonlocal systems, or is it subsumed by history-space/hereditary persistence theory?
+
+**Search families.**
+- fractional uniform persistence / permanence / boundary repeller / persistence attractor;
+- Caputo semiflow / history space / singular Volterra semigroup;
+- Caputo skew-product / dissipativity / compact absorbing set / attractor;
+- Hale–Waltman persistence in infinite-dimensional systems;
+- Thieme nonautonomous persistence/permanence;
+- infinite-delay functional differential equation persistence;
+- robust permanence / invariant measures / Lyapunov exponents / invasion rates;
+- conditional persistence + Allee effect;
+- persistence relative to a subset / persistence function / invariant boundary.
+
+**Decisive findings.**
+1. Doan–Kloeden 2021 provides a legitimate infinite-dimensional semiflow for autonomous Caputo FDEs via singular Volterra representation on C(R_+,R^d).
+2. Cui–Kloeden 2024 provides nonautonomous skew-product/attractor machinery; Cui–Kloeden–Xin 2026 adds a compact absorbing set and attractor.
+3. Hale–Waltman 1989 already supplies persistence theory for asymptotically smooth infinite-dimensional C0-semigroups. Thieme 2000 and Faria 2016 show nonautonomous/history/infinite-delay persistence theory is mature.
+4. No source was found carrying out the full general Caputo ecological transfer from memory-state positivity/boundary to physical uniform lower bounds.
+5. Direct fractional persistence/permanence results exist but are model-specific (Abbas et al. 2016; Lu et al. 2023).
+6. Robust permanence/invasion-rate theory is mature for ordinary ecological semiflows but no general fractional-memory analogue was identified.
+7. Strong Allee bistability makes unconditional uniform persistence structurally inappropriate; conditional/basin-relative persistence is the natural formulation. Conditional persistence itself already exists in Allee literature.
+
+**Round verdict.**
+D11 survives only in narrowed form: positive Caputo persistence on the Volterra memory state with explicit physical-state transfer, robust/invasion extensions, and basin-relative versions for strong-Allee systems.
+
+**Dated report:** research/web-search/2026-09-28_fractional-uniform-persistence-falsification.md.
+
