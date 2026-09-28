@@ -123,10 +123,11 @@ The seed does not exhaust:
 
 ## Dataset findings
 
-The strongest immediate empirical lesson is conceptual rather than a selected dataset:
-real systems can exhibit **multiple component Allee mechanisms**, but that does not validate a mathematical two-threshold demographic model.
+A major direct empirical source was identified: **Angulo et al. (2007), DOI 10.1111/j.1523-1739.2007.00721.x**. The paper analyzed island-fox demographic data from **1988–2000**, found simultaneous component Allee effects in survival and breeding-female proportion, linked adult survival to Golden Eagle predation, and reported a resulting demographic Allee effect with suboptimal growth below roughly **7 foxes/km²**.
 
-Promising dataset leads for a future dedicated audit include:
+This makes the island fox the strongest concrete dataset lead from the seed round. It still does **not** establish two positive demographic thresholds or fractional-memory identifiability.
+
+Other promising dataset leads for a future dedicated audit include:
 - plant systems combining pollination and inbreeding;
 - reintroduced Crested Ibis with simultaneous component demographic effects;
 - gray wolves;
@@ -163,7 +164,7 @@ Split the next evidence work into two rounds:
 
 ## RETURN TO CHIEF
 
-**What the evidence supports:** “Double/Multiple Allee” must be decomposed into mechanism count and threshold/equilibrium geometry; several naive fractional/spatial combinations are already published.
+**What the evidence supports:** “Double/Multiple Allee” must be decomposed into mechanism count and threshold/equilibrium geometry; several naive fractional/spatial combinations are already published; and the island fox provides direct empirical evidence of simultaneous component + demographic Allee effects.
 
 **What the evidence does not support:** It does not support simple fractionalization, incommensurate fractionalization, discrete fractionalization, or adding diffusion as a new research program.
 
