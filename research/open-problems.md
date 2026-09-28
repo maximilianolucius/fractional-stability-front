@@ -73,3 +73,24 @@ These mapping questions are priorities for ROUND-0008 and follow-up depth waves.
 This project identifies and verifies such gaps.
 
 It does not solve them.
+
+
+## OP-FS-03 — Rigorous fractional bifurcation semantics near thresholds
+
+**Evidence class:** C/D  
+**Status:** high-priority mapping hypothesis after ROUND-0008.
+
+**Question:** what rigorous theory describes nonhyperbolic equilibrium bifurcations, attractor changes and oscillatory transitions in Caputo/incommensurate systems without conflating spectral crossings with impossible finite-memory exact periodic orbits?
+
+**Double Allee proximity:** very high.
+
+**Next evidence needed:** dedicated theorem-level audit.
+
+## OP-FS-04 — Abstract / basin-relative persistence for nonlocal fractional systems
+
+**Evidence class:** C/D  
+**Status:** active falsification in ROUND-0009.
+
+**Question:** is there a general boundary-repeller/invasion/persistence framework for positive Caputo or equivalent history-state systems, and if so, does strong-Allee bistability require a basin-relative reformulation?
+
+**Terminology warning:** “fractional persistence problem” in Cresson–Szafrańska concerns preservation of dynamical properties under fractional embedding, not ecological uniform persistence.
