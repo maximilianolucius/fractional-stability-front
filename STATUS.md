@@ -27,6 +27,8 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0005 — Double Allee data/identifiability.
 - ROUND-0006 — mechanism-resolved novelty gate.
 - ROUND-0007 — mechanism-space geometry falsification.
+- ROUND-0008 — full-domain architecture audit.
+- ROUND-0009 — fractional uniform-persistence/permanence falsification.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -86,16 +88,17 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0009 — Fractional uniform-persistence/permanence falsification
+### ROUND-0010 — Fractional bifurcation semantics and architecture
 
 **Status:** OPEN
 
 Purpose:
 
-- determine whether a genuine abstract persistence/permanence gap exists for Caputo/nonlocal systems;
-- test whether history-space / hereditary / Volterra theory already subsumes it;
-- distinguish ecological uniform persistence from the unrelated “fractional persistence problem” terminology;
-- determine whether ordinary uniform persistence is even the right concept for strong/Double Allee bistability.
+- reconstruct rigorous invariant/center-manifold and reduction theory for continuous-time fractional systems;
+- separate equilibrium bifurcation from stability crossing, attractor bifurcation and periodic-orbit claims;
+- audit the meaning of “Hopf” under finite-lower-terminal Caputo memory;
+- determine what remains genuinely unresolved for nonhyperbolic, multidimensional and incommensurate systems;
+- test whether Double Allee exposes a real fractional bifurcation gap rather than an ODE-equilibrium calculation.
 
 ## Current candidate opportunity portfolio
 
@@ -103,7 +106,7 @@ Current high-information candidates include:
 
 - persistence-filtered mechanism composition in Multiple/Double Allee systems;
 - rigorous fractional bifurcation/nonhyperbolic threshold dynamics;
-- abstract or basin-relative persistence/permanence for fractional/nonlocal systems;
+- memory-state and basin-/threshold-relative persistence for positive Caputo/nonlocal systems;
 - robust nonlinear threshold/persistence under order/parameter uncertainty;
 - variable/distributed-order nonlinear threshold dynamics.
 
@@ -120,7 +123,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0009 when returned;
-5. follow with a dedicated D10 bifurcation/periodicity/attractor audit;
+4. assimilate ROUND-0010 when returned;
+5. compare D10 versus narrowed D11 before launching the next depth wave;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
