@@ -353,3 +353,28 @@ For each high-value result, the search was expanded by at least one of:
 | Q256 | 0016 | variable-order persistence extinction ecological global dynamics | C7 | no general persistence framework located |
 | Q257 | 0016 | stochastic persistence Volterra Hilbert lift boundary invariant measure | C3 | exact lift-to-persistence compatibility unresolved |
 | Q258 | 0016 | persistent memory switching Caputo Allee extinction survival | C4/C3 | no direct theorem; best handled as stochastic branch specialization |
+
+## ROUND-0017 query additions
+
+| ID | Round | Query / query family | Family | Outcome |
+|---|---|---|---|---|
+| Q259 | 0017 | stable-set fiber hereditary system same endpoint different omega-limit | A | no theorem found forcing equal present endpoint to equal asymptotic outcome |
+| Q260 | 0017 | bistable delay equation basin same current endpoint history | A | hereditary basin theory found; no endpoint-fiber uniqueness result |
+| Q261 | 0017 | Caputo cooperative competitive comparison current-state fiber basin | A | comparison theory narrows ordered/scalar/triangular classes but no general fiber purity theorem |
+| Q262 | 0017 | carrying simplex Caputo competitive fractional basin | A | classical competitive/carrying-simplex theory strong outside Caputo; no direct fiber killer located |
+| Q263 | 0017 | fractional Double Allee predator prey multistability basin incommensurate | A | Mondal et al. 2025 natural positive realizability class |
+| Q264 | 0017 | robust persistence semidynamical systems history state | B | Smith-Zhao 2001 direct abstract semiflow killer |
+| Q265 | 0017 | robust uniform persistence structured delay differential equations | B | Salceanu 2022 direct history/delay robust-persistence killer |
+| Q266 | 0017 | robust permanence fractional order perturbation continuous dependence alpha | B | finite-horizon continuous dependence on fractional index found; order perturbation not intrinsically discontinuous |
+| Q267 | 0017 | Caputo differential inclusion strong invariance every solution | B | fractional viability prior found; no direct all-selections strong-invariance/order-uncertainty theorem located |
+| Q268 | 0017 | maximal robust invariant set fractional differential inclusion Caputo | B | ordinary strong invariance/discriminating kernels mature; no exact Caputo multibasin counterpart located |
+| Q269 | 0017 | robust basin separator strong Allee fractional order uncertainty | B | no general exact/maximal separator theorem located |
+| Q270 | 0017 | Földes Stacy stochastic persistence infinite dimensions theorem hypotheses | C | exact Polish/Feller/invariant-boundary/Lyapunov/tightness framework checked |
+| Q271 | 0017 | Hamaguchi stochastic Volterra Feller invariant measure fractional kernel compatibility | C | several Földes-Stacy hypotheses structurally available via Markovian lift; transfer not plug-and-play |
+| Q272 | 0017 | stochastic delay quasipotential exit time history space | C | Lipshutz 2018 strong adjacent killer |
+| Q273 | 0017 | stochastic Volterra quasipotential exit time power-law kernel | C | path LDP prior exists; no direct singular-power-law full exit/quasipotential theorem located |
+| Q274 | 0017 | uniform LDP initial memory stochastic Volterra exit basin | C | no resolving direct theorem found for lifted fractional initial-memory family |
+| Q275 | 0017 | arXiv 2606.23558 regime-switching Volterra operators | C | Herrera-Marín follow-up further closes switching architecture |
+| Q276 | 0017 | stochastic Volterra positive cone multiplicative square-root noise | C | positivity-compatible noise classes available; ecological realism feasible |
+| Q277 | 0017 | strong Allee stochastic fractional basin-relative persistence memory lift | C | no general theorem package identified |
+| Q278 | 0017 | Double Allee fractional same present history basin | A/C bridge | no direct theorem resolving deterministic fiber or stochastic exit interaction |
