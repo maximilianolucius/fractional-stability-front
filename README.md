@@ -1,20 +1,19 @@
 # Fractional Stability Front
 
-**Mapping the mathematical frontier of fractional-order stability theory and turning that map into a research program.**
+**Theorem-level mapping of Dynamical Systems and Stability Theory — Fractional Differential Equations.**
 
-This repository is a research workspace for a combined:
+This repository is a research workspace for:
 
-- **systematic mapping study** of fractional-order stability theory;
-- **critical mathematical survey** of the strongest known results;
-- **theorem/frontier map** identifying exactness, generalization, robustness, and bridge gaps;
-- **open-problem catalogue and research agenda**;
-- focused exploration of a **Double Allee** research direction with strong applied-mathematics content and, where scientifically justified, real data.
-
-The project is not intended to be a bibliography dump. Its unit of analysis is the **mathematical result**.
+- systematic mapping of fractional differential dynamical systems and stability theory;
+- critical comparison of theorem strength and assumptions;
+- reconstruction of the mathematical frontier;
+- identification and adversarial falsification of fertile research gaps;
+- special exploration of opportunities directly involving, or very close to, **Double/Multiple Allee dynamics**;
+- possible preparation of a survey/state-of-the-art manuscript once the map is mature.
 
 ## Core objective
 
-The working logic is
+The project pipeline is:
 
 [
 	ext{literature}
@@ -27,123 +26,119 @@ The working logic is
 ightarrow
 	ext{open problems}
 ightarrow
-	ext{research program}.
+	ext{candidate gaps}
+ightarrow
+	ext{falsification}
+ightarrow
+	ext{opportunity portfolio}.
 ]
 
 The central question is:
 
-> **Which general mathematical results are still missing in fractional-order stability theory, and which missing results could explain, sharpen, unify, or subsume substantial parts of the existing literature?**
+> **Where does the current theory of fractional differential dynamical systems and stability actually stop, and which unresolved gaps are fertile enough to motivate future Q1-level mathematical research?**
 
-The initial scope is deliberately broader than fractional D-stability:
+The project does **not** solve the selected gap. That belongs to a separate future research project.
 
-> **Stability theory of fractional-order dynamical systems and networks**
+## Exact domain
 
-with particular interest in fractional dynamics, spectral stability, Matignon-type criteria, D-stability, diagonal stability, structured matrices, positive/Metzler systems, robustness, graph-structured dynamics, nonlinear stability, and ecological applications.
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
 
-## Double Allee branch
+Major branches include:
 
-A second mandatory branch asks whether the frontier map exposes a mathematically deep research line involving a **Double Allee effect**.
+- linear/spectral stability;
+- commensurate and incommensurate systems;
+- nonlinear stability and Lyapunov/Mittag-Leffler theory;
+- structured matrices, D-stability, diagonal stability, positive systems;
+- robust/uncertain systems;
+- delay, neutral, switched, impulsive and stochastic systems;
+- graph/network dynamics;
+- bifurcation, multistability, tipping, persistence/extinction;
+- ecological/population applications.
 
-The target is not “another ecological fractional model.” A viable direction should have:
+## Double Allee lens
 
-- defensible novelty;
-- theorem-level mathematical depth;
-- structural or unifying value;
-- potential for a strong applied-mathematics manuscript;
-- and preferably a real dataset that genuinely constrains or validates the model.
+The strongest final opportunity should preferably:
 
-See [CHIEF_INITIAL_PROMPT.md](CHIEF_INITIAL_PROMPT.md) and [research/double-allee/README.md](research/double-allee/README.md).
+1. directly involve a **Double Allee / Multiple Allee model**, or
+2. if necessary, lie **very close** to Double Allee dynamics in threshold structure, persistence/extinction, bifurcation, robustness, network coupling, or fractional memory.
 
-## Repository structure
+The connection must be mathematical, not cosmetic.
+
+## What this project does not do
+
+It does not:
+
+- prove the full new theorem program;
+- close the chosen gap;
+- write the eventual original-research paper solving it.
+
+Exploratory mathematics is used only to determine whether a candidate gap is substantive.
+
+## Main outputs
 
 | Path | Purpose |
 |---|---|
-| `CHIEF_INITIAL_PROMPT.md` | Initialization prompt for the Chief Researcher |
-| `STATUS.md` | Current phase, decisions, milestones, and next actions |
-| `docs/` | Research questions, protocol, search strategy, taxonomy, screening rules |
-| `corpus/` | Paper-level and theorem-level structured evidence |
-| `bibliography/` | Curated references and bibliographic provenance |
-| `research/` | Theorem map, bridge map, frontier map, open problems |
-| `research/double-allee/` | Dedicated Double Allee research branch |
-| `data/raw/` | Immutable search/database exports |
-| `data/processed/` | Normalized and deduplicated data |
-| `data/exports/` | Generated tables, graphs, and manuscript-ready outputs |
-| `scripts/` | Reproducible data-cleaning and analysis tooling |
-| `paper/` | Eventual survey manuscript workspace |
+| `docs/PROJECT_CHARTER.md` | Authoritative project mission |
+| `CHIEF_INITIAL_PROMPT.md` | Chief Researcher operating instructions |
+| `WEB_SEARCHER_INITIAL_PROMPT.md` | Web Searcher operating instructions |
+| `STATUS.md` | Current mapping phase and priorities |
+| `docs/` | Protocol, taxonomy, search strategy, workflow |
+| `corpus/` | Paper-level and theorem-level evidence |
+| `bibliography/` | Curated references |
+| `research/DOMAIN_MAP.md` | Architecture and coverage of the full domain |
+| `research/theorem-map.md` | Strongest theorem/result relationships |
+| `research/frontier-map.md` | Verified and candidate frontiers |
+| `research/open-problems.md` | Open-problem catalogue |
+| `research/OPPORTUNITY_PORTFOLIO.md` | Candidate fertile gaps |
+| `research/opportunity-matrix.csv` | Structured comparison of opportunities |
+| `research/double-allee/` | Double/Multiple Allee state-of-art and candidates |
+| `paper/` | Optional future survey manuscript workspace |
 
-## Evidence model
+## Unit of analysis
 
-For an important result, extract a structured record conceptually of the form
+The unit of analysis is the **mathematical result**, not the paper.
+
+For an important theorem/result record:
 
 [
 P_i=(S,O,M,N,A,T,R,L),
 ]
 
-where:
-
-- (S): system class;
-- (O): fractional operator/order structure;
-- (M): matrix, graph, or interaction structure;
-- (N): stability notion;
-- (A): assumptions;
-- (T): technique/proof method;
-- (R): result;
-- (L): limitations and unresolved extensions.
-
-A single paper may contain several important theorem records.
+with system class, operator/order structure, structural assumptions, stability/dynamical notion, proof technique, theorem strength, and limitations.
 
 ## Frontier categories
 
 The project distinguishes:
 
-- **existence gaps** — a meaningful problem appears unstudied;
-- **generalization gaps** — known only under restrictive dimensions, topology, operator, or matrix class;
-- **exactness gaps** — sufficient conditions exist without a necessary-and-sufficient characterization;
-- **structural-unification gaps** — many special cases may follow from one missing theorem;
-- **bridge gaps** — mature mathematical literatures appear connected but weakly integrated;
-- **robustness gaps** — deterministic results lack uncertainty, perturbation, switching, time variation, or stochastic extensions.
-
-The strongest opportunity is not necessarily the least-studied topic. It is often the problem whose solution would convert many existing results into corollaries.
-
-## Workflow
-
-1. Freeze scope and research questions.
-2. Register search families, databases, dates, and exact queries.
-3. Build and deduplicate a candidate corpus.
-4. Screen with explicit inclusion/exclusion rules.
-5. Extract theorem-level mathematical metadata.
-6. Build the taxonomy and theorem implication map.
-7. Audit assumptions, sharpness, contradictions, and non-comparable results.
-8. Build the frontier and open-problem catalogue.
-9. Develop a research agenda based on mathematical depth and generality.
-10. Run the Double Allee branch through the same novelty and rigor standards.
-11. Draft the survey only after the knowledge map is sufficiently stable.
+- existence gaps;
+- generalization gaps;
+- exactness/converse gaps;
+- structural-unification gaps;
+- bridge gaps;
+- robustness gaps;
+- complexity/computability gaps;
+- data-theory/identifiability gaps.
 
 ## Current status
 
-Repository infrastructure is initialized. The next research phase is to freeze the review protocol and build seed corpora for:
+The repository is in a **domain-mapping expansion phase**.
 
-1. foundational fractional-stability theory;
-2. adjacent structured-matrix/network theory;
-3. Allee and Double Allee mathematics.
+Early rounds explored several candidate gaps near Double Allee. One mechanism-space candidate survived direct falsification only in narrowed form, but it is **not a selected primary direction**. It now competes with opportunities emerging from the broader FDE stability map.
 
 See [STATUS.md](STATUS.md).
 
-## Working survey title
+## Possible survey output
 
-**Mapping the Frontier of Fractional-Order Stability Theory**
+A mature map may support a survey such as:
 
+**Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier**
 
 ## Agent coordination
 
-Chief Researcher ↔ Web Searcher communication is **repository-native and Markdown-only**.
-
-All official inter-agent requests, research returns, and Chief decisions are stored under:
+Chief Researcher ↔ Web Searcher communication is repository-native and Markdown-only:
 
 - `research/coordination/chief-to-web/`
 - `research/coordination/web-to-chief/`
 - `research/coordination/chief-decisions/`
 
-Each exchange uses a shared `ROUND-NNNN` identifier. See [research/coordination/README.md](research/coordination/README.md).
-
-This makes every research instruction, search result, novelty challenge, and scientific disposition auditable from Git history.
+Git history is part of the provenance chain.
