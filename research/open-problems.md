@@ -152,3 +152,20 @@ It does not solve them.
 **Question:** for genuine time-fractional stochastic or randomly switched systems, what general theory exists for positivity, persistence/extinction, random attractors, rare basin exits and switching with persistent versus reset memory?
 
 **Double Allee relevance:** high if the theory genuinely couples memory with bistable extinction/survival structure.
+
+
+## Comparative audit gate
+
+**Status:** active in ROUND-0016.
+
+All current open-problem candidates are now subject to a common adversarial standard:
+- novelty survivability;
+- theorem depth;
+- essential fractional structure;
+- Double-Allee proximity;
+- killer risk;
+- model-artifact risk;
+- scope richness;
+- empirical route.
+
+No additional branch should be promoted solely because terminology searches return few direct hits.
