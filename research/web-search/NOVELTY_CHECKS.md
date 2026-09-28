@@ -340,3 +340,65 @@ The strongest next mathematical target is not another convexity/antichain lemma.
 - transitions between discrete coalitions and continuous extinction-boundary faces;
 - algorithmic consequences of the entire (g_i(x)) profiles.
 
+---
+
+## ROUND-0009 — Fractional uniform persistence / permanence
+
+### NC-901 — Abstract general Caputo persistence theorem
+
+**Classification:** **NO RESOLVING ABSTRACT RESULT FOUND; MODEL-SPECIFIC PRIOR ART EXISTS**
+
+Fractional ecological/epidemic papers prove persistence/permanence model by model, but no general Caputo theorem comparable to Hale–Waltman/Thieme was identified.
+
+### NC-902 — Caputo lacks a semiflow and therefore needs wholly new persistence theory
+
+**Classification:** **FALSE**
+
+Doan–Kloeden 2021 constructs a legitimate infinite-dimensional semigroup for the singular Volterra representation on C(R_+,R^d). Modern 2024–2026 work adds skew-products, dissipativity, compact absorbing sets and attractors.
+
+### NC-903 — Existing history-space persistence theory automatically solves Caputo persistence
+
+**Classification:** **PARTIAL / UNRESOLVED**
+
+Hale–Waltman and hereditary persistence theory provide the abstract machinery, but no general source was found constructing the ecological positive history state, invariant extinction boundary and physical-state transfer for Caputo systems.
+
+The constant-function manifold encoding physical initial data is generally not invariant in the full Volterra semiflow.
+
+### NC-904 — Asymptotic compactness / attractor theory is missing for Caputo
+
+**Classification:** **LIKELY COVERED UNDER MODERN DISSIPATIVITY HYPOTHESES**
+
+Cui–Kloeden 2024 and Cui–Kloeden–Xin 2026 provide substantial attractor/compactness machinery.
+
+### NC-905 — Robust persistence/invasion criteria for general fractional ecology
+
+**Classification:** **NO RESOLVING RESULT FOUND IN SEARCHED CORPUS**
+
+Ordinary robust permanence and invasion-rate theory is mature; no general Caputo memory-state analogue was found for perturbations of vector field/order/kernel or invariant-measure invasion criteria.
+
+### NC-906 — Global uniform persistence is the natural Double-Allee bridge
+
+**Classification:** **STRUCTURALLY MISMATCHED**
+
+Strong Allee dynamics intentionally has positive initial states in the extinction basin. Global persistence of every positive initial condition contradicts that structure.
+
+The appropriate bridge is basin-/threshold-relative persistence.
+
+### NC-907 — Basin-relative/conditional persistence itself is novel
+
+**Classification:** **DIRECT PRIOR CONCEPT FOUND**
+
+Roth–Schreiber 2014 studies conditional persistence in stochastic Allee models, and abstract persistence theory already permits persistence relative to chosen subsets/persistence functions.
+
+The potential novelty is specifically the Caputo memory-state construction and physical-transfer theorem.
+
+### NC-908 — D11 narrowed opportunity
+
+**Classification:** **CREDIBLE SEARCH-QUALIFIED CANDIDATE**
+
+Best current formulation:
+
+Persistence theory for positive Caputo systems on the Volterra memory state, including explicit transfer to physical populations, robust/invasion criteria, and basin-relative variants for strong/Double-Allee dynamics.
+
+Main killer risk: once the correct invariant positive memory space is chosen, classical infinite-dimensional persistence theorems may apply with only routine verification.
+
