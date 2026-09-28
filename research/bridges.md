@@ -1,3 +1,5 @@
+> **Scope notice (2026-09-28):** this is a seed map, not a complete state-of-the-art of the full domain. It must be expanded under `research/DOMAIN_MAP.md` before opportunity selection.
+
 # Bridge Map
 
 Track potentially under-integrated mathematical literatures.
