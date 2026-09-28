@@ -87,13 +87,16 @@ Backward/forward and same-author follow-up searches were used around Matignon, S
 4. Direct fractional Double Allee prior art exists from at least 2021 (Caputo), with later local/global analyses, incommensurate-order work, and a 2026 discrete fractional model.
 5. Direct spatial reaction–diffusion Double Allee prior art exists.
 6. Strong Allee metapopulation/network theory already contains analytical topology-dependent persistence/extinction results even when it does not use “Double Allee”.
-7. Real ecological systems with multiple component Allee mechanisms exist, but the searched seed corpus did not identify a real-data-calibrated fractional Double-Allee model that establishes two-threshold/fractional-memory identifiability.
+7. Direct empirical Double-Allee evidence exists: Angulo et al. (2007) analyzed island-fox demographic data from 1988–2000 and found simultaneous component effects on survival and breeding-female proportion leading to a demographic effect; they reported suboptimal growth below roughly 7 foxes/km^2. This is a strong real-data lead, but it does not estimate fractional memory or establish two demographic thresholds.
+8. Despite that empirical result, the searched seed corpus did not identify a real-data-calibrated fractional Double-Allee model that jointly establishes multi-threshold/fractional-memory identifiability.
 
 **Negative/falsification searches.**
 - The candidate claim “Double Allee + fractional memory is new” is falsified.
 - The candidate claim “Double Allee + spatial diffusion is new” is falsified.
 - No general graph-theoretic theorem for Double-Allee topology-dependent thresholds was identified in the seed corpus, but adjacent single-Allee metapopulation/network results are strong novelty threats.
 - No theorem-level general identifiability result jointly separating multiple Allee thresholds and fractional memory was identified in the seed corpus; a dedicated inverse-problem/data round is required before treating this as a gap.
+
+**Island fox empirical follow-up.** Exact-title and author searches verified Angulo et al., Conservation Biology 21(4):1082–1091, DOI 10.1111/j.1523-1739.2007.00721.x, including the 1988–2000 observation window and component/demographic findings.
 
 **Round-specific note:** `research/web-search/2026-09-28_double-allee-terminology-seed.md`
 
