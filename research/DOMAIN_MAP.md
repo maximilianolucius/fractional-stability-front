@@ -181,3 +181,23 @@ This candidate is retained but paused to avoid project overfitting.
 The active map now returns to D6:
 
 > **nonlinear robust stability / persistence / extinction / threshold geometry under parameter and fractional-order uncertainty.**
+
+
+## ROUND-0013 Chief correction
+
+D6 robust/uncertain dynamics is more mature than the seed map suggested.
+
+Direct or substantial prior exists for:
+- simultaneous parameter/order robust linear stability;
+- incommensurate robust linear stability;
+- nonlinear class-specific robust equilibrium stability;
+- fractional viability / memo-viability;
+- classical robust permanence and robust ROA.
+
+The surviving search-qualified frontier is:
+
+> **uncertainty-uniform global survival/extinction geometry and basin-relative persistence for positive nonlinear Caputo systems under simultaneous parameter and fractional-order uncertainty.**
+
+This is retained as a candidate but paused for comparison.
+
+The active branch is now D14: variable/distributed-order dynamics.
