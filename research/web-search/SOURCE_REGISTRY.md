@@ -196,3 +196,20 @@ Verification labels:
 | S917 | Liu, Li & Huang, incommensurate ecology (2025) | DOI 10.1016/j.matcom.2025.04.015 | PRIMARY/ABSTRACT | model-specific commensurate/incommensurate bifurcation activity |
 | S918 | Pippal & Sati, fractional Allee predator-prey (2026) | DOI 10.30538/oms2026.0339 | PRIMARY/OPEN FULL PAGE | explicit Matignon-sector-vs-Hopf semantic benchmark |
 
+## ROUND-0011 — Double-Allee basin-memory geometry
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S1001 | Contreras Julio & Aguirre, Double-Allee basins (2018) | DOI 10.1002/mma.4774 | PRIMARY/FULL ABSTRACT | integer-order benchmark: threshold as stable manifold, limit cycle or homoclinic orbit |
+| S1002 | Diethelm & Ford, neighboring fractional solutions (2012) | DOI 10.1216/JIE-2012-24-1-25 | PRIMARY/METADATA+FOLLOWUP | scalar separation/nonintersection lineage |
+| S1003 | Cong & Tuan, nonlocal fractional dynamical systems (2017) | DOI 10.1216/JIE-2017-29-4-585 | PRIMARY/FULL PREPRINT | decisive 1D nonintersection; higher-dimensional trajectories may meet |
+| S1004 | Wu, scalar Caputo comparison (2020) | DOI 10.1142/S0218348X2050070X | PRIMARY/ABSTRACT | general scalar comparison under weak conditions |
+| S1005 | Cheng & Wu, complete system comparison (2026) | DOI 10.1016/j.jmaa.2026.130509 | PRIMARY/ABSTRACT | modern general system comparison framework |
+| S1006 | Doan & Kloeden, Caputo semidynamical systems (2021) | DOI 10.1007/s10013-020-00464-6 | PRIMARY/FULL PREPRINT | memory-state semiflow and canonical physical-data embedding |
+| S1007 | Leng, Lin & Kurths, basin stability in delayed dynamics (2016) | DOI 10.1038/srep21449 | PRIMARY/FULL | infinite-dimensional basin-volume/sampling analogue |
+| S1008 | Mondal et al., Double-Allee fractional basin stability (2025) | DOI 10.1016/j.cjph.2025.09.020 | PRIMARY/FULL EXCERPT | direct physical-initial-state basin numerics; incommensurate case |
+| S1009 | Pippal & Sati, fractional Allee/anti-predator (2026) | DOI 10.30538/oms2026.0339 | PRIMARY/FULL PAGE | basin-restricted Mittag-Leffler certificate; careful transient/Hopf semantics |
+| S1010 | Wang & Han, fractional predator-prey refuge/Allee (2025) | DOI 10.1007/s12346-024-01212-8 | PRIMARY/FULL PAGE | substantial direct Allee stability prior, no exact basin boundary found |
+| S1011 | Saha et al., commensurate/incommensurate Allee basin study (2026) | DOI 10.1007/s13540-026-00515-8 | PRIMARY/FULL EXCERPT+METADATA | direct multi-order physical-state basin plots |
+| S1012 | Arancibia-Ibarra, integer-order Allee basins (2019) | DOI 10.1016/j.na.2019.03.004 | PRIMARY/ABSTRACT | proves separatrices and homoclinic/limit-cycle basin structure |
+
