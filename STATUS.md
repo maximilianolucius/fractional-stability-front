@@ -31,6 +31,7 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0009 — fractional uniform-persistence/permanence falsification.
 - ROUND-0010 — fractional bifurcation semantics and architecture.
 - ROUND-0011 — Double-Allee basin-memory geometry.
+- ROUND-0012 — reachable memory-state subsumption audit.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -90,17 +91,17 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0012 — Reachable memory-state subsumption audit
+### ROUND-0013 — Robust nonlinear thresholds under parameter/order uncertainty
 
 **Status:** OPEN
 
 Purpose:
 
-- determine whether the surviving basin-memory candidate is physically reachable from standard Caputo IVPs;
-- test whether same-present/different-memory states occur inside the reachable set;
-- search for opposite-basin outcomes at identical current physical state;
-- test direct subsumption by hereditary/Volterra invariant-manifold and persistence theory;
-- evaluate Markovian/diffusive lift representations as a possible killer.
+- establish the mature linear/order-uncertainty baseline;
+- separate nonlinear open-loop robustness from robust-control literature;
+- search for uniform-in-order nonlinear stability/persistence/extinction results;
+- test robust threshold/basin/invariant-region theory near Double Allee;
+- test subsumption by classical robust permanence, viability and differential-inclusion theory.
 
 ## Current candidate opportunity portfolio
 
@@ -125,7 +126,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0012 when returned;
-5. classify the basin-memory candidate as killed, application-level, genuine fractional gap, or ambiguous;
+4. assimilate ROUND-0013 when returned;
+5. compare the uncertainty frontier against the retained basin-memory and bifurcation candidates;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
