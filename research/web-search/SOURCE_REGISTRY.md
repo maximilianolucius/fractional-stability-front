@@ -213,3 +213,19 @@ Verification labels:
 | S1011 | Saha et al., commensurate/incommensurate Allee basin study (2026) | DOI 10.1007/s13540-026-00515-8 | PRIMARY/FULL EXCERPT+METADATA | direct multi-order physical-state basin plots |
 | S1012 | Arancibia-Ibarra, integer-order Allee basins (2019) | DOI 10.1016/j.na.2019.03.004 | PRIMARY/ABSTRACT | proves separatrices and homoclinic/limit-cycle basin structure |
 
+## ROUND-0012 — Reachable memory-state subsumption
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S1101 | Doan & Kloeden, Caputo semidynamical systems (2021) | DOI 10.1007/s10013-020-00464-6 | PRIMARY/FULL PREPRINT | exact state space, physical constant embedding, transition operator and semigroup |
+| S1102 | Cong & Tuan, nonlocal fractional dynamical systems (2017) | DOI 10.1216/JIE-2017-29-4-585 | PRIMARY/FULL PREPRINT | decisive theorem: d>=2 standard Caputo trajectories can intersect |
+| S1103 | Khalighi et al., memory reshapes stability landscapes (2026) | arXiv:2602.20365 | PREPRINT/FULL | closest bistable memory prior; same-observed-state history language, rollback, delayed tipping, hysteresis |
+| S1104 | Cui, Kloeden & Xin, Caputo dynamics (2026) | arXiv:2607.05799 | PREPRINT/FULL | compact absorbing set, attractor and global Hölder regularity on Volterra semiflow |
+| S1105 | Miller & Sell, Volterra Integral Equations and Topological Dynamics (1970) | Memoirs AMS 102 | PRIMARY/BIBLIOGRAPHIC | foundational hereditary/topological-dynamics state-space antecedent |
+| S1106 | Miller & Feldstein, weakly singular Volterra kernels (1971) | DOI 10.1137/0502022 | PRIMARY/ABSTRACT+METADATA | weak singularity including t^-p treated explicitly; not a basin theorem |
+| S1107 | Gomoyunov, Caputo DPP/HJB (2020) | DOI 10.1137/19M1279368 | PRIMARY/PREPRINT+METADATA | Caputo value functional lives on history-of-motion space |
+| S1108 | Trigeassou & Maamri, Infinite State Representation survey Part 1 (2024) | DOI 10.1016/j.ifacol.2024.08.201 | PRIMARY/ABSTRACT+METADATA | infinite-dimensional ODE realization / initialization / stability |
+| S1109 | Fabrizio & Morro, equivalent histories/minimal state (2005) | DOI 10.1002/mma.581 | PRIMARY/ABSTRACT+METADATA | full history can be quotient-reduced to minimal state |
+| S1110 | Conti, Marchini & Pata, minimal-state viscoelastic attractor (2010) | DOI 10.3934/dcds.2010.27.1535 | PRIMARY/ABSTRACT+METADATA | mature attractor theory on minimal memory state |
+| S1111 | Cheng & Wu, complete Caputo system comparison (2026) | DOI 10.1016/j.jmaa.2026.130509 | PRIMARY/ABSTRACT | monotonicity/comparison killer for structured subclasses |
+| S1112 | Doan & Kloeden, triangular Caputo attractors (2022) | DOI 10.1007/s13540-022-00030-6 | PRIMARY/PREPRINT+METADATA | triangular systems inherit strong nonintersection/ODE-like attractor structure |
