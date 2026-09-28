@@ -478,3 +478,67 @@ Search-qualified surviving subfamilies:
 3. rigorous periodic/Floquet bifurcation under a periodic-compatible infinite-past operator;
 4. Double-Allee memory-state basin/attractor threshold bifurcation.
 
+---
+
+## ROUND-0011 — Double-Allee basin-memory geometry
+
+### NC-1101 — Scalar Caputo memory shifts the strong-Allee equilibrium threshold
+
+**Classification:** **FALSE / DIRECT PRIOR RIGIDITY**
+
+One-dimensional Caputo solution trajectories are nonintersecting under the standard separation hypotheses. Since the unstable equilibrium (x=a) is itself a solution, trajectories initialized below/above it cannot cross it.
+
+The scalar equilibrium threshold is therefore an order-independent barrier for the canonical autonomous (0<alpha<1) problem.
+
+### NC-1102 — Multidimensional physical-state basin is the full Caputo basin
+
+**Classification:** **FALSE / REQUIRES STATE-SPACE QUALIFICATION**
+
+The autonomous Caputo IVP generates a semidynamical system after enlargement to a function/memory state. Basin plots over (x(0)) describe the basin restricted to the canonical physical-data embedding, not the whole invariant memory-state basin.
+
+### NC-1103 — Fractional Double-Allee basin geometry is unexplored
+
+**Classification:** **FALSE IN BROAD/NUMERICAL FORM**
+
+Mondal et al. 2025 directly computes basin stability and physical-state basins for a Double-Allee fractional model, including incommensurate orders. Saha et al. 2026 supplies further commensurate/incommensurate Allee basin plots.
+
+### NC-1104 — Existing fractional Allee papers already rigorously characterize the full memory-state separatrix
+
+**Classification:** **NO RESOLVING RESULT FOUND**
+
+Direct papers provide local/global stability certificates and numerical basin classifications. No searched source gives a rigorous global extinction/survival basin boundary in the canonical Caputo memory-state semiflow.
+
+### NC-1105 — Pippal–Sati basin-restricted Mittag-Leffler result is an exact basin theorem
+
+**Classification:** **FALSE / SUFFICIENT SUBSET CERTIFICATE**
+
+The source constructs a Lyapunov/Mittag-Leffler certificate on positively invariant subsets separated from the axes. It does not identify the exact basin boundary.
+
+### NC-1106 — Classical hereditary/Volterra theory automatically subsumes the Caputo memory-state basin problem
+
+**Classification:** **CLOSE PRIOR ART / UNRESOLVED DIRECT SUBSUMPTION**
+
+Strong hereditary/Volterra invariant-manifold theory exists, but the canonical weakly singular, algebraically decaying Caputo kernel and the ecological positive/extinction boundary were not found to be covered by a ready-made global basin theorem.
+
+### NC-1107 — General (alpha)-dependent multidimensional basin-boundary theory is mature
+
+**Classification:** **NO RESOLVING GENERAL RESULT FOUND**
+
+Direct model-specific numerical evidence exists. Local stability dependence on (alpha) is rigorous. A general theorem for movement/regularity of the survival/extinction separatrix with (alpha) was not identified.
+
+### NC-1108 — Incommensurate Double-Allee basin theory is mature
+
+**Classification:** **DIRECT MODEL-SPECIFIC NUMERICAL PRIOR; NO GENERAL THEORY FOUND**
+
+Multiple 2025–2026 ecological papers display multi-order dynamics/basin plots, but no general memory-state stable-manifold/basin theorem was found.
+
+### NC-1109 — D10-D/D11 intersection
+
+**Classification:** **RETAIN NARROWLY**
+
+Search-qualified residual:
+
+> multidimensional survival/extinction basin geometry in the Caputo memory-state semiflow, its intersection with the physical-initial-data embedding, and basin-relative persistence; especially for genuinely incommensurate strong/Double-Allee systems.
+
+The strongest intrinsically fractional question is whether distinct memory states with the same current physical populations can belong to opposite survival/extinction basins.
+
