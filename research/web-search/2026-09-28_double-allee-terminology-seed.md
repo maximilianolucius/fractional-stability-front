@@ -119,6 +119,20 @@ No future novelty claim should be searched only with “Allee”.
 
 ## 8. Empirical evidence and datasets
 
+### Island fox: direct empirical Double-Allee evidence
+
+Angulo, Roemer, Berec, Gascoigne & Courchamp (2007), *Double Allee Effects and Extinction in the Island Fox*, Conservation Biology 21(4):1082–1091, DOI 10.1111/j.1523-1739.2007.00721.x, is a particularly important empirical source.
+
+The study analyzed demographic data collected from **1988 to 2000** across California Channel Island fox populations. It tested density dependence in survival, reproduction, interaction with Golden Eagle presence, and per-capita population trends. The authors reported:
+- simultaneous component Allee effects in survival (adults/pups) and the proportion of breeding adult females;
+- an adult-survival effect driven by Golden Eagle predation;
+- a resulting demographic Allee effect;
+- suboptimal population growth below roughly **7 foxes/km²**.
+
+This is a serious real-data lead because it directly connects multiple low-density mechanisms to demographic observations. It is **not**, however, evidence for two positive demographic thresholds, nor does it identify a fractional memory order.
+
+### Broader empirical leads
+
 Berec et al. (2007) synthesizes real systems where several component Allee mechanisms may act simultaneously. Examples discussed in that literature include plant pollination/inbreeding and animal mate-limitation/cooperative-defense mechanisms.
 
 Additional search leads include:
