@@ -905,3 +905,91 @@ C5 becomes supporting bifurcation machinery; C7 remains an independent survey fr
 **Classification:** **NO FINAL WINNER SELECTED**
 
 ROUND-0016 reduces the portfolio but does not rank or select the final research direction. Additional targeted evidence is still required for each of the three surviving families.
+
+## ROUND-0017 — Shortlist final killer audit
+
+### NC-1701 — Family A final verdict
+
+**Classification:** **A-SURVIVES-GENUINE**
+
+Scalar/triangular and some ordered Caputo subclasses are restricted by separation/comparison principles, but no hereditary or monotone theorem was found forcing every physically reachable current-state fiber to be basin-pure in a general positive multidimensional nontriangular system.
+
+A natural Double-Allee predator-prey class with stable extinction and alternative asymptotic states exists, so the residual is not merely pathological.
+
+**Exact residual:** existence/nonexistence and geometry of multibasin fibers of \(e_0|_{\mathcal R_\alpha}\), with structural sign/order conditions and alpha dependence.
+
+### NC-1702 — Family B broad robust-persistence formulation
+
+**Classification:** **KILLED AS BROAD NOVELTY CLAIM**
+
+Robust persistence is already formulated for semidynamical systems and structured delay equations. History-state enlargement is not enough. Continuous dependence on the fractional index further weakens any claim that alpha perturbations are automatically outside classical robustness theory.
+
+### NC-1703 — Family B final verdict
+
+**Classification:** **B-REFORMULATE**
+
+The surviving object is not robust permanence itself but **robust multibasin threshold geometry**:
+- persistence/loss of extinction-survival bistability;
+- common or maximal survival/extinction subsets;
+- sharp separator enclosures;
+- basin-relative persistence;
+- perturbations of parameters and the fractional memory kernel/order.
+
+Generic common Lyapunov certificates are insufficiently distinctive.
+
+### NC-1704 — Family C abstract stochastic persistence formulation
+
+**Classification:** **KILLED AS PRIMARY NOVELTY CLAIM**
+
+Földes–Stacy 2026 already provides stochastic persistence in infinite dimensions under Feller, invariant-boundary, Lyapunov, martingale and tightness hypotheses. Hamaguchi/Bianchi stochastic-Volterra lifts supply several compatible structural ingredients.
+
+Transfer to fractional ecology is technically nontrivial but abstractly standard enough that a wholly new persistence foundation is not defensible.
+
+### NC-1705 — Family C history-space exit novelty
+
+**Classification:** **PARTLY KILLED**
+
+Lipshutz 2018 already derives a uniform history-space LDP, quasipotential and exit-time asymptotics for stochastic delay equations. General hereditary-state exit theory is therefore established.
+
+Direct power-law stochastic-Volterra LDPs also exist.
+
+### NC-1706 — Family C final verdict
+
+**Classification:** **C-REFORMULATE**
+
+The surviving high-value object is **rare extinction / basin exit for singular fractional-memory systems**:
+- uniform LDP over lifted initial-memory sets;
+- quasipotential/action geometry;
+- exit-time asymptotics;
+- most likely extinction paths;
+- dependence on alpha/kernel;
+- positive strong-/Double-Allee extinction-survival basins.
+
+Persistence and switching become supporting/application layers.
+
+### NC-1707 — Switching after final audit
+
+**Classification:** **APPLICATION LAYER, NOT CORE NOVELTY**
+
+Herrera-Marín arXiv:2605.00729 and arXiv:2606.23558 provide direct persistent long-memory Markov-switching Volterra frameworks. Ecological extinction/survival specialization may remain new, but switching architecture itself is no longer a defensible core gap.
+
+### NC-1708 — Ecological realizability
+
+**Classification:** **PASSED FOR A; FEASIBLE FOR B/C**
+
+Family A has direct fractional Double-Allee multistable realizability (Mondal et al. 2025).
+
+Family B can use the same positive multibasin class under parameter/order uncertainty.
+
+Family C has viable positive-noise stochastic-Volterra invariance machinery, avoiding additive-noise artifacts.
+
+### NC-1709 — Final shortlist evidence closure
+
+**Classification:** **NO FINAL WINNER SELECTED**
+
+After final killer tests:
+- A survives genuine;
+- B survives only after reformulation;
+- C survives only after reformulation.
+
+The Chief now has sufficient evidence for a subsequent final research-opportunity recommendation.
