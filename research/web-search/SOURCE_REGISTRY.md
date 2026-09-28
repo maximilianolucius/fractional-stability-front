@@ -1,0 +1,54 @@
+# Source Registry
+
+**Date:** 2026-09-28  
+**Purpose:** Trace the high-value sources used in ROUND-0001 and ROUND-0002.
+
+Verification labels:
+- **PRIMARY/FULL** — original paper or legal full-text/author manuscript inspected sufficiently for the reported result.
+- **PRIMARY/ABSTRACT+METADATA** — publisher/abstract metadata verified; theorem detail should be treated cautiously.
+- **REVIEW/FULL** — review/full text inspected and used mainly for reconciliation.
+- **PREPRINT/FULL** — author/arXiv manuscript inspected.
+
+## Fractional-stability core
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S001 | Matignon, *Stability properties for generalized fractional differential systems* (1998) | DOI: 10.1051/proc:1998004 | PRIMARY/FULL | canonical commensurate spectral-sector theorem |
+| S002 | Brandibur, Garrappa, Kaslik, *Stability of Systems of Fractional-Order Differential Equations with Caputo Derivatives* (2021) | DOI: 10.3390/math9080914 | REVIEW/FULL | precise Caputo restatement; boundary/index clarification; multi-order review |
+| S003 | Sabatier, Farges, Trigeassou, *A stability test for non-commensurate fractional order systems* (2013) | DOI: 10.1016/j.sysconle.2013.04.008 | PRIMARY/ABSTRACT+METADATA | N&S BIBO test for non-commensurate systems |
+| S004 | Li, Chen, Podlubny, *Mittag-Leffler stability of fractional order nonlinear dynamic systems* (2009) | DOI: 10.1016/j.automatica.2009.04.003 | PRIMARY/ABSTRACT+METADATA | separates Mittag-Leffler stability/Lyapunov framework |
+| S005 | Sabatier, Moze, Farges, *LMI stability conditions for fractional order systems* (2010) | DOI: 10.1016/j.camwa.2009.08.003 | PRIMARY/ABSTRACT+METADATA | influential LMI stability formulations |
+| S006 | Kushel, Pavani, *The Problem of Generalized D-Stability in Unbounded LMI Regions and Its Computational Aspects* (2022) | DOI: 10.1007/s10884-020-09891-y | PRIMARY/FULL | direct multiplicative positive-diagonal D-stability in LMI regions/conic sectors |
+| S007 | Kushel, Pavani, *Generalization of the concept of diagonal dominance with applications to matrix D-stability* (2021) | DOI: 10.1016/j.laa.2021.08.004 | PRIMARY/FULL | LMI-region diagonal dominance; conic/fractional application |
+| S008 | Zhang, Huang, *Extension of diagonal stability and stabilization for continuous-time fractional positive linear systems* (2017) | DOI: 10.1016/j.laa.2017.06.018 | PRIMARY/ABSTRACT+METADATA | exact result for a fractional positive-system diagonal-stability notion |
+| S009 | Ahn, Chen, *Necessary and sufficient stability condition of fractional-order interval linear systems* (2008) | DOI: 10.1016/j.automatica.2008.07.003 | PRIMARY/ABSTRACT+METADATA | important robust interval claim |
+| S010 | Ahn et al., *Further clarifications on stability of fractional-order interval systems* (2014) | arXiv:1407.3523 | PREPRINT/FULL | clarifies exactness as quadratic stability |
+| S011 | Zheng, *Robust stability of fractional order system with general interval uncertainties* (2017) | DOI: 10.1016/j.sysconle.2016.11.001 | PRIMARY/ABSTRACT+METADATA | N&S graphical criterion for interval coefficients/orders |
+| S012 | Lu, Chen, *Robust Stability and Stabilization of Fractional-Order Interval Systems: An LMI Approach* (2009) | DOI: 10.1109/TAC.2009.2013056 | PRIMARY/ABSTRACT+METADATA | robust interval LMI prior art |
+| S013 | X. Zhang, Y. Di, *Alternative LMI formulations for stability of LTI fractional-order systems* (2026) | DOI: 10.1016/j.isatra.2026.03.026 | PRIMARY/ABSTRACT+METADATA | current exact/equivalent LMI formulations |
+| S014 | J.-X. Zhang et al., *Stability criteria with general LMI formulation for LTI fractional order systems* (2026) | DOI: 10.1016/j.amc.2026.130036 | PRIMARY/FULL | unified exact LMI formulation across fractional-order ranges |
+| S015 | Shao et al., *Necessary and sufficient D-stability condition of fractional-order linear systems* (2017) | DOI: 10.23919/ChiCC.2017.8027318 | PRIMARY/ABSTRACT+METADATA | terminology warning: D-stability appears to be region-D pole placement, not multiplicative DA |
+
+## Allee / Double Allee core
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S101 | Stephens, Sutherland, Freckleton, *What Is the Allee Effect?* (1999) | DOI: 10.2307/3547011 | PRIMARY/ABSTRACT+METADATA | foundational terminology: component/demographic and threshold logic |
+| S102 | Courchamp, Clutton-Brock, Grenfell, *Inverse density dependence and the Allee effect* (1999) | DOI: 10.1016/S0169-5347(99)01683-3 | PRIMARY/ABSTRACT+METADATA | foundational demographic framing |
+| S103 | Berec, Angulo, Courchamp, *Multiple Allee effects and population management* (2007) | DOI: 10.1016/j.tree.2006.12.002 | REVIEW/FULL | “multiple” = multiple component mechanisms; empirical examples |
+| S104 | González-Olivares et al., *Consequences of double Allee effect on number of limit cycles in a predator-prey model* (2011) | DOI: 10.1016/j.camwa.2011.08.061 | PRIMARY/ABSTRACT+METADATA | early mathematical Double-Allee bifurcation/limit-cycle prior art |
+| S105 | Pal, Saha, *Qualitative analysis of a predator-prey system with double Allee effect in prey* (2015) | DOI: 10.1016/j.chaos.2014.12.007 | PRIMARY/FULL | strong analytical bifurcation prior art; clarifies common “double” growth law |
+| S106 | Lanchier, *The Role of Dispersal in Interacting Patches Subject to an Allee Effect* (2013) | DOI: 10.1239/aap/1386857863 | PRIMARY/FULL | topology/geometry-dependent Allee persistence/extinction in interacting patches |
+| S107 | Rahmi et al., *A Modified Leslie–Gower Model Incorporating Beddington–DeAngelis Functional Response, Double Allee Effect and Memory Effect* (2021) | DOI: 10.3390/fractalfract5030084 | PRIMARY/FULL | direct Caputo Double-Allee prior art |
+| S108 | Li, Li, diffusive predator-prey model with double Allee effect (2024) | DOI: 10.3934/math.20241309 | PRIMARY/ABSTRACT+METADATA | reaction–diffusion/spatial Double-Allee prior art |
+| S109 | Ramesh et al., fractional predator–prey system with Double Allee effect (2025) | DOI: 10.1371/journal.pone.0305179 | PRIMARY/FULL | Caputo local/global stability and Hopf prior art |
+| S110 | C. Mondal et al., fractional/discrete Double-Allee predator–prey analysis (2025) | DOI: 10.1007/s10867-025-09670-0 | PRIMARY/ABSTRACT+METADATA | continuous fractional + discrete comparison |
+| S111 | R. Mondal et al., *Dynamics of a fractional order predator-prey system with double Allee effect and group defense* (2025) | DOI: 10.1016/j.cjph.2025.09.020 | PRIMARY/FULL | incommensurate fractional-order prior art; multistability/basin analysis |
+| S112 | Alraddadi, Ahmed, Seol, fractional discrete predator–prey Double-Allee model (2026) | DOI: 10.3390/fractalfract10050304 | PRIMARY/FULL | discrete fractional local stability and bifurcations |
+| S113 | Tassaddiq et al., Double-Allee predator–prey dynamical stability (2026) | DOI: 10.3934/math.2026048 | PRIMARY/FULL | recent non-fractional/discrete analytical prior art |
+
+## Notes
+
+1. Full-text status refers only to the material actually inspected in this round.
+2. Conference result S015 is retained primarily as a terminology warning until its exact transformation definition is inspected from full text.
+3. Source inclusion does not imply that every claim in the source is accepted as exact; theorem strength is separately recorded in the theorem corpus.
