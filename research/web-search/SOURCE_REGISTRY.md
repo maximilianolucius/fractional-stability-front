@@ -173,3 +173,26 @@ Verification labels:
 | S817 | Cong & Tuan, nonlocal fractional dynamical systems (2017) | DOI 10.1216/JIE-2017-29-4-585 | PREPRINT/FULL | naive finite-dimensional fractional dynamical-system obstruction |
 | S818 | Doan, Kloeden & Tuan, Caputo attractors monograph (2026) | DOI 10.1007/978-3-032-05511-8 | BOOK/METADATA | consolidates semiflow/skew-product/attractor architecture |
 
+## ROUND-0010 — Fractional bifurcation semantics
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S901 | Ma & Li, center manifold (2016) | DOI 10.1115/1.4031120 | PRIMARY/FULL+METADATA | direct finite-dimensional Caputo center-manifold prior |
+| S902 | Li & Ma, Lyapunov–Schmidt (2016) | DOI 10.1115/1.4033607 | PRIMARY/FULL+METADATA | direct Caputo LS reduction |
+| S903 | Cong et al., stable manifolds (2016) | DOI 10.1007/s11071-016-3002-z | PRIMARY/FULL+METADATA | hyperbolic stable-manifold theory; erratum exists |
+| S904 | Wang, Fečkan & Zhou, center-stable (2017) | DOI 10.1016/j.amc.2016.10.014 | PRIMARY/ABSTRACT | planar fractional damped center-stable theorem |
+| S905 | Peng, Wang & Yu, center-stable Caputo (2018) | DOI 10.15388/NA.2018.5.2 | PRIMARY/FULL | Lyapunov-Perron center-stable theorem; high-dimensional case |
+| S906 | Liao, Wu & Li, center manifold (2026) | DOI 10.1016/j.physd.2026.135122 | PRIMARY/PUBLISHER FULL PAGE | modern center-manifold existence; chain-rule difficulty |
+| S907 | Ma & Shu, Caputo–Hadamard center manifold (2025) | DOI 10.1115/1.4068728 | PRIMARY/ABSTRACT | operator-specific center-manifold reduction |
+| S908 | Ma & Shu, Caputo–Hadamard LS (2025) | DOI 10.1007/s11071-025-11651-w | PRIMARY/ABSTRACT | operator-specific LS reduction |
+| S909 | Ma & Huang, Caputo–Hadamard fold (2024) | DOI 10.1016/j.cjph.2024.01.028 | PRIMARY/ABSTRACT | fold normal-form/stability prior |
+| S910 | Qian & Chen, fundamental bifurcations (2013) | DOI 10.6052/1672-6553-2013-053 | PRIMARY/ABSTRACT+METADATA | fold/transcritical/pitchfork Caputo prior |
+| S911 | Diekmann & van Gils, Volterra invariant manifolds (1984) | DOI 10.1016/0022-0396(84)90156-6 | PRIMARY/FULL | local semiflow, center manifold and Hopf for convolution Volterra equations |
+| S912 | Fiedler, global Volterra Hopf (1986) | DOI 10.1137/0517065 | PRIMARY/ABSTRACT | global periodic-orbit bifurcation under exponentially weighted kernel hypothesis |
+| S913 | Tavazoei & Haeri, periodicity obstruction (2009) | DOI 10.1016/j.automatica.2009.04.001 | PRIMARY/FULL+ABSTRACT | finite-terminal autonomous Caputo exact-periodicity obstruction |
+| S914 | Yazdani & Salarieh, periodic steady state (2011) | DOI 10.1016/j.automatica.2011.04.013 | PRIMARY/ABSTRACT | finite-time versus steady-state/infinite-memory distinction |
+| S915 | Haacker et al., periodic-solution stability (2026) | DOI 10.1007/s11071-025-12196-8 | PRIMARY/FULL | periodic-compatible Liouville-Weyl-type formulation; Floquet limitations |
+| S916 | Zhang & Li, S-asymptotically periodic FDEs (2022) | DOI 10.1016/j.matcom.2021.10.006 | PRIMARY/ABSTRACT | rigorous recurrent notion distinct from exact periodicity |
+| S917 | Liu, Li & Huang, incommensurate ecology (2025) | DOI 10.1016/j.matcom.2025.04.015 | PRIMARY/ABSTRACT | model-specific commensurate/incommensurate bifurcation activity |
+| S918 | Pippal & Sati, fractional Allee predator-prey (2026) | DOI 10.30538/oms2026.0339 | PRIMARY/OPEN FULL PAGE | explicit Matignon-sector-vs-Hopf semantic benchmark |
+
