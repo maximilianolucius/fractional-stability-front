@@ -78,9 +78,9 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 ## OPPORTUNITY-FS-03 — Rigorous nonlocal bifurcation near Allee thresholds
 
-**Status:** ACTIVE FALSIFICATION — ROUND-0010.
+**Status:** RETAINED / STRONGLY NARROWED AFTER ROUND-0010.
 
-**Core issue:** reconcile nonhyperbolic equilibrium bifurcations, attractor changes, spectral boundary crossings, and the finite-lower-terminal nonperiodicity obstruction in autonomous Caputo systems.
+**Core issue:** four residuals survive: singular-memory-state bifurcation, incommensurate nonhyperbolic reduction, operator-correct recurrent/Floquet theory, and memory-state basin/attractor bifurcation near Allee thresholds.
 
 **Double Allee proximity:** very high.
 
@@ -88,7 +88,7 @@ The final deliverable may recommend several opportunities rather than one, if th
 
 **Main killer threats:** fractional center-manifold/normal-form theory, history-space semiflow bifurcation theory, attractor bifurcation, infinite-memory periodic formulations.
 
-**Next action:** determine the exact residual after center-manifold, Lyapunov–Schmidt, attractor and periodicity prior art.
+**Next action:** ROUND-0011 tests the basin/threshold subfrontier directly against scalar comparison theory, integer-order Double-Allee basin geometry, and history-space stable-manifold theory.
 
 ---
 
@@ -107,3 +107,20 @@ The final deliverable may recommend several opportunities rather than one, if th
 **What ROUND-0009 closed:** absence of a semiflow/attractor framework is not a gap.
 
 **What survived:** boundary-state construction, physical-state transfer, robust persistence, invasion criteria, and Allee-compatible conditional/basin-relative persistence.
+
+
+---
+
+## OPPORTUNITY-DA-02 — Fractional-memory basin geometry near Double Allee thresholds
+
+**Status:** ACTIVE FALSIFICATION — ROUND-0011.
+
+**Core question:** after accounting for unchanged equilibrium algebra, which survival/extinction basin boundaries genuinely depend on fractional memory?
+
+**Why this matters:** it is the direct intersection of D10 nonhyperbolic/basin dynamics and D11 threshold-relative persistence.
+
+**Strongest prior threat:** Contreras et al. 2018 already gives rich integer-order Double-Allee basin geometry, including stable-manifold, periodic and homoclinic thresholds.
+
+**Additional killer threat:** modern Caputo comparison principles may rigidly fix scalar strong-Allee thresholds at the same unstable equilibrium for all orders.
+
+**What would survive:** a genuinely memory-state or multidimensional/incommensurate basin phenomenon not reducible to equilibrium algebra or standard comparison.
