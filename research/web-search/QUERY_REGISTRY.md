@@ -126,3 +126,33 @@ For each high-value result, the search was expanded by at least one of:
 | Q074 | 0007 | `Allee mechanism strength parameter convex extinction region` | direct ecological killer search | no comparable combined theorem found |
 | Q075 | 0007 | `persistence filtered minimal winning coalition ecology` | residual P4 search | no resolving result found |
 
+## ROUND-0008 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q076 | 0008 | `incommensurate fractional differential systems stability necessary sufficient general orders` | D2 exact frontier | Diethelm et al. 2024 found |
+| Q077 | 0008 | `multi-term fractional differential equation stability arbitrary number derivatives` | D2 multi-term architecture | Brandibur–Kaslik 2023 found |
+| Q078 | 0008 | `linearized asymptotic stability nonlinear Caputo fractional differential equations` | D3 canonical local theorem | Cong et al. 2016 found |
+| Q079 | 0008 | `instability theorem nonlinear fractional differential systems unstable sector` | D3 complementary theorem | Cong et al. 2017 found |
+| Q080 | 0008 | `converse Lyapunov theorem fractional order systems Mittag-Leffler` | D4 exactness/converse | Gallegos–Duarte-Mermoud 2019 found |
+| Q081 | 0008 | `fractional input-to-state stability converse Lyapunov theorem` | D4 modern robustness | Guo et al. 2025 found |
+| Q082 | 0008 | `fractional robust stability mixed uncertainties necessary sufficient` | D6 exact robust frontier | Zhang–Lu 2023 found |
+| Q083 | 0008 | `fractional interval uncertainty coefficient order necessary sufficient stability` | D6 order uncertainty | Zheng 2017 retained |
+| Q084 | 0008 | `fractional descriptor interval uncertain derivative matrix admissibility` | D5/D6 structured uncertainty | Di–Zhang–Zhang 2023 found |
+| Q085 | 0008 | `necessary sufficient delay-independent fractional-order time-delay stability` | D7 exact frontier | Zhang et al. 2025 found |
+| Q086 | 0008 | `neutral fractional functional differential multi Caputo infinite delay stability` | D7 neutral architecture | Wang et al. 2024 found |
+| Q087 | 0008 | `fractional switched systems stability converse Lyapunov dwell time` | D8 architecture | mostly sufficient results; Feng et al. 2025 |
+| Q088 | 0008 | `nonlinear singular fractional switched Mittag-Leffler stability` | D8 modern frontier | Hong–Thuan–Thanh 2025 found |
+| Q089 | 0008 | `fractional heterogeneous multi-agent consensus packet loss delay` | D9 representative network theory | Sun et al. 2024 found; sufficient |
+| Q090 | 0008 | `fractional periodic solutions nonexistence Hopf bifurcation Caputo` | D10 foundational consistency | Tavazoei–Haeri 2009 and Yazdani–Salarieh 2011 |
+| Q091 | 0008 | `Caputo saddle-node pitchfork attractor bifurcation` | D10 rigorous positive theory | Doan–Kloeden 2022 found |
+| Q092 | 0008 | `fractional permanence uniform persistence general theorem Caputo` | D11 abstract theory | no comparable resolving theorem found in breadth search |
+| Q093 | 0008 | `permanence theorem local dynamical systems necessary sufficient` | D11 adjacent benchmark | Fonda–Gidoni 2015 found |
+| Q094 | 0008 | `variable order fractional stability Lyapunov time-varying order 2025` | D12 current frontier | Lenka 2025 found |
+| Q095 | 0008 | `distributed order nonlinear dynamical systems Lyapunov stability` | D12 foundation | Fernández-Anaya et al. 2017 found |
+| Q096 | 0008 | `distributed-order nonlinear stability unified Lyapunov 2026` | D12 latest frontier | Wu–Pu–Yang 2026 found |
+| Q097 | 0008 | `time fractional reaction diffusion asymptotic stability incommensurate nonlinear linearization` | D14 generic foundation | Douaifia et al. 2020 found |
+| Q098 | 0008 | `abstract fractional reaction diffusion linearization Turing instability 2025` | D14 frontier | Ahmad–Cygan–Karch arXiv:2507.02094 found |
+| Q099 | 0008 | `fractional structural identifiability network order inverse problem` | D13 architecture | existing Alavi / Nazarian / Varalda-Pequito corpus confirmed mature generic theory |
+| Q100 | 0008 | `fractional Double Allee recent 2021 2026 incommensurate discrete diffusion` | D15 cross-cutting check | existing repo coverage confirmed cosmetic route saturation |
+
