@@ -33,6 +33,8 @@ The registry stores representative exact searches. Search-engine result counts a
 | Q025 | 0002 | `Allee parameter estimation identifiability inverse problem` | data/theory bridge | no joint general threshold+memory identifiability theorem identified in seed |
 | Q026 | 0002 | `population bistability hysteresis rescue threshold without Allee` | outside-vocabulary falsification | adjacent tipping/bifurcation literature is broad; requires focused follow-up |
 
+| Q027 | 0002 | `"Double Allee effects and extinction in the island fox"` | direct empirical Double-Allee evidence | 1988–2000 demographic dataset study found; double component effects + demographic effect |
+
 ## Search expansion rules used
 
 For each high-value result, the search was expanded by at least one of:
