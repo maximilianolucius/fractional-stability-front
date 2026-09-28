@@ -292,3 +292,37 @@ For each high-value result, the search was expanded by at least one of:
 | Q205 | 0014 | distributed order inverse weight uniqueness one point observation | identifiability | Li-Luchko-Yamamoto 2017 + later inversion uniqueness |
 | Q206 | 0014 | variable order fractional parameter learning trajectories | VO identification | Singh-Mehra-Gulyani parameter-learning framework |
 | Q207 | 0014 | distributed variable order dynamical systems state-dependent distribution | DVO maturity | review/modeling prior; no broad global dynamical-system framework found |
+
+## ROUND-0015 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q208 | 0015 | time-fractional stochastic vs fractional Brownian vs spatial fractional stochastic equation | terminology firewall | S1/S2/S3 literatures separated; many random-attractor hits are not time-fractional |
+| Q209 | 0015 | Caputo stochastic differential equation Brownian Volterra integral existence uniqueness | direct S1 architecture | Brownian-driven Caputo equations formulated as singular stochastic Volterra equations |
+| Q210 | 0015 | Caputo stochastic alpha greater than one half Brownian kernel | order admissibility | standard Itô convolution with power kernel requires square-integrable kernel, commonly alpha>1/2 |
+| Q211 | 0015 | Caputo stochastic stability almost sure p-moment Xiao Wang | stability taxonomy | direct stochastic/asymptotic/a.s./p-moment stability prior |
+| Q212 | 0015 | stochastic Volterra Markovian lift completely monotone fractional kernel Hamaguchi | memory-state architecture | Hilbert-space Markovian lift + Markov/Feller/invariant-measure machinery |
+| Q213 | 0015 | stochastic Volterra invariant measures stationary processes fractional kernel 2026 | long-time theory | Bianchi et al. limit distributions/invariant measures/LLN/CLT |
+| Q214 | 0015 | time-fractional Caputo stochastic random attractor Brownian | genuine S1 random attractor | no broad direct random-attractor theory identified; many hits were S2/S3 |
+| Q215 | 0015 | stochastic Volterra nonnegative kernel convex invariance completely monotone | positivity | Alfonsi 2025 nonnegativity/invariance theory |
+| Q216 | 0015 | stochastic Volterra convex domains singular nonconvolution fractional kernel | positivity beyond convolution | Abi Jaber-Alfonsi-Szulda 2026 |
+| Q217 | 0015 | stochastic fractional Caputo permanence persistence extinction positive systems | general persistence | no general time-fractional persistence/extinction framework located |
+| Q218 | 0015 | stochastic fractional Allee Caputo | direct Allee intersection | no theorem-level S1 + Allee persistence/extinction paper located |
+| Q219 | 0015 | stochastic Allee regime switching persistence ergodicity | ordinary stochastic killer | Yu-Yuan-Zhang 2018 mature persistence/ergodicity baseline |
+| Q220 | 0015 | stochastic predator prey Allee Levy jump ergodic stationary distribution | ordinary stochastic ecology | He-Liu-Xu 2024 |
+| Q221 | 0015 | emergent Allee stochastic persistence extinction 2026 | recent ordinary stochastic baseline | Granados-Valencia 2026 |
+| Q222 | 0015 | noise-induced tipping Allee habitat complexity 2026 | basin-exit/tipping baseline | Pal et al. 2026 tipping probabilities/times |
+| Q223 | 0015 | stochastic Volterra singular kernel Freidlin Wentzell large deviations | general rare-path killer | Jacquier-Pannier 2022 broad path LDP/MDP |
+| Q224 | 0015 | weakly singular power law stochastic Volterra large deviations 2026 | direct Caputo-type LDP | Gao et al. 2026 power-law LDP |
+| Q225 | 0015 | stochastic Volterra quasipotential exit time metastability fractional kernel | downstream rare exit | no general positive-Allee quasipotential/exit theorem located |
+| Q226 | 0015 | Caputo switched system lower terminal persistent memory reset controversy | memory convention | reset vs fixed-lower-terminal formulations are mathematically distinct |
+| Q227 | 0015 | stochastic switching Caputo almost sure stability 2262016 | stochastic switching prior | Wang et al. 2023 |
+| Q228 | 0015 | switched fractional short memory lower terminal reset 2025 | reset convention | Agarwal-Hristova-O'Regan 2025 |
+| Q229 | 0015 | random switching fractional Erlang lower terminal reset 2026 | mandatory source | O'Regan-Hristova 2026 p-moment stability |
+| Q230 | 0015 | switched Caputo fixed lower limit persistent memory history | persistent-memory frontier | no general nonlinear positive persistence framework located |
+| Q231 | 0015 | updating lower limit significant Caputo switching reply 2022 | formulation controversy | reset convention defended in published reply |
+| Q232 | 0015 | impulsive Caputo memory reset persistent lower terminal | hybrid extension | literature mainly stability/well-posedness; no general persistence bridge found |
+| Q233 | 0015 | stochastic fractional Double Allee | strict direct intersection | no resolving theorem-level paper located |
+| Q234 | 0015 | random switching fractional Allee persistence extinction | strict switching intersection | ordinary stochastic Allee + fractional switching separate; no combined theorem located |
+| Q235 | 0015 | fractional stochastic random attractor fractional Laplacian fractional Brownian | firewall falsification | many apparent hits reclassified as S2/S3 rather than S1 |
+| Q236 | 0015 | stochastic Volterra Kolmogorov equations singular kernel Markovian lift | modern architecture | recent Hilbert-lift Kolmogorov/Fokker-Planck theory located |
