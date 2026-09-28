@@ -217,3 +217,23 @@ For each high-value result, the search was expanded by at least one of:
 | Q145 | 0011 | `Caputo stable manifold ecological basin boundary` | stable-manifold threshold | local manifold theory exists; global threshold transfer unresolved |
 | Q146 | 0011 | `Volterra hereditary basin boundary power law Caputo kernel` | Killer 2 | close classical prior, no direct singular-kernel basin subsumption located |
 
+## ROUND-0012 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q147 | 0012 | Doan Kloeden semidynamical Caputo state space T_tau f constant initial function | exact physical embedding / transition state | exact semigroup formula and constant Caputo embedding verified |
+| Q148 | 0012 | Generation of nonlocal fractional dynamical systems Theorem 22 intersect trajectories | reachable same-present states | explicit d=2 standard-IVP intersection theorem found |
+| Q149 | 0012 | Caputo same state different history basin | strict same-present prior | no strict autonomous opposite-basin theorem found |
+| Q150 | 0012 | Caputo trajectories intersect bistable | explicit counterexample hunt | Cong-Tuan intersection found; not bistable |
+| Q151 | 0012 | Memory reshapes stability landscapes fractional bistable same state | recent closest prior | Khalighi et al. 2026 found; major narrative threat |
+| Q152 | 0012 | Volterra topological dynamics weakly singular kernel memory state | hereditary subsumption | Miller-Sell topological dynamics + Miller-Feldstein weak-singular regularity |
+| Q153 | 0012 | minimal state equivalent histories memory viscoelasticity | test ambient-history overparameterization | Fabrizio-Morro and Conti-Marchini-Pata found |
+| Q154 | 0012 | Caputo history space dynamic programming Gomoyunov | direct history-state functional | Caputo history-space DPP/HJB found |
+| Q155 | 0012 | Infinite State Representation fractional differential systems survey | diffusive/Markovian lift | Trigeassou-Maamri 2024 found |
+| Q156 | 0012 | Markovian lift completely monotone fractional kernel Volterra | adjacent exact augmentation | mature Hilbert/infinite-dimensional Volterra lift literature found |
+| Q157 | 0012 | Caputo cooperative system comparison semiquasimonotone 2026 | monotone killer | Cheng-Wu comparison theory; no general basin-fiber injectivity theorem |
+| Q158 | 0012 | triangular Caputo attractor nonintersection basin | structured killer | Doan-Kloeden triangular attractor / Cong-Tuan nonintersection |
+| Q159 | 0012 | same current state opposite basin Volterra hereditary | strict hereditary killer | no resolving theorem located |
+| Q160 | 0012 | Double Allee fractional basin memory history dependent | ecological realization | direct basin numerics already known; exact fiberwise theorem not found |
+| Q161 | 0012 | Caputo reachable set history state attractor closure | structure of R_alpha | semigroup/attractor results found; no intrinsic manifold/closedness theorem located |
+| Q162 | 0012 | incommensurate Caputo history state semigroup reachable set | multi-order extension | no general counterpart resolving fiberwise basin question located |
