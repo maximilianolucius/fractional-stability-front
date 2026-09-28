@@ -405,3 +405,36 @@ D10 survives as a narrowed opportunity family:
 
 **Dated report:** `research/web-search/2026-09-28_fractional-bifurcation-semantics.md`.
 
+---
+
+## 2026-09-28 — ROUND-0011 — Double-Allee basin-memory geometry
+
+**Question.** Which strong/Double-Allee basin properties remain unchanged under Caputo fractionalization, and which genuinely require the memory state?
+
+**Search families.**
+- `double Allee basins attraction stable manifold homoclinic limit cycle`
+- `scalar Caputo solution separation nonintersection threshold`
+- `Caputo comparison principle scalar system 2026`
+- `basin attraction Caputo fractional initial conditions`
+- `basin stability fractional Allee predator prey`
+- `incommensurate fractional Allee basin attraction`
+- `Caputo memory state basin stable manifold`
+- `Volterra hereditary basin boundary weakly singular kernel`
+- `basin stability infinite dimensional delay initial history`
+- mandatory DOI/citation searches for Contreras 2018, Ramesh 2025, Mondal 2025, Pippal-Sati 2026 and Wang-Han 2025.
+
+**Decisive findings.**
+1. Contreras–Aguirre 2018 gives a mature integer-order Double-Allee basin baseline: thresholds can be stable manifolds, limit cycles or homoclinic objects and rearrange across local/global bifurcations.
+2. Scalar Caputo separation/nonintersection closes scalar threshold-shift novelty: an equilibrium trajectory is an uncrossable barrier for distinct solutions.
+3. Modern scalar/system comparison theory reinforces order preservation under appropriate assumptions.
+4. General multidimensional Caputo physical state is not itself a semiflow; Doan–Kloeden embeds the problem in a function/memory space.
+5. Published fractional ecological basin plots generally sample physical initial population vectors and therefore describe a slice of the full memory-state basin.
+6. Mondal et al. 2025 and Saha et al. 2026 provide direct commensurate/incommensurate Allee basin numerics, but no rigorous full-memory separatrix theorem was identified.
+7. Pippal–Sati's basin-restricted Mittag-Leffler result is a sufficient certificate on a chosen invariant subset, not an exact basin characterization.
+8. Classical hereditary/Volterra and fractional stable-manifold theory are strong threats, but no direct theorem was found characterizing the global survival/extinction basin boundary for the canonical singular Caputo kernel.
+
+**Round verdict.**
+Scalar route closed. The search-qualified residual is multidimensional memory-state basin/separatrix geometry and transfer to the canonical physical-initial-data slice, especially for incommensurate strong/Double-Allee systems and basin-relative persistence.
+
+**Dated report:** `research/web-search/2026-09-28_allee-basin-memory-geometry.md`.
+
