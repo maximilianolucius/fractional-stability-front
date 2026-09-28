@@ -122,3 +122,31 @@ Verification labels:
 | S604 | Delmas, Dronnier & Zitt, *The effective reproduction number: Convexity, concavity and invariance* (2025) | DOI 10.4171/JEMS/1431 | PRIMARY/FULL | vector intervention/persistence geometry in population mathematics |
 | S605 | Delmas, Dronnier & Zitt, *Optimal vaccinations: Cordons sanitaires, reducible population and optimal rays* (2022) | arXiv:2209.07381 | PREPRINT/FULL METADATA | radial scaling/eradication analogue; not the two-boundary Allee phase |
 
+## ROUND-0008 — Full-domain architecture
+
+| ID | Source | Persistent identifier | Verification | Branch / role |
+|---|---|---|---|---|
+| S701 | Diethelm et al., *Trends, directions...open problems* (2022) | DOI 10.1007/s11071-021-07158-9 | REVIEW/FULL | cross-domain architecture/open problems |
+| S702 | Diethelm et al., *constructive incommensurate stability* (2024) | DOI 10.1016/j.jmaa.2024.128642 | PRIMARY/FULL+ABSTRACT | D2 strongest modern general result |
+| S703 | Cong et al., *Linearized asymptotic stability* (2016) | DOI 10.14232/ejqtde.2016.1.39 | PRIMARY/FULL | D3 local stability foundation |
+| S704 | Cong et al., *Instability theorem* (2017) | DOI 10.3934/dcdsb.2017164 | PRIMARY/FULL | D3 complementary instability |
+| S705 | Gallegos & Duarte-Mermoud (2019) | DOI 10.3906/mat-1808-75 | PRIMARY/FULL | D4 converse Lyapunov/ML |
+| S706 | Guo et al., FOISS converse (2025) | DOI 10.1016/j.jfranklin.2024.107414 | PRIMARY/FULL+ABSTRACT | D4 ISS/converse frontier |
+| S707 | Zhang & Lu, mixed uncertainty (2023) | DOI 10.1016/j.cnsns.2023.107511 | PRIMARY/FULL+ABSTRACT | D6 N&S robust stability |
+| S708 | Di, Zhang & Zhang, descriptor interval (2023) | DOI 10.1016/j.amc.2023.128076 | PRIMARY/ABSTRACT | D5/D6 descriptor uncertainty |
+| S709 | Zhang, Jin, Lu & Zhu, delay-independent stability (2025) | DOI 10.1109/LCSYS.2025.3620881 | PRIMARY/ABSTRACT | D7 N&S exact result |
+| S710 | Wang et al., neutral multi-Caputo (2024) | DOI 10.3934/dcdss.2024023 | PRIMARY/FULL | D7 neutral/infinite-delay branch |
+| S711 | Feng, Wang & Chen, switched FTS (2025) | DOI 10.3390/fractalfract9020094 | PRIMARY/FULL | D8 representative sufficient result |
+| S712 | Hong, Thuan & Thanh, switched singular ML (2025) | DOI 10.1016/j.cnsns.2024.108352 | PRIMARY/FULL+ABSTRACT | D8 nonlinear switched frontier |
+| S713 | Sun et al., heterogeneous fractional consensus (2024) | DOI 10.1016/j.physa.2024.129547 | PRIMARY/ABSTRACT | D9 network representative |
+| S714 | Tavazoei & Haeri, periodic nonexistence (2009) | DOI 10.1016/j.automatica.2009.04.001 | PRIMARY/FULL+ABSTRACT | D10 foundational obstruction |
+| S715 | Yazdani & Salarieh, periodic steady-state clarification (2011) | DOI 10.1016/j.automatica.2011.04.013 | PRIMARY/FULL+ABSTRACT | D10 convention clarification |
+| S716 | Doan & Kloeden, attractors/bifurcations (2022) | DOI 10.1007/s13540-022-00030-6 | PRIMARY/PREPRINT+METADATA | D10 rigorous structured bifurcation |
+| S717 | Fonda & Gidoni, permanence (2015) | DOI 10.1016/j.na.2014.10.011 | PRIMARY/FULL | D11 adjacent exact benchmark |
+| S718 | Fernández-Anaya et al., distributed-order stability (2017) | DOI 10.1016/j.cnsns.2017.01.020 | PRIMARY/FULL+METADATA | D12 foundation |
+| S719 | Lenka, time-varying-order stability (2025) | DOI 10.1016/j.chaos.2025.116935 | PRIMARY/FULL+ABSTRACT | D12 new variable-order theory |
+| S720 | Wu, Pu & Yang, distributed-order unified framework (2026) | DOI 10.1016/j.cnsns.2026.109995 | PRIMARY/FULL+ABSTRACT | D12 latest frontier |
+| S721 | Douaifia, Abdelmalek & Bendoukha (2020) | DOI 10.1016/j.cnsns.2019.104982 | PRIMARY/FULL+ABSTRACT | D14 generic reaction-diffusion |
+| S722 | Ahmad, Cygan & Karch (2025) | arXiv:2507.02094 | PREPRINT/FULL | D14 abstract linearization/Turing |
+| S723 | Brandibur & Kaslik, multi-term stability (2023) | DOI 10.3390/fractalfract7020117 | REVIEW/FULL | D2 multi-term architecture |
+
