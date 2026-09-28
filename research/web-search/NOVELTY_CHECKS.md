@@ -261,3 +261,82 @@ No single prior work was identified that couples a general component-deletion do
 
 However the inverse mathematics is standard at the abstract level. The defensible novelty core, if any, is the strengthened forward component-composition theorem; the inverse part is best positioned as a rigorous scientific consequence and observation-design layer.
 
+---
+
+## ROUND-0007 — Mechanism-space geometry
+
+### NC-601 — Convexity/half-space representation of extinction region
+
+**Classification:** **MATHEMATICALLY STANDARD BUT ECOLOGICAL SYNTHESIS DISTINCT**
+
+For (M(lambda)=sup_x[b(x)-lambdacdot g(x)]), convexity is the standard supremum-of-affine-functions result. The representation
+[
+mathcal E=igcap_x{lambda:lambdacdot g(x)ge b(x)}
+]
+is a linear semi-infinite feasible set; López–Still 2007 supplies the generic optimization framework.
+
+Novelty cannot rest on convexity or the intersection-of-halfspaces fact.
+
+The ecological distinction not found in the searched corpus is the exact decomposition of mechanism space into low-density failure (mathcal L), global extinction (mathcal E), and the strong-Allee phase (mathcal Lsetminusmathcal E).
+
+### NC-602 — Exact radial strong-Allee window
+
+**Classification:** **MATHEMATICALLY STANDARD BUT ECOLOGICAL SYNTHESIS DISTINCT**
+
+The critical values (t_0) and (t_E) arise by intersecting the two phase boundaries with a ray. Delmas–Dronnier–Zitt provide close population-level vector-intervention/ray analogues, but no searched result gives the same low-density-failure → strong-Allee → extinction sequence for mechanism-resolved Allee effects.
+
+Retain as a corollary of the phase geometry, not a standalone deep theorem.
+
+### NC-603 — Weighted minimal threshold-generating coalitions
+
+**Classification:** **CLOSE PRIOR ART — NARROW**
+
+The low-density condition
+[
+sum_{iin S}w_i>b(0)
+]
+with loss of the condition after deleting any member is exactly a minimal winning coalition of a weighted threshold game. Antichain/Sperner and pivotality consequences are standard.
+
+The residual ecological object is the **persistence-filtered** family satisfying simultaneously
+[
+F_S(0)<0<M_S.
+]
+
+No searched weighted-game, reliability, or multiple-Allee source classifies these coalitions using the full density profiles (g_i(x)).
+
+### NC-604 — Inclusion-chain contiguity / antichain claims
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+Low-density failure is an upset; persistence is a downset; their intersection is order-convex. Contiguous blocks on chains and antichain minimal elements are generic poset consequences.
+
+Do not claim these as new combinatorics.
+
+### NC-605 — Boundary normal (
+abla M=-g(x^*))
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+This is the unique-maximizer form of Danskin's theorem applied to the value function (M). The biological interpretation is useful, but the derivative/normal formula is standard.
+
+### NC-606 — P2–P4 combined ecological theorem
+
+**Classification:** **NO RESOLVING RESULT FOUND IN SEARCHED CORPUS**
+
+No single source identified in ROUND-0007 gives both:
+1. continuous mechanism-strength phase geometry separating low-density failure, strong-Allee persistence, and extinction; and
+2. minimal mechanism subsets that cross the local failure boundary while remaining globally persistent.
+
+This integrated statement remains defensible, provided the manuscript explicitly credits the standard convex-analysis and weighted-game ingredients and derives new consequences from the persistence filter.
+
+### NC-607 — Main remaining novelty burden
+
+**Classification:** **OPEN THEOREM-SPECIFIC TARGET**
+
+The strongest next mathematical target is not another convexity/antichain lemma. It is a structural theorem for the persistence-filtered coalition family, potentially involving:
+- profile-level necessary/sufficient conditions;
+- realizability restrictions;
+- bounds sharper than generic Sperner;
+- transitions between discrete coalitions and continuous extinction-boundary faces;
+- algorithmic consequences of the entire (g_i(x)) profiles.
+
