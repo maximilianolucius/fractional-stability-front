@@ -111,3 +111,18 @@ For each high-value result, the search was expanded by at least one of:
 | Q064 | 0006 | `fractional model symmetry identifiability` | fractional extension threat | generic fractional identifiability already in corpus; fixed-RHS invariance immediate |
 | Q065 | 0006 | `10.1016/j.jsc.2025.102544 N-patch strong Allee` | mandatory network threat | Tsai 2026 verified |
 
+## ROUND-0007 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q066 | 0007 | `semi infinite programming intersection halfspaces convex feasible set` | P2 generic geometry | López–Still 2007 confirms standard SIP framework |
+| Q067 | 0007 | `effective reproduction number convex vaccination strategy vector` | population parameter geometry | Delmas–Dronnier–Zitt 2025 found |
+| Q068 | 0007 | `optimal vaccinations optimal rays scaling strategy` | P3 radial analogue | arXiv:2209.07381 found; not two-boundary Allee theorem |
+| Q069 | 0007 | `minimal winning coalition weighted threshold Boolean` | P4 coalition equivalence | Alturki–Rushdi 2016 direct prior mathematics |
+| Q070 | 0007 | `minimal cut set coherent reliability system` | reliability dual | classical coherent-system minimal-cut-set theory found |
+| Q071 | 0007 | `minimal winning coalitions antichain Sperner` | P4 antichain novelty | standard simple-game/Sperner structure found |
+| Q072 | 0007 | `intersection upset downset order convex poset` | chain-contiguity novelty | generic order-convex structure found |
+| Q073 | 0007 | `Danskin theorem unique maximizer gradient max value` | P5 sensitivity | Danskin theorem directly subsumes formula |
+| Q074 | 0007 | `Allee mechanism strength parameter convex extinction region` | direct ecological killer search | no comparable combined theorem found |
+| Q075 | 0007 | `persistence filtered minimal winning coalition ecology` | residual P4 search | no resolving result found |
+
