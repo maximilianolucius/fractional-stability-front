@@ -39,17 +39,17 @@ A candidate opportunity belongs here only after its mathematical gap has been st
 
 ---
 
-## OPPORTUNITY-FS-02 — Incommensurate state-stability structural characterization
+## OPPORTUNITY-FS-02 — Global nonlinear incommensurate threshold dynamics
 
-**Status:** EARLY CANDIDATE / INSUFFICIENTLY MAPPED.
+**Status:** NARROWED AFTER ROUND-0008.
 
-**Known fact:** exact noncommensurate BIBO testing exists.
+**Closed broad version:** generic local/linear incommensurate stability is substantially covered by modern exact/constructive theory.
 
-**Possible residual:** structural state-stability characterization under interpretable matrix/system classes.
+**Residual candidate:** global nonlinear stability, basin geometry, persistence/extinction, robustness, or nonhyperbolic bifurcation for multi-order systems.
 
-**Double Allee proximity:** potentially high if a biologically meaningful multi-order Double Allee model naturally forces the structure.
+**Double Allee proximity:** potentially high if distinct ecological mechanisms/species naturally carry distinct memory orders.
 
-**Risk:** repository coverage is currently too thin to call this a verified gap.
+**Risk:** may collapse under existing multi-order Lyapunov or hereditary-system theory.
 
 ---
 
@@ -72,3 +72,34 @@ New opportunities should include:
 Do not choose a single winner until the full domain map has adequate breadth.
 
 The final deliverable may recommend several opportunities rather than one, if the evidence does not justify a unique choice.
+
+
+---
+
+## OPPORTUNITY-FS-03 — Rigorous nonlocal bifurcation near Allee thresholds
+
+**Status:** HIGH-PRIORITY SEARCH HYPOTHESIS.
+
+**Core issue:** reconcile nonhyperbolic equilibrium bifurcations, attractor changes, spectral boundary crossings, and the finite-lower-terminal nonperiodicity obstruction in autonomous Caputo systems.
+
+**Double Allee proximity:** very high.
+
+**FDE centrality:** very high.
+
+**Main killer threats:** fractional center-manifold/normal-form theory, history-space semiflow bifurcation theory, attractor bifurcation, infinite-memory periodic formulations.
+
+**Next action:** depth-first audit after ROUND-0009.
+
+---
+
+## OPPORTUNITY-FS-04 — Abstract or basin-relative persistence for fractional/nonlocal systems
+
+**Status:** ACTIVE FALSIFICATION — ROUND-0009.
+
+**Core issue:** determine whether general uniform-persistence/permanence theory exists for positive Caputo/nonlocal systems or follows directly from a history-space embedding.
+
+**Double Allee proximity:** direct, but conceptually delicate because strong Allee dynamics intentionally allow positive initial conditions to go extinct.
+
+**Critical refinement:** ordinary global uniform persistence may be the wrong object; basin-relative or threshold-conditional persistence may be the mathematically natural bridge.
+
+**Main killer threats:** hereditary/Volterra persistence theory, skew-product/process persistence, history-space semiflows, monotone nonlocal systems.
