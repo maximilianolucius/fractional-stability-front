@@ -177,3 +177,26 @@ For each high-value result, the search was expanded by at least one of:
 | Q115 | 0009 | robust persistence Caputo history semiflow | direct surviving subgap | no general resolving source found |
 | Q116 | 0009 | fractional invasion rate memory state permanence | direct surviving subgap | no general resolving source found |
 
+## ROUND-0010 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q117 | 0010 | `Caputo center manifold fractional dynamical system` | block A | Ma–Li 2016 and later center-manifold work found |
+| Q118 | 0010 | `fractional stable manifold high dimensional` | block A | Cong–Doan–Siegmund–Tuan 2016 found; erratum noted |
+| Q119 | 0010 | `Caputo center-stable manifold Lyapunov Perron` | block A | Peng–Wang–Yu 2018; Wang–Fečkan–Zhou 2017 |
+| Q120 | 0010 | `fractional Lyapunov-Schmidt reduction Caputo` | block B | Li–Ma 2016 direct reduction theorem |
+| Q121 | 0010 | `Caputo Hadamard center manifold Lyapunov Schmidt` | operator-specific reduction | 2025 Ma–Shu center/LS results |
+| Q122 | 0010 | `fractional fold transcritical pitchfork Qian Chen` | block C | 2013 fundamental bifurcation paper |
+| Q123 | 0010 | `fractional cusp Bogdanov Takens general theorem Caputo` | codim-two audit | model-specific literature; no broad memory-state theorem identified |
+| Q124 | 0010 | `Caputo periodic solution nonexistence autonomous` | block D foundation | Tavazoei–Haeri 2009 |
+| Q125 | 0010 | `fractional periodic steady state infinite memory Yazdani Salarieh` | semantic correction | 2011 finite-time vs steady-state distinction |
+| Q126 | 0010 | `Liouville Weyl periodic fractional Floquet Hill 2026` | operator-correct periodicity | Haacker et al. 2026; Floquet gap explicit |
+| Q127 | 0010 | `S-asymptotically periodic Caputo functional differential equation` | recurrent-object taxonomy | Zhang–Li 2022 |
+| Q128 | 0010 | `Volterra integral equation center manifold Hopf convolution` | history-state killer | Diekmann–van Gils 1984 |
+| Q129 | 0010 | `global Hopf Volterra integral equations exponential weight kernel` | history-state killer | Fiedler 1986 |
+| Q130 | 0010 | `Caputo Volterra semiflow center manifold Hopf weakly singular kernel` | residual D10-A | no resolving general theorem found |
+| Q131 | 0010 | `incommensurate fractional center manifold normal form bifurcation` | block F | model-specific work only; no general theorem found |
+| Q132 | 0010 | `incommensurate fractional ecological Hopf bifurcation 2025` | applied prior | Liu–Li–Huang 2025 |
+| Q133 | 0010 | `fractional Double Allee bifurcation incommensurate basin` | block G | Mondal et al. 2025 and related direct prior |
+| Q134 | 0010 | `Caputo Allee Hopf Matignon stability sector periodic solutions` | semantic ecology check | Pippal–Sati 2026 explicit distinction found |
+
