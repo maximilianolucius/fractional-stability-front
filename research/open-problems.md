@@ -169,3 +169,16 @@ All current open-problem candidates are now subject to a common adversarial stan
 - empirical route.
 
 No additional branch should be promoted solely because terminology searches return few direct hits.
+
+
+## Final shortlist gate — ROUND-0017
+
+The active open-problem set is now limited to three families:
+
+- **A:** reachable memory-state fiber geometry and distinct deterministic basins;
+- **B:** uncertainty-uniform robust survival/extinction geometry;
+- **C:** stochastic memory-state persistence and rare extinction/exit.
+
+All other previously active candidates are merged, downgraded or retained only for domain/survey coverage.
+
+ROUND-0017 is the last hostile novelty/subsumption gate before final Chief recommendation.
