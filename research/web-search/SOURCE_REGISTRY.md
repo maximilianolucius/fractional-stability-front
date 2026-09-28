@@ -253,3 +253,25 @@ Verification labels:
 | S1217 | Yang et al., multiparameter fractional bifurcation (2022) | DOI 10.1016/j.chaos.2021.111714 | PRIMARY/FULL-PAGE EXCERPT | local stability/critical hypersurface parameter-space prior |
 | S1218 | Nazarian, Haeri & Tavazoei, fractional identifiability (2010) | DOI 10.1016/j.isatra.2009.11.007 | PRIMARY/ABSTRACT | supports scientific realism of order uncertainty |
 | S1219 | Zhang, Lu & Zhu, robust fractional control review (2025) | DOI 10.1007/s11071-025-11497-2 | REVIEW/FULL EXCERPT | documents crowded robust stability/control field and helps isolate open-loop global ecology |
+
+## ROUND-0014 — Variable/distributed-order dynamics
+
+| ID | Source | Persistent identifier | Verification | Why it matters |
+|---|---|---|---|---|
+| S1220 | Ding et al., Applications of Distributed-Order Fractional Operators: A Review (2021) | DOI 10.3390/e23010110 | REVIEW/FULL | operator taxonomy; distinguishes fixed DO, VO, DVO and applications |
+| S1221 | Saberi Najafi et al., distributed-order stability (2011) | DOI 10.1155/2011/175323 | PRIMARY/FULL PAGE | characteristic-function/inertia exact linear baseline |
+| S1222 | Jiao, Chen & Zhong, LTI distributed-order stability (2013) | DOI 10.1002/asjc.578 | PRIMARY/ABSTRACT+FULL PAGE | BIBO sufficient/N&S conditions for weighting-function classes |
+| S1223 | Bazhlekova, distributed-order evolution equations (2015) | DOI 10.1080/10652469.2015.1039224 | PREPRINT/FULL + PRIMARY ABSTRACT | abstract Volterra reformulation; complete monotonicity, positivity, subordination |
+| S1224 | Jia, Peng & Li, abstract DO well-posedness (2014) | DOI 10.3934/cpaa.2014.13.605 | PRIMARY/FULL PAGE | resolvent-family / C0-semigroup architecture under source assumptions |
+| S1225 | Li, distributed-order resolvent families (2022) | DOI 10.3934/math.2022650 | PRIMARY/OPEN FULL PAGE | stability, representation, analyticity and decay of DO resolvent families |
+| S1226 | Fernández-Anaya et al., nonlinear DO asymptotic stability (2017) | DOI 10.1016/j.cnsns.2017.01.020 | PRIMARY/FULL PAGE | nonlinear distributed-order Lyapunov direct-method benchmark |
+| S1227 | Derakhshan & Aminataei, DO Prabhakar stability (2020) | DOI 10.1155/2020/1896563 | PRIMARY/OPEN FULL PAGE | nonlinear operator-specific Lyapunov extension |
+| S1228 | Sarwar, variable-order Caputo existence/stability (2022) | DOI 10.3390/fractalfract6020051 | PRIMARY/OPEN FULL | VO existence/uniqueness/continuation/global existence/UH stability |
+| S1229 | Lenka, time-varying-order stability (2025) | DOI 10.1016/j.chaos.2025.116935 | PRIMARY/FULL PAGE | comparison + Lyapunov + TVO Mittag-Leffler stability + non-blow-up |
+| S1230 | Benkerrouche et al., nonautonomous variable order (2026) | DOI 10.1016/j.cam.2025.117235 | PRIMARY/ABSTRACT+METADATA | state/time-dependent order; existence/uniqueness/uniform stability |
+| S1231 | Khan et al., variable-order predator-prey (2021) | DOI 10.1186/s13662-021-03340-w | PRIMARY/OPEN FULL | direct VO ecology prior |
+| S1232 | Baghel, distributed-order predator-prey (2026) | DOI 10.1016/j.fraope.2025.100460 | PRIMARY/OPEN FULL PAGE | direct DO ecology; positivity, boundedness, invasion and local threshold analysis |
+| S1233 | Li, Luchko & Yamamoto, DO inverse problem (2017) | DOI 10.1016/j.camwa.2016.06.030 | PRIMARY/OPEN ARCHIVE | uniqueness of distributed-order weight from one interior observation |
+| S1234 | Li et al., inversion of distributed orders (2020) | DOI 10.1016/j.cam.2019.112564 | PRIMARY/OPEN ARCHIVE | additional DO weight uniqueness result |
+| S1235 | Singh, Mehra & Gulyani, VO parameter learning (2023) | DOI 10.1002/num.22796 | PRIMARY/ABSTRACT+METADATA | practical recovery in variable-order systems; not structural cross-model identifiability |
+| S1236 | Variable-order Arneodo bifurcation/chaos (2026) | DOI 10.3390/fractalfract10050296 | PRIMARY/OPEN FULL PAGE | recent model-specific/numerical bifurcation evidence; not general reduction theory |
