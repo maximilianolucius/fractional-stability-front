@@ -30,6 +30,7 @@ The project does **not** proceed from gap selection into full theorem proving. S
 - ROUND-0008 — full-domain architecture audit.
 - ROUND-0009 — fractional uniform-persistence/permanence falsification.
 - ROUND-0010 — fractional bifurcation semantics and architecture.
+- ROUND-0011 — Double-Allee basin-memory geometry.
 
 ## Assimilated lesson from ROUND-0007
 
@@ -89,25 +90,25 @@ The full domain map must now be expanded across:
 
 ## Active round
 
-### ROUND-0011 — Double-Allee basin-memory geometry
+### ROUND-0012 — Reachable memory-state subsumption audit
 
 **Status:** OPEN
 
 Purpose:
 
-- determine which Allee threshold/basin properties are invariant under Caputo fractionalization;
-- test scalar threshold rigidity via comparison/nonintersection theory;
-- distinguish physical-initial-state basins from full memory-state basins;
-- determine whether α genuinely changes separatrices/basin boundaries or mainly local stability/transients;
-- connect D10 bifurcation and D11 threshold-relative persistence only where the connection is mathematically real.
+- determine whether the surviving basin-memory candidate is physically reachable from standard Caputo IVPs;
+- test whether same-present/different-memory states occur inside the reachable set;
+- search for opposite-basin outcomes at identical current physical state;
+- test direct subsumption by hereditary/Volterra invariant-manifold and persistence theory;
+- evaluate Markovian/diffusive lift representations as a possible killer.
 
 ## Current candidate opportunity portfolio
 
 Current high-information candidates include:
 
 - persistence-filtered mechanism composition in Multiple/Double Allee systems;
-- rigorous fractional bifurcation/nonhyperbolic threshold dynamics;
-- memory-state and basin-/threshold-relative persistence for positive Caputo/nonlocal systems;
+- rigorous fractional bifurcation/nonhyperbolic threshold dynamics, narrowed to singular-memory/incommensurate/history-state formulations;
+- reachable memory-state and basin-/threshold-relative persistence for multidimensional positive Caputo systems;
 - robust nonlinear threshold/persistence under order/parameter uncertainty;
 - variable/distributed-order nonlinear threshold dynamics.
 
@@ -124,7 +125,7 @@ The survey is a legitimate output of this project.
 1. expand `research/DOMAIN_MAP.md`;
 2. reconcile `theorem-map.md`, `frontier-map.md`, and `open-problems.md`;
 3. build a nontrivial `opportunity-matrix.csv`;
-4. assimilate ROUND-0011 when returned;
-5. decide whether the D10-D/D11 intersection survives scalar rigidity and history-space prior art;
+4. assimilate ROUND-0012 when returned;
+5. classify the basin-memory candidate as killed, application-level, genuine fractional gap, or ambiguous;
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
