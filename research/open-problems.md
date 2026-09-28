@@ -120,3 +120,15 @@ It does not solve them.
 **Why it matters:** this would be an intrinsically fractional/non-Markovian threshold phenomenon with no autonomous finite-dimensional ODE analogue.
 
 **Main killer risks:** ambient-state artifact; direct hereditary/Volterra subsumption; monotone-system structure; lack of ecological reachability.
+
+
+## OP-FS-05 — Robust fractional threshold/persistence under uncertainty
+
+**Evidence class:** D  
+**Status:** active falsification in ROUND-0013.
+
+**Question:** for nonlinear positive Caputo/incommensurate systems with uncertain parameters and uncertain fractional order, what survival/extinction or persistence conclusions can be guaranteed uniformly over the uncertainty family?
+
+**Double Allee relevance:** very high.
+
+**Main killer threats:** classical robust permanence, differential inclusions/viability, and existing uncertain nonlinear fractional stability theory.
