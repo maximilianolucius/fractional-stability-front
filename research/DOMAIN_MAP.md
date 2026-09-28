@@ -156,3 +156,28 @@ The surviving multidimensional frontier is now explicitly a **memory-state** que
 Direct numerical prior already exists for (alpha)-dependent physical-slice basins in fractional Allee/Double-Allee models. What remains unverified is a rigorous general theorem.
 
 ROUND-0012 tests whether this candidate is physically reachable and genuinely fractional rather than an artifact of the enlarged state space.
+
+
+## ROUND-0012 Chief correction
+
+The basin-memory branch survives only in a highly specific form.
+
+Direct prior now covers:
+- reachable same-present/different-memory states in (dge2);
+- history-dependent bistable landscapes and tipping phenomenology;
+- infinite-dimensional Markovian/diffusive lifts.
+
+The unresolved search-qualified residual is:
+
+[
+	ext{fiberwise multibasin geometry of }
+e_0:mathcal R_alpha	o X_{m phys},
+]
+
+i.e. whether one current-state fiber can intersect distinct asymptotic basins in an autonomous positive multistable Caputo system.
+
+This candidate is retained but paused to avoid project overfitting.
+
+The active map now returns to D6:
+
+> **nonlinear robust stability / persistence / extinction / threshold geometry under parameter and fractional-order uncertainty.**
