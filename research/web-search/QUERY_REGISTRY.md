@@ -326,3 +326,30 @@ For each high-value result, the search was expanded by at least one of:
 | Q234 | 0015 | random switching fractional Allee persistence extinction | strict switching intersection | ordinary stochastic Allee + fractional switching separate; no combined theorem located |
 | Q235 | 0015 | fractional stochastic random attractor fractional Laplacian fractional Brownian | firewall falsification | many apparent hits reclassified as S2/S3 rather than S1 |
 | Q236 | 0015 | stochastic Volterra Kolmogorov equations singular kernel Markovian lift | modern architecture | recent Hilbert-lift Kolmogorov/Fokker-Planck theory located |
+
+## ROUND-0016 query additions
+
+| ID | Round | Query / query family | Candidate | Outcome |
+|---|---|---|---|---|
+| Q237 | 0016 | noninjective observable multistability different omega limit same observation | C1 | no resolving Caputo/hereditary basin-fiber theorem found |
+| Q238 | 0016 | partial observation different attractors identical state projection | C1 | generic observability prior only; no direct reachable-memory killer |
+| Q239 | 0016 | factor map basin fiber stable set noninjective observable | C1 | no exact current-state-fiber multibasin theorem located |
+| Q240 | 0016 | robust viability kernel uncertain nonlinear system survival basin | C2 | mature viability/discriminating-kernel prior |
+| Q241 | 0016 | discriminating kernel robust capture basin uncertainty | C2 | Han-Gao 2017; Peng-Stancu-Dang 2019 |
+| Q242 | 0016 | uncertain semiflow robust permanence infinite dimensional | C2 | classical/abstract robustness threat; no direct order-uncertain Caputo threshold theorem |
+| Q243 | 0016 | stochastic persistence infinite dimensions average Lyapunov invariant measures | C3 | Földes-Stacy 2026 major killer |
+| Q244 | 0016 | stochastic persistence stochastic functional differential equation history space | C3 | direct application class in Földes-Stacy |
+| Q245 | 0016 | stochastic Volterra quasipotential exit time metastability | C3 | path-LDP prior remains; no direct Allee exit/quasipotential theorem found |
+| Q246 | 0016 | random switching Volterra long memory Markov chain | C4 | Herrera-Marín 2026 direct close prior |
+| Q247 | 0016 | piecewise coefficient hereditary Volterra regime switching no reset | C4 | long-memory switching architecture now direct prior |
+| Q248 | 0016 | center manifold integral equations infinite delay | C5 | Matsunaga et al. 2015 strong adjacent killer |
+| Q249 | 0016 | weakly singular Volterra center manifold Caputo | C5 | no exact canonical singular-kernel theorem found; killer risk remains high |
+| Q250 | 0016 | fractional fold transcritical pitchfork normal form Caputo | C5 | operator-specific fractional normal-form literature exists |
+| Q251 | 0016 | multiple component Allee interaction threshold double dormancy | C6 | Berec et al. 2007 direct mechanism interaction prior |
+| Q252 | 0016 | two component Allee stochastic sharp threshold permanence | C6 | Lan 2025 direct theorem-level threshold prior |
+| Q253 | 0016 | multiple Allee predator prey bifurcation 2026 | C6 | Yang-Fan 2026 rich direct prior |
+| Q254 | 0016 | variable order pullback attractor process cocycle | C7 | no broad resolving theorem found |
+| Q255 | 0016 | state-dependent-order cocycle distributed-order global attractor | C7 | branch remains real but weak relative Double-Allee fit |
+| Q256 | 0016 | variable-order persistence extinction ecological global dynamics | C7 | no general persistence framework located |
+| Q257 | 0016 | stochastic persistence Volterra Hilbert lift boundary invariant measure | C3 | exact lift-to-persistence compatibility unresolved |
+| Q258 | 0016 | persistent memory switching Caputo Allee extinction survival | C4/C3 | no direct theorem; best handled as stochastic branch specialization |
