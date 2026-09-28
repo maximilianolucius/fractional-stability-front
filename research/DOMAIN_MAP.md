@@ -107,3 +107,28 @@ The D11 candidate therefore narrows to:
 This is retained as a high-information candidate with substantial subsumption risk.
 
 ROUND-0010 now audits D10. Independent Chief verification added an important 2026 prior-art threat: Liao–Wu–Li, DOI 10.1016/j.physd.2026.135122, proves existence conditions for center manifolds in fractional differential equations and cites earlier center-manifold/Lyapunov–Schmidt work.
+
+
+## ROUND-0010 Chief correction
+
+D10 is no longer treated as a generic “fractional bifurcation gap”.
+
+Direct prior art exists for:
+- Caputo center manifolds;
+- center-stable/stable manifolds;
+- Lyapunov–Schmidt reduction;
+- fold/transcritical/pitchfork;
+- structured attractor bifurcation.
+
+The surviving subfrontiers are:
+
+- **D10-A:** nonhyperbolic bifurcation for the singular Caputo Volterra memory-state semiflow;
+- **D10-B:** genuinely incommensurate center-manifold / normal-form theory;
+- **D10-C:** Floquet/recurrent bifurcation under infinite-past/operator conventions that admit periodicity;
+- **D10-D:** basin/attractor/threshold reorganization near strong/Double-Allee structures.
+
+A key novelty filter is now mandatory:
+
+> If changing fractional order leaves (f(x,mu)=0) unchanged, equilibrium branch existence/location is not itself fractional novelty.
+
+ROUND-0011 audits whether D10-D is substantive or collapses under comparison/stable-manifold theory.
