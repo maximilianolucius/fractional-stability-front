@@ -264,3 +264,31 @@ For each high-value result, the search was expanded by at least one of:
 | Q182 | 0013 | fractional order identifiability noise uncertainty | scientific basis for alpha uncertainty | Nazarian-Haeri-Tavazoei 2010 |
 | Q183 | 0013 | robust control continuous-time fractional systems review 2025 | crowding/control distinction | Zhang-Lu-Zhu review confirms mature robust-control field |
 | Q184 | 0013 | fractional differential inclusion strong invariance all selections Caputo | universal robust-invariance killer | viability prior found; no resolving common-survival strong-invariance theorem located |
+
+## ROUND-0014 query additions
+
+| ID | Round | Query / query family | Purpose | Outcome |
+|---|---|---|---|---|
+| Q185 | 0014 | distributed order fractional operators review variable order distributed-variable-order | operator taxonomy | Ding et al. 2021 review; CO/VO/DO/DVO distinguished |
+| Q186 | 0014 | distributed order fractional linear stability characteristic root | exact linear baseline | Saberi Najafi et al. 2011 root/inertia theory |
+| Q187 | 0014 | LTI distributed-order BIBO stability weighting function necessary sufficient | input-output exactness | Jiao-Chen-Zhong 2013 N&S cases |
+| Q188 | 0014 | distributed order abstract Volterra semigroup resolvent complete monotone | state/evolution architecture | Bazhlekova 2015; Jia-Peng-Li 2014; Li 2022 |
+| Q189 | 0014 | distributed order nonlinear Lyapunov asymptotic stability | nonlinear baseline | Fernández-Anaya et al. 2017 |
+| Q190 | 0014 | distributed order Prabhakar nonlinear asymptotic stability | operator extension | Derakhshan-Aminataei 2020 |
+| Q191 | 0014 | variable order Caputo existence continuation global Ulam Hyers | VO foundation | Sarwar 2022 |
+| Q192 | 0014 | time-varying order Caputo Lyapunov Mittag-Leffler stability comparison | modern VO stability | Lenka 2025 |
+| Q193 | 0014 | non-autonomous variable-order fractional state dependent 117235 | state-dependent VO | 2026 existence/uniqueness/uniform stability paper |
+| Q194 | 0014 | variable-order fractional semigroup process cocycle history state | global state architecture | no canonical general process/cocycle theorem located |
+| Q195 | 0014 | distributed-order fractional global attractor nonlinear | global dynamics | no general nonlinear attractor theorem located |
+| Q196 | 0014 | variable-order fractional global attractor pullback attractor | nonautonomous global dynamics | searches dominated by numerical chaotic attractors; no general theorem located |
+| Q197 | 0014 | distributed order center manifold normal form Lyapunov Schmidt bifurcation | nonhyperbolic theory | no broad reduction theorem located |
+| Q198 | 0014 | variable order center manifold normal form bifurcation | nonhyperbolic VO | model-specific/numerical work; no general theorem located |
+| Q199 | 0014 | distributed order persistence permanence extinction ecology | persistence branch | model-specific threshold/extinction papers; no abstract persistence theory found |
+| Q200 | 0014 | variable order persistence permanence extinction ecology | persistence branch | model-specific epidemiology/ecology; no abstract framework found |
+| Q201 | 0014 | variable-order predator-prey Mittag-Leffler kernel | direct ecology | Khan et al. 2021 direct VO ecology |
+| Q202 | 0014 | distributed-order predator prey memory Hopf climate | direct ecology | Baghel 2026 direct DO predator-prey |
+| Q203 | 0014 | distributed order Allee effect | direct Double-Allee killer | no direct variable/distributed-order Double-Allee theorem located |
+| Q204 | 0014 | variable order Allee effect | direct Double-Allee killer | fixed-order Allee prior dominates; no direct VO Double-Allee theorem located |
+| Q205 | 0014 | distributed order inverse weight uniqueness one point observation | identifiability | Li-Luchko-Yamamoto 2017 + later inversion uniqueness |
+| Q206 | 0014 | variable order fractional parameter learning trajectories | VO identification | Singh-Mehra-Gulyani parameter-learning framework |
+| Q207 | 0014 | distributed variable order dynamical systems state-dependent distribution | DVO maturity | review/modeling prior; no broad global dynamical-system framework found |
