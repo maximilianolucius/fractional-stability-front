@@ -188,3 +188,76 @@ No open machine-readable copy of the exact 1988–2000 Angulo dataset was locate
 
 Open herring, cod and freshwater-mussel datasets provide immediate benchmarks. Island fox and Crested Ibis are closer to multiple-component biology but require raw-data access follow-up.
 
+---
+
+## ROUND-0006 — Final mechanism-resolved novelty gate
+
+### NC-501 — Strict-unimodal threshold classification and fold
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+Once strict unimodality of (V) is assumed, the zero/two level-crossing classification from endpoint and maximum values is standard scalar analysis. The boundary (V=1, V'=0) with nonzero second derivative is standard saddle-node/fold geometry.
+
+Do not claim Candidate Theorem A as standalone novelty.
+
+### NC-502 — General mechanism-resolved double-dormancy composition
+
+**Classification:** **NO RESOLVING RESULT FOUND IN SEARCHED CORPUS**
+
+Direct threats include Berec 2007, Lan 2025, Pavlová–Berec–Boukal 2010, Rodriguez 1988, Feldman–Morris 2011 and Buddh–Krishna–Agashe 2024.
+
+No searched source gives a reusable necessary-and-sufficient theorem over separately interpretable positive component functions with:
+- explicit deletion counterfactuals;
+- singleton non-strongness;
+- joint strong-threshold creation;
+- nontrivial root-count control;
+- mechanism-specific threshold comparative statics.
+
+**Caution:** the frozen low-density wedge plus assumed joint unimodality is nearly definitional/elementary. Novelty survives only if the theorem derives substantive shape/interaction consequences from component-level hypotheses.
+
+### NC-503 — Factorization gauge as new identifiability principle
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+Yates–Evans–Chappell 2009 establishes observation-preserving model symmetries as structural-identifiability transformations. Massonis–Villaverde 2020 develops symmetry detection/breaking, and identifiable-combination theory treats composite functions of individually unidentifiable quantities.
+
+The frozen (A_i	o A_i h_i), (prod h_i=1) transformation is an immediate output/vector-field-preserving symmetry.
+
+The ecological nonparametric ((m-1))-function interpretation was not found verbatim, but is not sufficiently distinct to support a general novelty claim.
+
+### NC-504 — Minimal component-output theorem as general novelty
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+Joubert–Stigter–Molenaar 2018 explicitly formulates and computes minimal output sets guaranteeing structural identifiability.
+
+Integrated population model literature already combines abundance and demographic data streams to identify survival/reproduction processes.
+
+A new result would require realistic ecology-specific observation operators or a nontrivial functional-identifiability theorem, not direct observation (y_i=A_i(x)).
+
+### NC-505 — Implicit threshold comparative statics identity
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+The frozen derivative
+[
+da/d	heta=-partial_	hetalog V/partial_xlog V
+]
+is the implicit-function theorem. Only component-level sign/order consequences beyond the formula could contribute novelty.
+
+### NC-506 — Network/fractional invariance of product ambiguity
+
+**Classification:** **COVERED AFTER REFORMULATION**
+
+If the factor transformation leaves each local RHS exactly unchanged and known network coupling is factor-independent, the full vector field remains unchanged. A fixed Caputo left-hand-side operator likewise cannot distinguish two parameterizations with identical RHS.
+
+These are immediate corollaries once NC-503 is recognized.
+
+### NC-507 — Integrated forward + inverse program
+
+**Classification:** **CLOSE PRIOR ART — NARROW FURTHER**
+
+No single prior work was identified that couples a general component-deletion double-dormancy composition theorem to mechanism-attribution identifiability in the same ecological framework.
+
+However the inverse mathematics is standard at the abstract level. The defensible novelty core, if any, is the strengthened forward component-composition theorem; the inverse part is best positioned as a rigorous scientific consequence and observation-design layer.
+
