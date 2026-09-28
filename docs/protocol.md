@@ -6,23 +6,22 @@ The project combines:
 
 1. systematic mapping;
 2. critical mathematical survey;
-3. theorem-level frontier analysis.
+3. theorem-level frontier analysis;
+4. adversarial research-opportunity discovery.
 
-It is not designed as a bibliometric keyword-count study.
+It is not a bibliometric keyword-count study.
+
+## Authoritative scope
+
+> **Dynamical Systems and Stability Theory — Fractional Differential Equations**
+
+The domain includes spectral, nonlinear, Lyapunov/Mittag-Leffler, robust, structured, delayed, stochastic, switched, networked, bifurcation and threshold/persistence theory where fractional differential dynamics are central.
+
+A dedicated Double/Multiple Allee lens is mandatory for opportunity discovery.
 
 ## Unit of evidence
 
 The primary unit is a **mathematical result**, not merely a publication.
-
-A paper may contribute multiple theorem records. Multiple papers may encode equivalent or incrementally modified results.
-
-## Scope
-
-Core domain:
-
-> Stability theory of fractional-order dynamical systems and networks.
-
-Focal intersections include spectral theory, D-stability, diagonal stability, structured matrices, robust control, positive systems, graph-constrained dynamics, nonlinear dynamics, and ecological systems.
 
 ## Evidence hierarchy
 
@@ -33,28 +32,49 @@ Prefer:
 3. authoritative monograph/review;
 4. secondary application literature.
 
-Numerical evidence is not treated as proof of a general claim.
+Numerical evidence is not proof of a general claim.
 
 ## Extraction discipline
 
-For each important result:
+For each important result record:
 
-- record precise assumptions;
-- distinguish linear/nonlinear and local/global;
-- classify theorem strength;
-- record dimension/order restrictions;
-- identify proof technique;
-- identify sharpness/counterexamples;
-- separate explicit open problems from inferred gaps.
+- precise assumptions;
+- linear/nonlinear;
+- local/global;
+- operator/order architecture;
+- dimension;
+- theorem strength;
+- proof technique;
+- sharpness/counterexamples;
+- relation to prior theorems;
+- explicit and inferred open problems.
 
 ## Frontier-claim rule
 
-Before exhaustive verification, write:
+Before exhaustive verification use:
 
 > No result resolving X was identified in the searched corpus as of YYYY-MM-DD.
 
 Do not write “nobody has studied X” without a documented search trail.
 
+## Opportunity rule
+
+A candidate opportunity is retained only if:
+
+- the mathematical gap can be stated precisely;
+- strongest neighboring results are known;
+- equivalent formulations have been searched;
+- standard adjacent mathematics has been checked;
+- the remaining gap appears capable of supporting nontrivial future research.
+
+Survival of a novelty search does **not** authorize theorem proving in this project.
+
+## Project boundary
+
+The project ends with the state-of-art/frontier/opportunity map, plus an optional survey.
+
+Solving a selected gap belongs to a separate project.
+
 ## Protocol amendments
 
-Material protocol changes after screening begins must be recorded in `STATUS.md` or a dated amendment.
+Material changes after screening begins must be recorded in `STATUS.md` and, where appropriate, in a dated Chief decision.
