@@ -1,21 +1,15 @@
-# Survey Manuscript
+# Paper Workspace
 
-Working title:
+This directory is reserved for a possible **survey / review / state-of-the-art manuscript** arising from the completed domain map.
 
-> **Mapping the Frontier of Fractional-Order Stability Theory**
+The current project does **not** use this workspace for an original-research paper that solves a newly identified gap.
 
-Tentative structure:
+Possible future survey:
 
-1. Scope and methodology
-2. Mathematical preliminaries and terminology
-3. Taxonomy of fractional stability problems
-4. Exact and structural results
-5. Sufficient criteria and conservatism
-6. Structured matrices and robustness
-7. Network/topological stability
-8. Cross-literature bridges
-9. Open problems and frontier map
-10. Double Allee case study / research frontier, if mature
-11. Research agenda and conclusions
+> **Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier**
 
-The final structure must follow the mathematics discovered in the corpus, not be frozen prematurely.
+Drafting should begin only after the readiness conditions in:
+
+`research/SURVEY_READINESS.md`
+
+are satisfied.
