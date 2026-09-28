@@ -474,3 +474,44 @@ This is not an absence proof.
 The ambient-artifact objection is falsified, but the broad memory-landscape narrative is substantially prior art. The search-qualified residual is the fiberwise multibasin question for \(e_0:\mathcal R_\alpha\to X_{\rm phys}\), preferably in positive strong/Double-Allee systems.
 
 **Dated report:** research/web-search/2026-09-28_reachable-memory-state-subsumption.md.
+
+## 2026-09-28 — ROUND-0013 robust nonlinear threshold / order-uncertainty audit
+
+**Question.** Is robust nonlinear persistence/extinction and threshold geometry under parameter and fractional-order uncertainty already mature, a routine translation of classical robust dynamics, or a genuine fractional frontier near Double/Multiple Allee?
+
+**Search architecture.**
+- uncertain coefficient/order linear robust stability;
+- joint parameter + order robust bounds;
+- incommensurate and time-varying interval uncertainty;
+- mixed uncertainty;
+- nonlinear open-loop robust Mittag-Leffler/global stability;
+- uniform-in-order nonlinear global conclusions;
+- classical C^r robust permanence and invasion/Morse criteria;
+- Caputo viability and fractional differential inclusions;
+- memo-viability / memory-domain Nagumo conditions;
+- robust ROA and invariant-set methods;
+- uncertain/multiparameter fractional bifurcation;
+- direct fractional ecological uncertainty;
+- Double/Multiple-Allee robust threshold searches;
+- fractional-order identifiability and scientific order uncertainty.
+
+**Decisive positive findings.**
+1. Linear fractional robust stability is mature: uncertain order, structured perturbations, mixed uncertainties and incommensurate cases all have direct prior art.
+2. Nonlinear open-loop robust global equilibrium stability is nonempty and substantial in class-specific fractional neural/interval systems.
+3. Fractional viability is direct prior, including fractional differential inclusions.
+4. Memo-viability literature explicitly demonstrates that classical Nagumo transfer must account for initialization/memory; this argues against a routine inclusion-theory killer.
+5. Classical robust permanence is mature and is the strongest ecological subsumption threat.
+6. Classical robust ROA under bounded parameter uncertainty is mature; “common robust basin subset” is not intrinsically new.
+7. Multiparameter nonlinear fractional stability/critical-hypersurface analysis already exists.
+8. Direct fractional predator-prey “uncertainty” prior is mainly fuzzy initial conditions and numerical propagation, not robust threshold theory.
+
+**Critical negative searches.**
+No general theorem was identified for an uncontrolled positive Caputo family that yields common survival/extinction regions or basin-relative persistence uniformly over simultaneous parameter and fractional-order uncertainty. No corresponding Double-Allee theorem was found. No general incommensurate nonlinear persistence/extinction theorem over a box of orders was found.
+
+**Subsumption verdict.**
+Classical robust permanence, viability and robust ROA provide strong ingredients but were not found to transfer almost verbatim. Fractional viability itself requires memory-aware modifications, and strong Allee dynamics requires conditional/basin-relative persistence rather than global permanence.
+
+**Round verdict.**
+D6 survives as a search-qualified frontier only in a narrowed form: uncertainty-uniform global threshold geometry + basin-relative persistence for positive nonlinear Caputo systems, especially strong/Double Allee and incommensurate order families.
+
+**Dated report:** research/web-search/2026-09-28_robust-nonlinear-threshold-order-uncertainty.md.
