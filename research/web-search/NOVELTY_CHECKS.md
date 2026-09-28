@@ -830,3 +830,78 @@ The strongest residual package is:
 - a Double-Allee realization showing a genuine memory-dependent theorem.
 
 No general result resolving this package was identified in the searched corpus as of 2026-09-28.
+
+## ROUND-0016 — Cross-candidate adversarial comparison
+
+### NC-1601 — C1 DA-MEMORY-FIBER
+
+**Classification:** **RETAIN**
+
+New searches in observability/factor-map/partial-observation terminology did not locate a theorem resolving physically reachable current-state fibers intersecting opposite asymptotic basins in autonomous positive Caputo systems.
+
+Weak forms are prior; the exact multibasin fiber theorem survives.
+
+### NC-1602 — C2 ROBUST-THRESHOLD
+
+**Classification:** **RETAIN NARROWED**
+
+Robust viability kernels, discriminating kernels and robust capture basins are mature. Novelty cannot rest on common safe sets or robust invariance.
+
+Residual survives only when fractional order/history uncertainty, strong-Allee multibasin geometry and persistence/extinction are essential.
+
+### NC-1603 — C3 STOCH-PERSISTENCE-EXIT
+
+**Classification:** **RETAIN NARROWED**
+
+Földes-Stacy 2026 substantially subsumes the claim that stochastic persistence theory is absent in infinite dimensions.
+
+The surviving novelty burden shifts to singular stochastic-Volterra lift compatibility, basin-relative strong-Allee persistence, and rare exit/quasipotential geometry.
+
+### NC-1604 — C4 PERSISTENT-SWITCHING
+
+**Classification:** **MERGE INTO C3**
+
+Herrera-Marín 2026 directly studies persistent long-memory nonlinear Volterra systems under finite-state Markov switching. C4 no longer has enough independent novelty as a standalone candidate.
+
+Its ecological extinction/survival specialization remains valuable inside C3.
+
+### NC-1605 — C5 NONHYPERBOLIC-MEMORY
+
+**Classification:** **ELIMINATE STANDALONE**
+
+General center-manifold/stability reduction exists for integral equations with infinite delay; Volterra center-manifold theory is classical; fractional operator-specific normal forms now exist.
+
+Canonical singular Caputo/incommensurate gaps may remain but killer risk is too high relative to C1/C2/C3.
+
+### NC-1606 — C6 MECHANISM-PERSISTENCE-FILTER
+
+**Classification:** **MERGE INTO C2**
+
+Multiple component Allee interaction, double dormancy, sharp two-component stochastic thresholds and rich recent multiple-Allee bifurcation are direct prior.
+
+The remaining component-to-persistence idea is better used as structured mechanism uncertainty inside robust global threshold geometry.
+
+### NC-1607 — C7 VO-DO-GLOBAL
+
+**Classification:** **ELIMINATE FROM PREFERRED SHORTLIST**
+
+A real mathematical frontier remains, but relative to C1/C2/C3 it has weaker Double-Allee proximity, higher operator/model-artifact risk, weaker empirical distinguishability and very high literature velocity.
+
+Retain for the survey/domain map.
+
+### NC-1608 — Cross-candidate merger structure
+
+**Classification:** **THREE-FAMILY PORTFOLIO**
+
+Retain:
+1. deterministic memory-state basin geometry (C1);
+2. robust global threshold geometry with mechanism-structured uncertainty (C2+C6);
+3. stochastic memory-state persistence / rare exit / regime switching (C3+C4).
+
+C5 becomes supporting bifurcation machinery; C7 remains an independent survey frontier.
+
+### NC-1609 — Final recommendation boundary
+
+**Classification:** **NO FINAL WINNER SELECTED**
+
+ROUND-0016 reduces the portfolio but does not rank or select the final research direction. Additional targeted evidence is still required for each of the three surviving families.
