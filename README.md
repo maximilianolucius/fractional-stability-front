@@ -1,64 +1,79 @@
 # Fractional Stability Front
 
-**Mapping the frontier of stability theory for fractional-order dynamical systems.**
+**Mapping the mathematical frontier of fractional-order stability theory and turning that map into a research program.**
 
-This repository is a research workspace for a systematic, critical, and frontier-oriented survey of fractional-order stability theory. The goal is not merely to collect papers, but to reconstruct the mathematical structure of the field, identify exact and partial results, expose unresolved gaps, and convert those gaps into a rigorous research agenda.
+This repository is a research workspace for a combined:
 
-## Research objective
+- **systematic mapping study** of fractional-order stability theory;
+- **critical mathematical survey** of the strongest known results;
+- **theorem/frontier map** identifying exactness, generalization, robustness, and bridge gaps;
+- **open-problem catalogue and research agenda**;
+- focused exploration of a **Double Allee** research direction with strong applied-mathematics content and, where scientifically justified, real data.
 
-The project follows the chain
+The project is not intended to be a bibliography dump. Its unit of analysis is the **mathematical result**.
+
+## Core objective
+
+The working logic is
 
 [
-\text{literature}
-\rightarrow
-\text{taxonomy}
-\rightarrow
-\text{theorem map}
-\rightarrow
-\text{frontier}
-\rightarrow
-\text{open problems}
-\rightarrow
-\text{research program}.
+	ext{literature}
+ightarrow
+	ext{taxonomy}
+ightarrow
+	ext{theorem map}
+ightarrow
+	ext{frontier}
+ightarrow
+	ext{open problems}
+ightarrow
+	ext{research program}.
 ]
 
 The central question is:
 
-> **Which general mathematical results are still missing in fractional-order stability theory, and which of them could subsume substantial parts of the existing literature?**
+> **Which general mathematical results are still missing in fractional-order stability theory, and which missing results could explain, sharpen, unify, or subsume substantial parts of the existing literature?**
 
-The initial scope is deliberately broader than fractional D-stability. The core domain is:
+The initial scope is deliberately broader than fractional D-stability:
 
 > **Stability theory of fractional-order dynamical systems and networks**
 
-with special attention to the intersection of fractional dynamics, spectral stability, structured matrices, D-stability/diagonal stability, network topology, robustness, and mathematically structured applications.
+with particular interest in fractional dynamics, spectral stability, Matignon-type criteria, D-stability, diagonal stability, structured matrices, positive/Metzler systems, robustness, graph-structured dynamics, nonlinear stability, and ecological applications.
 
-## Research layers
+## Double Allee branch
 
-The literature is studied at four levels:
+A second mandatory branch asks whether the frontier map exposes a mathematically deep research line involving a **Double Allee effect**.
 
-1. **Applications** — model-specific stability studies and numerical demonstrations.
-2. **Methods** — Lyapunov, LMI, spectral, frequency-domain, comparison, and computational techniques.
-3. **General results** — reusable theorems valid for classes of systems.
-4. **Foundational/structural results** — exact characterizations, equivalences, invariance principles, dimension-independent criteria, and results from which many special cases follow.
+The target is not “another ecological fractional model.” A viable direction should have:
 
-Priority is given to levels 3–4.
+- defensible novelty;
+- theorem-level mathematical depth;
+- structural or unifying value;
+- potential for a strong applied-mathematics manuscript;
+- and preferably a real dataset that genuinely constrains or validates the model.
 
-## Repository map
+See [CHIEF_INITIAL_PROMPT.md](CHIEF_INITIAL_PROMPT.md) and [research/double-allee/README.md](research/double-allee/README.md).
+
+## Repository structure
 
 | Path | Purpose |
 |---|---|
-| `docs/` | Scope, research questions, protocol, taxonomy, and screening rules |
-| `corpus/` | Structured literature corpus and extraction schema |
-| `bibliography/` | Bibliographic sources and BibTeX |
-| `research/` | Theorem map, frontier map, open problems, terminology |
-| `data/` | Raw, processed, and exported research data |
-| `scripts/` | Reproducible search, cleaning, deduplication, and analysis code |
-| `paper/` | Material for the eventual survey/review manuscript |
-| `STATUS.md` | Current project stage, decisions, and next milestones |
+| `CHIEF_INITIAL_PROMPT.md` | Initialization prompt for the Chief Researcher |
+| `STATUS.md` | Current phase, decisions, milestones, and next actions |
+| `docs/` | Research questions, protocol, search strategy, taxonomy, screening rules |
+| `corpus/` | Paper-level and theorem-level structured evidence |
+| `bibliography/` | Curated references and bibliographic provenance |
+| `research/` | Theorem map, bridge map, frontier map, open problems |
+| `research/double-allee/` | Dedicated Double Allee research branch |
+| `data/raw/` | Immutable search/database exports |
+| `data/processed/` | Normalized and deduplicated data |
+| `data/exports/` | Generated tables, graphs, and manuscript-ready outputs |
+| `scripts/` | Reproducible data-cleaning and analysis tooling |
+| `paper/` | Eventual survey manuscript workspace |
 
-## Core analytical unit
+## Evidence model
 
-A paper is not treated merely as a citation. Each relevant result should be reduced to a structured mathematical record, conceptually of the form
+For an important result, extract a structured record conceptually of the form
 
 [
 P_i=(S,O,M,N,A,T,R,L),
@@ -68,64 +83,52 @@ where:
 
 - (S): system class;
 - (O): fractional operator/order structure;
-- (M): matrix or network structure;
+- (M): matrix, graph, or interaction structure;
 - (N): stability notion;
 - (A): assumptions;
-- (T): analytical technique;
-- (R): main result;
-- (L): limitations/open extensions.
+- (T): technique/proof method;
+- (R): result;
+- (L): limitations and unresolved extensions.
 
-The working data schema is documented in `corpus/README.md` and instantiated in `corpus/papers.csv`.
+A single paper may contain several important theorem records.
 
-## Frontier logic
+## Frontier categories
 
-The project distinguishes several kinds of gaps:
+The project distinguishes:
 
-- **existence gaps** — a problem appears unstudied;
-- **generalization gaps** — known only in restricted dimension, topology, operator, or matrix class;
-- **necessity gaps** — sufficient criteria exist without necessary-and-sufficient characterizations;
-- **structural gaps** — many isolated results may be manifestations of one missing general theorem;
-- **bridge gaps** — mature literatures appear mathematically connected but weakly integrated;
-- **robustness gaps** — exact deterministic results lack perturbation, uncertainty, switching, or time-varying extensions.
+- **existence gaps** — a meaningful problem appears unstudied;
+- **generalization gaps** — known only under restrictive dimensions, topology, operator, or matrix class;
+- **exactness gaps** — sufficient conditions exist without a necessary-and-sufficient characterization;
+- **structural-unification gaps** — many special cases may follow from one missing theorem;
+- **bridge gaps** — mature mathematical literatures appear connected but weakly integrated;
+- **robustness gaps** — deterministic results lack uncertainty, perturbation, switching, time variation, or stochastic extensions.
 
-A high-value research direction is one where the missing result would explain or subsume many existing special cases.
-
-## Initial research questions
-
-The first-pass questions are maintained in `docs/research-questions.md`. At a high level:
-
-- What are the dominant notions of stability in fractional-order systems?
-- Which criteria are exact, and which are only sufficient?
-- Where do dimensional restrictions remain?
-- Which matrix structures admit stronger results?
-- How do graph/network constraints alter fractional stability conditions?
-- How mature is the connection with D-stability, diagonal stability, positive systems, robust control, and qualitative matrix theory?
-- Which open problems are explicitly stated by the literature, and which emerge only after cross-comparison?
-- Which missing theorem would make the largest family of current results corollaries?
+The strongest opportunity is not necessarily the least-studied topic. It is often the problem whose solution would convert many existing results into corollaries.
 
 ## Workflow
 
-1. Define scope and research questions.
-2. Build transparent search strings and source logs.
-3. Collect and deduplicate the candidate corpus.
-4. Screen by explicit inclusion/exclusion criteria.
-5. Extract structured mathematical metadata.
-6. Build the taxonomy and theorem map.
-7. Identify contradictions, assumptions, and unresolved extensions.
-8. Construct the frontier/open-problem catalogue.
-9. Prioritize a research agenda by mathematical depth and potential generality.
-10. Draft the survey only after the knowledge map is stable.
-
-See `docs/protocol.md` and `docs/workflow.md`.
+1. Freeze scope and research questions.
+2. Register search families, databases, dates, and exact queries.
+3. Build and deduplicate a candidate corpus.
+4. Screen with explicit inclusion/exclusion rules.
+5. Extract theorem-level mathematical metadata.
+6. Build the taxonomy and theorem implication map.
+7. Audit assumptions, sharpness, contradictions, and non-comparable results.
+8. Build the frontier and open-problem catalogue.
+9. Develop a research agenda based on mathematical depth and generality.
+10. Run the Double Allee branch through the same novelty and rigor standards.
+11. Draft the survey only after the knowledge map is sufficiently stable.
 
 ## Current status
 
-Repository initialized. The immediate task is to freeze the survey protocol and build the seed corpus before drawing conclusions about the research frontier.
+Repository infrastructure is initialized. The next research phase is to freeze the review protocol and build seed corpora for:
+
+1. foundational fractional-stability theory;
+2. adjacent structured-matrix/network theory;
+3. Allee and Double Allee mathematics.
 
 See [STATUS.md](STATUS.md).
 
-## Working title
+## Working survey title
 
 **Mapping the Frontier of Fractional-Order Stability Theory**
-
-This title is provisional. The repository is intended to remain useful even if the final survey adopts a narrower title or scope.
