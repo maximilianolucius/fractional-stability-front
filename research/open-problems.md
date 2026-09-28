@@ -94,3 +94,17 @@ It does not solve them.
 **Question:** is there a general boundary-repeller/invasion/persistence framework for positive Caputo or equivalent history-state systems, and if so, does strong-Allee bistability require a basin-relative reformulation?
 
 **Terminology warning:** “fractional persistence problem” in Cresson–Szafrańska concerns preservation of dynamical properties under fractional embedding, not ecological uniform persistence.
+
+
+## OP-DA-02 — Memory-dependent basin/separatrix geometry in Double Allee systems
+
+**Evidence class:** C/D  
+**Status:** active falsification in ROUND-0011.
+
+**Question:** in strong/Double-Allee Caputo systems, which extinction-survival boundaries are invariant under fractionalization and which become genuinely memory-dependent objects?
+
+**Critical scalar test:** comparison/nonintersection theory may force the unstable equilibrium to remain the exact threshold in one-dimensional autonomous models.
+
+**Critical multidimensional test:** distinguish the basin on the constant-initial-data slice from the basin in the full history/memory state.
+
+**Integer-order benchmark:** Contreras et al. 2018, DOI 10.1002/mma.4774.
