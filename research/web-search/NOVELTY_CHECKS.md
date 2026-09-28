@@ -126,3 +126,65 @@ This result is search-dependent, not proof of absence. A dedicated inverse-probl
 **Classification:** **DIRECT PRIOR EVIDENCE FOUND**
 
 Berec–Angulo–Courchamp (2007) synthesizes multiple empirical examples. In addition, Angulo et al. (2007, DOI 10.1111/j.1523-1739.2007.00721.x) directly analyzed island-fox demographic data from 1988–2000 and reported a double component Allee effect affecting survival and the proportion of breeding females, with a resulting demographic effect and suboptimal growth below about 7 foxes/km^2. This is direct empirical support for compound component mechanisms, but it does not establish two demographic thresholds or a fractional-memory law.
+
+---
+
+## ROUND-0003 — Structured conic D-stability
+
+### NC-201 — Finite exact conic-sector D-stability for structured ecological matrices
+
+**Classification:** **OPEN ONLY FOR A SHARPLY SPECIFIED SUBCLASS**
+
+Classical exact D-stability results already cover low dimensions, tridiagonal matrices and acyclic matrices; Metzler matrices have strong Hurwitz/diagonal-stability equivalences; general conic regional D-stability already exists.
+
+No finite exact conic-sector criterion was identified for a biologically natural **cyclic, non-Metzler** class in the searched corpus.
+
+**Main novelty threat:** Berman–Hershkowitz 1984 + Kushel–Pavani 2022.
+
+---
+
+## ROUND-0004 — Double dormancy/network
+
+### NC-301 — General double-dormancy composition theorem
+
+**Classification:** **PARTIAL / CLOSE PRIOR ART**
+
+Lan 2025 directly develops rigorous threshold dynamics for a single-species model with two component Allee effects. Berec 2007 already supplies the defining two-component model and partial analytical root/stability structure. General emergent-Allee theorems also exist under stage/spatial mechanisms.
+
+No searched source gives the proposed broad necessary-and-sufficient composition theorem over separately parameterized component fitness functions with uniqueness/multiplicity and comparative statics.
+
+### NC-302 — Generic network transformation of an Allee/bistable threshold
+
+**Classification:** **CLOSE PRIOR ART; BROAD VERSION EFFECTIVELY COVERED**
+
+Stehlík–Švígler–Volek 2023 provides arbitrary-connected-graph persistence/extinction threshold theory for heterogeneous local growth including logistic/bistable reactions. Additional direct graph/metapopulation Allee prior art exists.
+
+A surviving C-DA-2 theorem must retain the **component decomposition** as an essential variable rather than collapse every node to a generic bistable reaction.
+
+---
+
+## ROUND-0005 — Data/identifiability
+
+### NC-401 — Joint component + threshold + fractional-memory identifiability from real ecological data
+
+**Classification:** **WEAKENED / NO DIRECT JOINT RESULT FOUND**
+
+No direct joint resolving result was found. But:
+- Allee model discrimination and low-density data requirements have strong empirical/statistical prior art;
+- structural identifiability for fractional systems and fractional networks already exists;
+- fractional order and delay/noise can be jointly estimated in controlled system-identification settings.
+
+The remaining opportunity is therefore not generic fractional identifiability. It is a carefully formulated **observation-design/minimal-data theorem** for component mechanisms and threshold emergence, with memory added only if separately identifiable.
+
+### NC-402 — Island fox as immediately reusable open dataset
+
+**Classification:** **NOT SUPPORTED**
+
+No open machine-readable copy of the exact 1988–2000 Angulo dataset was located after explicit repository/agency searches. NPS monitoring infrastructure exists, so data may be obtainable, but open access cannot be claimed.
+
+### NC-403 — Real-data branch overall
+
+**Classification:** **VIABLE FOR COMPONENT/THRESHOLD INFERENCE; NOT YET FOR FRACTIONAL MEMORY**
+
+Open herring, cod and freshwater-mussel datasets provide immediate benchmarks. Island fox and Crested Ibis are closer to multiple-component biology but require raw-data access follow-up.
+
