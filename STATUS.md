@@ -2,131 +2,115 @@
 
 ## Current phase
 
-**Phase 2 — Candidate convergence + final novelty gate**
+**Phase 3 — Primary direction selected; theorem proving + theorem-specific falsification**
 
-Phase 0 (protocol/pilot) and the first adversarial seed/falsification wave are complete.
+The frontier-selection stage is complete.
 
 ## Completed Chief-reviewed rounds
 
 - ROUND-0001 — fractional stability seed: ACCEPT WITH RESERVATIONS.
 - ROUND-0002 — Double Allee terminology seed: ACCEPT WITH RESERVATIONS.
-- ROUND-0003 — structured conic D-stability: ACCEPT WITH RESERVATIONS; matrix route deprioritized.
-- ROUND-0004 — double dormancy/network falsification: ACCEPT WITH RESERVATIONS; composition survives, broad network route rejected.
-- ROUND-0005 — data/identifiability: ACCEPT; identifiability merged into the leading program and fractional memory removed from the empirical core.
+- ROUND-0003 — structured conic D-stability: matrix route deprioritized.
+- ROUND-0004 — double dormancy/network falsification: composition survives; broad network route rejected.
+- ROUND-0005 — data/identifiability: real-data branch viable; fractional memory removed from empirical core.
+- ROUND-0006 — mechanism-resolved final novelty gate: **ACCEPT WITH MAJOR REVISION; PRIMARY DIRECTION SELECTED.**
 
-Decision files are under:
+## Selected primary direction
 
-research/coordination/chief-decisions/
+**Mechanism-Space Geometry of Multiple Allee Effects: Threshold-Generating Coalitions, Phase Boundaries, and Mechanism Attribution**
 
-## Main scientific eliminations
+Canonical file:
 
-The project will not pursue as primary novelty:
+research/double-allee/PRIMARY_DIRECTION.md
 
-- generic Matignon/LMI reformulations;
-- broad “fractional D-stability”;
-- Double Allee + Caputo;
-- Double Allee + incommensurate order;
-- Double Allee + discrete fractional dynamics;
-- Double Allee + continuum diffusion;
-- another planar predator–prey bifurcation paper;
-- generic “network topology changes an Allee threshold”;
-- generic fractional-system identifiability.
+## Mathematical core
 
-## Leading candidate program
+Use
 
-The project has converged on:
+\[
+F(x;\lambda)
+=
+b(x)-\sum_i\lambda_i g_i(x)
+\]
 
-**Mechanism-resolved multiple Allee effects: exact threshold composition + structural identifiability.**
+to represent baseline demographic viability minus component-mechanism penalties.
 
-Frozen mathematical formulation:
+Current theorem targets:
 
-research/double-allee/MECHANISM_RESOLVED_FRAMEWORK.md
+- **P1:** component-level shape conditions imply strict concavity in density;
+- **P2:** convex mechanism-space extinction geometry;
+- **P3:** exact radial phase window;
+- **P4:** minimal threshold-generating mechanism coalitions;
+- **P5:** extinction-boundary sensitivity;
+- **P6:** robust uncertainty extension.
 
-Core forward problem:
+Proof files:
 
-V_S(x)=B(x) product_{i in S} A_i(x)
+- research/double-allee/THEOREM_PROGRAM.md
+- research/double-allee/PROOF_LEDGER.md
 
-with component deletion A_i -> 1.
+## Current proof state
 
-Core inverse problem:
+Chief draft proofs exist for the logical cores of P1–P4.
 
-hidden factorization of
+They remain **DRAFT-PROVED**, not verified.
 
-P(x)=product_i A_i(x)
+Next proof tasks:
+1. boundary/equality cases;
+2. zero-denominator cases in P3;
+3. formal inclusion-chain theorem in P4;
+4. explicit counterexamples showing necessity of sign/shape assumptions;
+5. infinite-domain/coercive variant.
 
-from aggregate demographic trajectories.
+## Identifiability disposition
 
-Candidate theorem sequence:
+Generic factor-gauge non-identifiability and minimal-output recovery are established structural-identifiability ideas.
 
-1. exact threshold classification under shape constraints;
-2. double-dormancy composition criterion;
-3. threshold comparative statics / fold boundary;
-4. structural non-identifiability of component factorization;
-5. minimal component-observation theorem;
-6. network/fractional invariance as possible corollary/extension;
-7. empirical observation-design demonstration.
+They are no longer headline novelty.
 
-## Why the network route was narrowed
+Their role is scientific interpretation:
 
-Stehlík–Švígler–Volek 2023 and related work already provide graph persistence/extinction theory for bistable/Allee-like local dynamics.
+> observing a demographic threshold does not imply unique attribution to its component mechanisms.
 
-Network structure remains relevant only if the theorem keeps the internal component decomposition visible or addresses identifiability rather than generic persistence.
+## Empirical feasibility
 
-## Why fractional memory was narrowed
+A strong new benchmark was verified:
 
-Current empirical evidence supports threshold/component inference but does not justify making fractional order a required ecological parameter.
+**Buddh, Krishna & Agashe (2024), Tribolium castaneum**
 
-Fractional dynamics may re-enter naturally through an operator-invariance result: changing the left-hand-side operator does not resolve a hidden right-hand-side factorization if the composite mechanism is unchanged.
+- population growth decomposed into density-dependent fecundity × survival;
+- both mechanisms experimentally estimated;
+- data and R code linked through Figshare.
 
-## Data posture
-
-### Open immediately usable benchmarks
-- Atlantic herring;
-- Northwest Atlantic cod;
-- freshwater mussel fertilization.
-
-### High-value biological targets with unresolved raw access
-- island fox;
-- Crested Ibis.
-
-The theoretical paper must not depend on obtaining closed data.
+This is now the first open mechanism-resolved dataset for implementation.
 
 ## Active round
 
-### ROUND-0006 — Mechanism-resolved final novelty gate
+### ROUND-0007 — Mechanism-space geometry falsification
 
-**Priority:** P0  
 **Status:** OPEN  
-**Request:** research/coordination/chief-to-web/ROUND-0006_mechanism-resolved-final-novelty_REQUEST.md
+**Priority:** P0  
+**Purpose:** determine whether the strengthened P2–P4 results are already known in convex viability, tipping-region, reliability, weighted-threshold-game, or adjacent literature.
 
-This round searches the exact frozen formulas and adjacent:
-- demographic/life-cycle theory;
-- factorized nonlinear models;
-- structural-identifiability symmetries;
-- nonparametric product decomposition;
-- minimal-output observability;
-- integrated population models.
+Request:
 
-## PRIMARY_DIRECTION.md
+research/coordination/chief-to-web/ROUND-0007_mechanism-space-geometry_REQUEST.md
 
-Still intentionally unselected.
+This round does not reopen direction selection. It can still force theorem narrowing.
 
-It will be populated only if ROUND-0006 fails to find a theorem/program that subsumes the frozen forward + inverse formulation at comparable generality.
+## Research directions explicitly rejected as primary
 
-## Chief audit note
+- generic fractional Double Allee;
+- generic network Double Allee;
+- another special predator–prey bifurcation model;
+- broad fractional D-stability;
+- generic identifiability/gauge theory.
 
-Independent Chief web verification confirmed:
-- Berec et al. explicitly frame multiple-effect interaction as an unresolved issue and define double dormancy;
-- Lan 2025 directly studies threshold dynamics with two component Allee effects;
-- Stehlík et al. 2023 covers persistence/extinction on arbitrary connected graphs with mixed logistic/bistable local dynamics;
-- recent N-patch strong-Allee bifurcation work further weakens generic network novelty.
+## Immediate Chief agenda
 
-## Next Chief action
-
-After ROUND-0006:
-
-1. audit each subclaim separately;
-2. decide whether the novelty lies in an individual theorem or only in the integrated program;
-3. reject if the forward theorem is trivial and the inverse theorem standard;
-4. otherwise populate PRIMARY_DIRECTION.md with a precise theorem dependency graph and manuscript architecture;
-5. only then begin proof-oriented work.
+1. close P1–P4 rigorously;
+2. build sharp counterexamples;
+3. reproduce Tribolium component functions;
+4. audit ROUND-0007 when returned;
+5. promote only genuinely new statements to manuscript claims;
+6. begin paper architecture after P2–P4 survive both proof and prior-art checks.
