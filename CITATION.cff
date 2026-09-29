@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo concept DOI below."
+title: "Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier"
+authors:
+  - family-names: "Lucius"
+    given-names: "Maximiliano"
+date-released: 2026-09-29
+doi: 10.5281/zenodo.23040721
+url: "https://doi.org/10.5281/zenodo.23040721"
+repository-code: "https://github.com/maximilianolucius/fractional-stability-front"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23040721"
+    description: "Zenodo concept DOI for all versions"
+  - type: doi
+    value: "10.5281/zenodo.23040722"
+    description: "Zenodo DOI for the published version record 23040722"
+preferred-citation:
+  type: article
+  title: "Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier"
+  authors:
+    - family-names: "Lucius"
+      given-names: "Maximiliano"
+  year: 2026
+  doi: 10.5281/zenodo.23040721
