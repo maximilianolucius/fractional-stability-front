@@ -135,3 +135,15 @@ The survey is a legitimate output of this project.
 5. future theorem proving requires a separate project; optional continuation here is a survey/review.
 6. maintain Double Allee proximity as a selection criterion;
 7. only after broad coverage, recommend the most fertile gaps.
+
+
+## Review/perspective paper archival status — 2026-09-29
+
+**Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier** is publicly archived on Zenodo.
+
+- Concept DOI (all versions): `10.5281/zenodo.23040721`
+- Version DOI: `10.5281/zenodo.23040722`
+- Permanent link: https://doi.org/10.5281/zenodo.23040721
+- Published record: https://zenodo.org/records/23040722
+
+This is a public Zenodo archival publication; journal peer review/publication remains a separate status.
