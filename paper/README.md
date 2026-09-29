@@ -6,7 +6,14 @@ A first complete manuscript draft now exists for:
 
 > **Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier**
 
-**Draft status:** complete review/perspective manuscript, September 2026.
+**Archive status:** publicly published on Zenodo, September 2026.
+
+- **Concept DOI (all versions):** `10.5281/zenodo.23040721`
+- **Version DOI:** `10.5281/zenodo.23040722`
+- **Permanent link:** https://doi.org/10.5281/zenodo.23040721
+- **Published record:** https://zenodo.org/records/23040722
+
+The concept DOI is the preferred stable identifier for the work; the version DOI identifies this specific Zenodo release.
 
 The paper synthesizes the completed theorem-level cartography rather than claiming a new solved theorem. Its main contributions are:
 
@@ -29,9 +36,9 @@ The manuscript is a **review/perspective paper**.
 
 It does not claim that the recommended multibasin-fiber theorem has been proved. Proving or disproving that theorem family belongs to a separate future original-research project.
 
-## Pre-submission work still recommended
+## Journal-submission work still recommended
 
-Before targeting a specific journal:
+Zenodo publication provides a citable public archive; it does not by itself imply peer-reviewed journal publication. Before targeting a specific journal:
 
 - select the target journal and migrate to its template;
 - perform one final bibliography/metadata audit;
