@@ -158,3 +158,26 @@ See:
 - research/coordination/chief-decisions/ROUND-0017_shortlist-final-killer-audit_DECISION.md
 
 Future theorem proving based on this opportunity belongs to a separate project. This repository may still support a state-of-the-art/review paper based on the completed cartography.
+
+
+## Zenodo publication — 2026-09-29
+
+The review/perspective paper
+
+> **Dynamical Systems and Stability Theory for Fractional Differential Equations: A Theorem-Level Map of the Frontier**
+
+is publicly archived on Zenodo.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23040721.svg)](https://doi.org/10.5281/zenodo.23040721)
+
+- **Concept DOI (all versions; recommended canonical citation):** `10.5281/zenodo.23040721`
+- **Version DOI:** `10.5281/zenodo.23040722`
+- **Permanent DOI link:** https://doi.org/10.5281/zenodo.23040721
+- **Published version record:** https://zenodo.org/records/23040722
+
+The concept DOI should be preferred when linking to the work across future Zenodo versions. The version DOI identifies the specific archived version corresponding to record 23040722.
+
+See also:
+- `ZENODO.md`
+- `CITATION.cff`
+- `paper/README.md`
